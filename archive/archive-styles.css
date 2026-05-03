@@ -1,5 +1,41 @@
 /* IPIP Archive Unified Styles - Matching Main Site Aesthetic */
 
+/* Style Toggle Button */
+#style-toggle-btn {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999;
+  padding: 0.5rem 1rem;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+#style-toggle-btn:hover {
+  background-color: #1d4ed8;
+  transform: translateY(-1px);
+}
+
+#style-toggle-btn:active {
+  transform: translateY(0);
+}
+
+/* When styles are disabled */
+body.no-custom-styles #style-toggle-btn {
+  background-color: #059669;
+}
+
+body.no-custom-styles #style-toggle-btn:hover {
+  background-color: #047857;
+}
+
 /* Reset and Base Styles */
 * {
   margin: 0;
@@ -218,9 +254,19 @@ nav li {
 }
 
 /* Override old inline styles */
-body[style] {
+body[style]:not(.no-custom-styles) {
   color: #111827 !important;
   background-color: #f9fafb !important;
+}
+
+/* Disable all custom styles when toggled off */
+body.no-custom-styles *:not(#style-toggle-btn) {
+  all: revert !important;
+}
+
+body.no-custom-styles {
+  all: revert !important;
+  position: relative !important;
 }
 
 /* Legacy HTML cleanup */

@@ -37,6 +37,21 @@ function injectStylesheet(htmlPath, cssPath) {
     return false;
   }
 
+  // Add toggle button and script
+  const toggleButton = `<button id="style-toggle-btn" onclick="toggleStyles()">显示原始样式</button>`;
+  const toggleScript = `<script>
+function toggleStyles() {
+  const body = document.body;
+  const btn = document.getElementById('style-toggle-btn');
+  body.classList.toggle('no-custom-styles');
+  if (body.classList.contains('no-custom-styles')) {
+    btn.textContent = '显示现代样式';
+  } else {
+    btn.textContent = '显示原始样式';
+  }
+}
+</script>`;
+
   // Try to inject after <head> tag
   if (html.includes('<head>')) {
     html = html.replace(/<head>/i, `<head>\n${styleLink}`);
@@ -48,6 +63,13 @@ function injectStylesheet(htmlPath, cssPath) {
   // If no proper structure, add at the beginning
   else {
     html = `<head>\n${styleLink}\n</head>\n${html}`;
+  }
+
+  // Inject button and script before closing body tag, or at the end
+  if (html.includes('</body>')) {
+    html = html.replace(/<\/body>/i, `${toggleButton}\n${toggleScript}\n</body>`);
+  } else {
+    html += `\n${toggleButton}\n${toggleScript}`;
   }
 
   fs.writeFileSync(htmlPath, html, 'utf-8');
