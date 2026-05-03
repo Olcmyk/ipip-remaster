@@ -38,16 +38,16 @@ function injectStylesheet(htmlPath, cssPath) {
   }
 
   // Add toggle button and script
-  const toggleButton = `<button id="style-toggle-btn" onclick="toggleStyles()">显示原始样式</button>`;
+  const toggleButton = `<button id="style-toggle-btn" onclick="toggleStyles()">View Original</button>`;
   const toggleScript = `<script>
 function toggleStyles() {
   const body = document.body;
   const btn = document.getElementById('style-toggle-btn');
   body.classList.toggle('no-custom-styles');
   if (body.classList.contains('no-custom-styles')) {
-    btn.textContent = '显示现代样式';
+    btn.textContent = 'View Styled';
   } else {
-    btn.textContent = '显示原始样式';
+    btn.textContent = 'View Original';
   }
 }
 </script>`;
@@ -65,11 +65,22 @@ function toggleStyles() {
     html = `<head>\n${styleLink}\n</head>\n${html}`;
   }
 
-  // Inject button and script before closing body tag, or at the end
-  if (html.includes('</body>')) {
-    html = html.replace(/<\/body>/i, `${toggleButton}\n${toggleScript}\n</body>`);
+  // Inject button after first h1 tag
+  if (html.match(/<h1[^>]*>[\s\S]*?<\/h1>/i)) {
+    html = html.replace(/(<h1[^>]*>[\s\S]*?<\/h1>)/i, `$1${toggleButton}`);
+  }
+  // If no h1, inject before closing body tag
+  else if (html.includes('</body>')) {
+    html = html.replace(/<\/body>/i, `${toggleButton}\n</body>`);
   } else {
-    html += `\n${toggleButton}\n${toggleScript}`;
+    html += `\n${toggleButton}`;
+  }
+
+  // Inject script before closing body tag, or at the end
+  if (html.includes('</body>')) {
+    html = html.replace(/<\/body>/i, `${toggleScript}\n</body>`);
+  } else {
+    html += `\n${toggleScript}`;
   }
 
   fs.writeFileSync(htmlPath, html, 'utf-8');

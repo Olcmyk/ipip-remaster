@@ -2,43 +2,41 @@
 
 /* Style Toggle Button */
 #style-toggle-btn {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  z-index: 99999;
-  padding: 0.5rem 1rem;
-  background-color: #2563eb;
-  color: white;
-  border: 2px solid white;
+  display: inline-block;
+  margin-left: 1rem;
+  padding: 0.375rem 0.75rem;
+  background-color: #f3f4f6;
+  color: #4b5563;
+  border: 1px solid #d1d5db;
   border-radius: 0.375rem;
-  font-size: 0.875rem;
-  font-weight: 600;
+  font-size: 0.75rem;
+  font-weight: 500;
   cursor: pointer;
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.2);
   transition: all 0.2s ease;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  vertical-align: middle;
 }
 
 #style-toggle-btn:hover {
-  background-color: #1d4ed8;
-  transform: translateY(-2px);
-  box-shadow: 0 15px 20px -3px rgba(0, 0, 0, 0.4), 0 6px 8px -2px rgba(0, 0, 0, 0.3);
+  background-color: #e5e7eb;
+  border-color: #9ca3af;
+  color: #1f2937;
 }
 
 #style-toggle-btn:active {
-  transform: translateY(0);
+  background-color: #d1d5db;
 }
 
 /* When styles are disabled */
 body.no-custom-styles #style-toggle-btn {
-  background-color: #059669;
-  position: fixed !important;
-  z-index: 99999 !important;
-  display: block !important;
+  background-color: #d1fae5;
+  color: #065f46;
+  border-color: #6ee7b7;
 }
 
 body.no-custom-styles #style-toggle-btn:hover {
-  background-color: #047857;
+  background-color: #a7f3d0;
+  border-color: #34d399;
 }
 
 /* Reset and Base Styles */
