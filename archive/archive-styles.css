@@ -49,7 +49,7 @@ h3 {
 }
 
 /* Container */
-body > * {
+body {
   max-width: 1280px;
   margin-left: auto;
   margin-right: auto;
@@ -228,10 +228,7 @@ font {
   font-family: inherit !important;
 }
 
-/* Improve readability for long content */
-article,
-.content {
-  max-width: 65ch;
-  margin-left: auto;
-  margin-right: auto;
+/* Tables should use full width */
+table {
+  max-width: 100%;
 }
