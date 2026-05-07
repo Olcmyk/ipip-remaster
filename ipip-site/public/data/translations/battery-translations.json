@@ -1,0 +1,162 @@
+{
+  "bigfive5broad": {
+    "availableLanguages": [
+      "ar",
+      "de",
+      "el",
+      "es",
+      "fr",
+      "hr",
+      "ja",
+      "ko",
+      "pt",
+      "ru",
+      "sl"
+    ],
+    "files": {
+      "ar": "ar-bigfive5broad.json",
+      "de": "de-bigfive5broad.json",
+      "el": "el-bigfive5broad.json",
+      "es": "es-bigfive5broad.json",
+      "fr": "fr-bigfive5broad.json",
+      "hr": "hr-bigfive5broad.json",
+      "ja": "ja-bigfive5broad.json",
+      "ko": "ko-bigfive5broad.json",
+      "pt": "pt-bigfive5broad.json",
+      "ru": "ru-bigfive5broad.json",
+      "sl": "sl-bigfive5broad.json"
+    },
+    "metadata": {
+      "ar": {
+        "name": "Arabic",
+        "itemCount": 50
+      },
+      "de": {
+        "name": "German",
+        "itemCount": 105
+      },
+      "el": {
+        "name": "Greek",
+        "itemCount": 55
+      },
+      "es": {
+        "name": "Spanish",
+        "itemCount": 55
+      },
+      "fr": {
+        "name": "French",
+        "itemCount": 55
+      },
+      "hr": {
+        "name": "Croatian",
+        "itemCount": 105
+      },
+      "ja": {
+        "name": "Japanese",
+        "itemCount": 55
+      },
+      "ko": {
+        "name": "Korean",
+        "itemCount": 105
+      },
+      "pt": {
+        "name": "Portuguese",
+        "itemCount": 105
+      },
+      "ru": {
+        "name": "Russian",
+        "itemCount": 56
+      },
+      "sl": {
+        "name": "Slovenian",
+        "itemCount": 105
+      }
+    }
+  },
+  "neodomains": [
+    {
+      "languageCode": "hr",
+      "languageName": "Croatian",
+      "itemCount": 23,
+      "sourceFile": "CroatianIPIP-NEODomains.htm"
+    },
+    {
+      "languageCode": "da",
+      "languageName": "Danish",
+      "itemCount": 14,
+      "sourceFile": "DanishIPIP-NEO-120.htm"
+    },
+    {
+      "languageCode": "hu",
+      "languageName": "Hungarian",
+      "itemCount": 64,
+      "sourceFile": "HungarianIPIP-NEODomains.htm"
+    },
+    {
+      "languageCode": "ja",
+      "languageName": "Japanese",
+      "itemCount": 31,
+      "sourceFile": "Japanese100-ItemIPIP-NEODomains.htm"
+    },
+    {
+      "languageCode": "th",
+      "languageName": "Thai",
+      "itemCount": 2,
+      "sourceFile": "Thai50-itemNEO-PI-R-Domains.htm"
+    }
+  ],
+  "neofacets": [
+    {
+      "languageCode": "hr",
+      "languageName": "Croatian",
+      "itemCount": 6,
+      "sourceFile": "CroatianIPIP-NEOFacets.htm"
+    },
+    {
+      "languageCode": "et",
+      "languageName": "Estonian",
+      "itemCount": 140,
+      "sourceFile": "EstonianIPIP-NEOFacets.htm"
+    },
+    {
+      "languageCode": "et",
+      "languageName": "Estonian",
+      "itemCount": 92,
+      "sourceFile": "EstonianRevisedIPIP-NEOFacets.htm"
+    },
+    {
+      "languageCode": "ja",
+      "languageName": "Japanese",
+      "itemCount": 93,
+      "sourceFile": "JapaneseIPIP-NEOFacets.htm"
+    },
+    {
+      "languageCode": "ko",
+      "languageName": "Korean",
+      "itemCount": 109,
+      "sourceFile": "KoreanIPIP-NEO-300.htm"
+    },
+    {
+      "languageCode": "mk",
+      "languageName": "Macedonian",
+      "itemCount": 3,
+      "sourceFile": "MacedonianIPIP-NEOFacets.htm"
+    }
+  ],
+  "neo": [
+    {
+      "languageCode": "fr",
+      "languageName": "French",
+      "itemCount": 135,
+      "sourceFile": "FrenchCanadian300-Item-IPIP-NEO.htm"
+    }
+  ],
+  "7factor": [
+    {
+      "languageCode": "vi",
+      "languageName": "Vietnamese",
+      "itemCount": 18,
+      "sourceFile": "VietnameseAB5C.htm"
+    }
+  ]
+}

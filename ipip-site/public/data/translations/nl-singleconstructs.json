@@ -1,0 +1,12 @@
+{
+  "languageCode": "nl",
+  "languageName": "Dutch",
+  "batteryId": "singleconstructs",
+  "translations": {
+    "X118": "13",
+    "X176": "15",
+    "X156": "19"
+  },
+  "sourceFile": "DutchMini-IPIP.htm",
+  "itemCount": 3
+}

@@ -1,0 +1,23 @@
+{
+  "languageCode": "da",
+  "languageName": "Danish",
+  "batteryId": "neodomains",
+  "translations": {
+    "H999": "Frygter det værste.",
+    "H640": "Er ofte nede i kulkælderen",
+    "H592": "Har svært ved at indlede en samtale.",
+    "H704": "Holder andre på afstand.",
+    "X83": "Taler med mange forskellige mennesker til fester.",
+    "X14": "Har en livlig fantasi.",
+    "X238": "Nyder at fortabe mig i vilde fantasier.",
+    "X123": "Tror på betydningen af kunst.",
+    "X235": "Bryder mig ikke om at gå på kunstmuseer.",
+    "X239": "Er ikke interesseret i teoretiske diskussioner.",
+    "X218": "Ser mig selv som mest venstreorienteret.",
+    "X126": "Ser mig selv som mest højreorienteret.",
+    "X115": "Arbejder kun så meget, at jeg lige kan klare mig.",
+    "H258": "Fører mine planer ud i livet."
+  },
+  "sourceFile": "DanishIPIP-NEO-120.htm",
+  "itemCount": 14
+}

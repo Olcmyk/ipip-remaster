@@ -1,0 +1,18 @@
+{
+  "languageCode": "hu",
+  "languageName": "Hungarian",
+  "translations": {
+    "X74": "+ keyed",
+    "X265": "– keyed",
+    "X156": "– keyed",
+    "X112": "+ keyed",
+    "H1039": "– keyed",
+    "X123": "+ keyed",
+    "X228": "– keyed",
+    "H22": "+ keyed",
+    "H917": "– keyed",
+    "X87": "+ keyed"
+  },
+  "sourceFile": "HungarianIPIP-NEODomains.htm",
+  "coverage": "0.6"
+}

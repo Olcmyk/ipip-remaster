@@ -1,0 +1,15 @@
+{
+  "languageCode": "hr",
+  "languageName": "Croatian",
+  "batteryId": "neofacets",
+  "translations": {
+    "X184": "Vjerujem\nda ne postoji apsolutna istina.",
+    "X126": "Sklon\nsam glasovanju za konzervativne političke kandidate.",
+    "X20": "Smatram\nda se previše novca poreznih obveznika troši na umjetnike.",
+    "X80": "Smatram\nda su ljudi u suštini zli.",
+    "E115": "Suosjećam\ns onima kojima je gore nego meni.",
+    "E121": "Ne\nsviđaju mi se ljudi «mekog srca»."
+  },
+  "sourceFile": "CroatianIPIP-NEOFacets.htm",
+  "itemCount": 6
+}

@@ -1,0 +1,59 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import archiveCatalog from '../../../public/data/archive-catalog.json';
+
+const catalog = archiveCatalog;
+
+const categoryDescriptions: Record<string, string> = {
+  'test-batteries': 'Scoring keys and item lists for all personality test batteries',
+  'translations': 'Translated items in 30+ languages',
+  'technical': 'Technical reports, research papers, and documentation',
+  'guides': 'Scoring instructions, interpretation guides, and how-tos',
+  'reference': 'Item lists, assignment tables, and reference materials',
+  'about': 'Information about the IPIP project',
+  'other': 'Additional archive materials'
+};
+---
+
+<MainLayout title="Archive">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-2">IPIP Archive</h1>
+    <p class="text-gray-600">
+      Complete archive of the original IPIP project with {catalog.totalDocuments} documents.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {catalog.categories.map(category => {
+      const docs = catalog.byCategory[category];
+      const description = categoryDescriptions[category] || '';
+
+      return (
+        <a
+          href={`/archive/${category}`}
+          class="block bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200 p-6"
+        >
+          <h2 class="text-xl font-bold text-gray-900 mb-2 capitalize">
+            {category.replace(/-/g, ' ')}
+          </h2>
+          <p class="text-gray-600 text-sm mb-4">
+            {description}
+          </p>
+          <div class="flex items-center justify-between text-sm">
+            <span class="text-gray-500">{docs.length} documents</span>
+            <span class="text-blue-600 font-medium">Browse →</span>
+          </div>
+        </a>
+      );
+    })}
+  </div>
+
+  <div class="mt-12 bg-blue-50 border border-blue-200 rounded-lg p-6">
+    <h3 class="text-lg font-bold text-gray-900 mb-2">About the Archive</h3>
+    <p class="text-gray-700">
+      This archive contains all original content from the IPIP project (ipip.ori.org).
+      All HTML files, PDFs, and documentation have been preserved without modification.
+      The materials are organized by category for easier navigation.
+    </p>
+  </div>
+</MainLayout>

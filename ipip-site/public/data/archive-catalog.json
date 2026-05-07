@@ -1,0 +1,3530 @@
+{
+  "totalDocuments": 175,
+  "categories": [
+    "about",
+    "guides",
+    "other",
+    "reference",
+    "technical",
+    "test-batteries",
+    "translations"
+  ],
+  "byCategory": {
+    "about": [
+      {
+        "id": "historyoftheipip",
+        "title": "History Of The IPIP",
+        "category": "about",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HistoryOfTheIPIP.htm",
+        "type": "html",
+        "description": "About: History Of The IPIP",
+        "filename": "HistoryOfTheIPIP.htm",
+        "size": 16084
+      },
+      {
+        "id": "newrationale",
+        "title": "Rationale",
+        "category": "about",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newRationale.htm",
+        "type": "html",
+        "description": "About: Rationale",
+        "filename": "newRationale.htm",
+        "size": 5467
+      }
+    ],
+    "guides": [
+      {
+        "id": "creatingyouronlineassessment",
+        "title": "Creating Your Online Assessment",
+        "category": "guides",
+        "path": "/archive/ipip-mirror/ipip.ori.org/CreatingYourOnlineAssessment.htm",
+        "type": "html",
+        "description": "Guide: Creating Your Online Assessment",
+        "filename": "CreatingYourOnlineAssessment.htm",
+        "size": 2981
+      },
+      {
+        "id": "interpretingindividualipipscalescores",
+        "title": "Interpreting Individual Ipipscale Scores",
+        "category": "guides",
+        "path": "/archive/ipip-mirror/ipip.ori.org/InterpretingIndividualIPIPScaleScores.htm",
+        "type": "html",
+        "description": "Guide: Interpreting Individual Ipipscale Scores",
+        "filename": "InterpretingIndividualIPIPScaleScores.htm",
+        "size": 3925
+      },
+      {
+        "id": "psiscalesandscoring",
+        "title": "Psiscalesand Scoring",
+        "category": "guides",
+        "path": "/archive/ipip-mirror/ipip.ori.org/PSIScalesandScoring.htm",
+        "type": "html",
+        "description": "Guide: Psiscalesand Scoring",
+        "filename": "PSIScalesandScoring.htm",
+        "size": 235766
+      },
+      {
+        "id": "newscaleconstruction",
+        "title": "Scale Construction",
+        "category": "guides",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newScaleConstruction.htm",
+        "type": "html",
+        "description": "Guide: Scale Construction",
+        "filename": "newScaleConstruction.htm",
+        "size": 6427
+      },
+      {
+        "id": "newscoringinstructions",
+        "title": "Scoring Instructions",
+        "category": "guides",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newScoringInstructions.htm",
+        "type": "html",
+        "description": "Guide: Scoring Instructions",
+        "filename": "newScoringInstructions.htm",
+        "size": 2172
+      }
+    ],
+    "other": [
+      {
+        "id": "30facetneo-pi-ritems",
+        "title": "30facet NEO Pi Ritems",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/30FacetNEO-PI-RItems.htm",
+        "type": "html",
+        "description": "30facet NEO Pi Ritems",
+        "filename": "30FacetNEO-PI-RItems.htm",
+        "size": 17649
+      },
+      {
+        "id": "30facetneo-pi-ritems_maples_etal",
+        "title": "30facet NEO Pi Ritems Maples Etal",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/30FacetNEO-PI-RItems_Maples_etal.htm",
+        "type": "html",
+        "description": "30facet NEO Pi Ritems Maples Etal",
+        "filename": "30FacetNEO-PI-RItems_Maples_etal.htm",
+        "size": 19736
+      },
+      {
+        "id": "newacknowledgements",
+        "title": "Acknowledgements",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newAcknowledgements.htm",
+        "type": "html",
+        "description": "Acknowledgements",
+        "filename": "newAcknowledgements.htm",
+        "size": 929
+      },
+      {
+        "id": "newcheatwarning",
+        "title": "Cheat Warning",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newCheatWarning.htm",
+        "type": "html",
+        "description": "Cheat Warning",
+        "filename": "newCheatWarning.htm",
+        "size": 3879
+      },
+      {
+        "id": "newcitation",
+        "title": "Citation",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newCitation.htm",
+        "type": "html",
+        "description": "Citation",
+        "filename": "newCitation.htm",
+        "size": 3897
+      },
+      {
+        "id": "newconsultinghelp",
+        "title": "Consulting Help",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newConsultingHelp.htm",
+        "type": "html",
+        "description": "Consulting Help",
+        "filename": "newConsultingHelp.htm",
+        "size": 897
+      },
+      {
+        "id": "finding_scales_to_measure_particular_constructs",
+        "title": "Finding Scales To Measure Particular Constructs",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Finding_Scales_to_Measure_Particular_Constructs.htm",
+        "type": "html",
+        "description": "Finding Scales To Measure Particular Constructs",
+        "filename": "Finding_Scales_to_Measure_Particular_Constructs.htm",
+        "size": 20505
+      },
+      {
+        "id": "greek50-itembigfivefactormarkers",
+        "title": "Greek50 Item Big Five Factor Markers",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Greek50-itemBigFiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Greek50 Item Big Five Factor Markers",
+        "filename": "Greek50-itemBigFiveFactorMarkers.htm",
+        "size": 181108
+      },
+      {
+        "id": "index",
+        "title": "Index",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/index.htm",
+        "type": "html",
+        "description": "Index",
+        "filename": "index.htm",
+        "size": 8815
+      },
+      {
+        "id": "newindexofscalelabels",
+        "title": "Indexof Scale Labels",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newIndexofScaleLabels.htm",
+        "type": "html",
+        "description": "Indexof Scale Labels",
+        "filename": "newIndexofScaleLabels.htm",
+        "size": 61084
+      },
+      {
+        "id": "new_ipip-50-item-scale",
+        "title": "IPIP 50 Item Scale",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/New_IPIP-50-item-scale.htm",
+        "type": "html",
+        "description": "IPIP 50 Item Scale",
+        "filename": "New_IPIP-50-item-scale.htm",
+        "size": 50306
+      },
+      {
+        "id": "newipip-ipcsurvey",
+        "title": "IPIP Ipcsurvey",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newIPIP-IPCSurvey.htm",
+        "type": "html",
+        "description": "IPIP Ipcsurvey",
+        "filename": "newIPIP-IPCSurvey.htm",
+        "size": 119970
+      },
+      {
+        "id": "ipipimplementationsaroundtheweb",
+        "title": "Ipipimplementations Around The Web",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIPImplementationsAroundTheWeb.htm",
+        "type": "html",
+        "description": "Ipipimplementations Around The Web",
+        "filename": "IPIPImplementationsAroundTheWeb.htm",
+        "size": 13228
+      },
+      {
+        "id": "ipipneo_300fr",
+        "title": "Ipipneo 300fr",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ipipneo_300fr.htm",
+        "type": "html",
+        "description": "Ipipneo 300fr",
+        "filename": "ipipneo_300fr.htm",
+        "size": 67529
+      },
+      {
+        "id": "newmultipleconstructs",
+        "title": "Multipleconstructs",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newMultipleconstructs.htm",
+        "type": "html",
+        "description": "Multipleconstructs",
+        "filename": "newMultipleconstructs.htm",
+        "size": 23206
+      },
+      {
+        "id": "newnorms",
+        "title": "Norms",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newNorms.htm",
+        "type": "html",
+        "description": "Norms",
+        "filename": "newNorms.htm",
+        "size": 4817
+      },
+      {
+        "id": "neworaissurvey",
+        "title": "Oraissurvey",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newORAISSurvey.htm",
+        "type": "html",
+        "description": "Oraissurvey",
+        "filename": "newORAISSurvey.htm",
+        "size": 508873
+      },
+      {
+        "id": "neworvissurvey",
+        "title": "Orvissurvey",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newORVISSurvey.htm",
+        "type": "html",
+        "description": "Orvissurvey",
+        "filename": "newORVISSurvey.htm",
+        "size": 224347
+      },
+      {
+        "id": "otjihereroagreeableness",
+        "title": "Otjiherero Agreeableness",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/OtjihereroAgreeableness.htm",
+        "type": "html",
+        "description": "Otjiherero Agreeableness",
+        "filename": "OtjihereroAgreeableness.htm",
+        "size": 21298
+      },
+      {
+        "id": "otjihererominiipip",
+        "title": "Otjiherero Mini IPIP",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/OtjihereroMiniIPIP.htm",
+        "type": "html",
+        "description": "Otjiherero Mini IPIP",
+        "filename": "OtjihereroMiniIPIP.htm",
+        "size": 9255
+      },
+      {
+        "id": "newpermission",
+        "title": "Permission",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newPermission.htm",
+        "type": "html",
+        "description": "Permission",
+        "filename": "newPermission.htm",
+        "size": 1046
+      },
+      {
+        "id": "polishmini-ipip",
+        "title": "Polish Mini IPIP",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/PolishMini-IPIP.htm",
+        "type": "html",
+        "description": "Polish Mini IPIP",
+        "filename": "PolishMini-IPIP.htm",
+        "size": 93664
+      },
+      {
+        "id": "newpublications",
+        "title": "Publications",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newPublications.htm",
+        "type": "html",
+        "description": "Publications",
+        "filename": "newPublications.htm",
+        "size": 810534
+      },
+      {
+        "id": "reliabilityvalidity",
+        "title": "Reliability Validity",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ReliabilityValidity.htm",
+        "type": "html",
+        "description": "Reliability Validity",
+        "filename": "ReliabilityValidity.htm",
+        "size": 2204
+      },
+      {
+        "id": "newresearchopportunities",
+        "title": "Research Opportunities",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newResearchOpportunities.htm",
+        "type": "html",
+        "description": "Research Opportunities",
+        "filename": "newResearchOpportunities.htm",
+        "size": 2132
+      },
+      {
+        "id": "romanian2504items",
+        "title": "Romanian2504items",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Romanian2504Items.htm",
+        "type": "html",
+        "description": "Romanian2504items",
+        "filename": "Romanian2504Items.htm",
+        "size": 2034548
+      },
+      {
+        "id": "newsingleconstructs",
+        "title": "Single Constructs",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newSingleConstructs.htm",
+        "type": "html",
+        "description": "Single Constructs",
+        "filename": "newSingleConstructs.htm",
+        "size": 26276
+      },
+      {
+        "id": "swedish1955items",
+        "title": "Swedish1955items",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Swedish1955Items.htm",
+        "type": "html",
+        "description": "Swedish1955items",
+        "filename": "Swedish1955Items.htm",
+        "size": 875942
+      },
+      {
+        "id": "third-person-items",
+        "title": "Third Person Items",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Third-Person-Items.htm",
+        "type": "html",
+        "description": "Third Person Items",
+        "filename": "Third-Person-Items.htm",
+        "size": 2851
+      },
+      {
+        "id": "newvalidity",
+        "title": "Validity",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newValidity.htm",
+        "type": "html",
+        "description": "Validity",
+        "filename": "newValidity.htm",
+        "size": 4867
+      },
+      {
+        "id": "newwilling_to_help",
+        "title": "Willing To Help",
+        "category": "other",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newWilling_to_Help.htm",
+        "type": "html",
+        "description": "Willing To Help",
+        "filename": "newWilling_to_Help.htm",
+        "size": 5440
+      }
+    ],
+    "reference": [
+      {
+        "id": "alphabeticalitemlist",
+        "title": "Alphabetical Item List",
+        "category": "reference",
+        "path": "/archive/ipip-mirror/ipip.ori.org/AlphabeticalItemList.htm",
+        "type": "html",
+        "description": "Reference material: Alphabetical Item List",
+        "filename": "AlphabeticalItemList.htm",
+        "size": 849217
+      },
+      {
+        "id": "itemassignmenttable",
+        "title": "Item Assignment Table",
+        "category": "reference",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ItemAssignmentTable.htm",
+        "type": "html",
+        "description": "Reference material: Item Assignment Table",
+        "filename": "ItemAssignmentTable.htm",
+        "size": 3654
+      },
+      {
+        "id": "tedoneitemassignmenttable30apr21",
+        "title": "Tedone Item Assignment Table30apr21",
+        "category": "reference",
+        "path": "/archive/ipip-mirror/ipip.ori.org/TedoneItemAssignmentTable30APR21.xlsx",
+        "type": "document",
+        "description": "Reference material: Tedone Item Assignment Table30apr21",
+        "filename": "TedoneItemAssignmentTable30APR21.xlsx",
+        "size": 143847
+      }
+    ],
+    "technical": [
+      {
+        "id": "a broad-bandwidth inventory",
+        "title": "A Broad Bandwidth Inventory",
+        "category": "technical",
+        "path": "/archive/ipip-mirror/ipip.ori.org/A broad-bandwidth inventory.pdf",
+        "type": "pdf",
+        "description": "Technical documentation: A Broad Bandwidth Inventory",
+        "filename": "A broad-bandwidth inventory.pdf",
+        "size": 1293922
+      },
+      {
+        "id": "escs_technicalreport_january2016",
+        "title": "Escs Technical Report January2016",
+        "category": "technical",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ESCS_TechnicalReport_January2016.pdf",
+        "type": "pdf",
+        "description": "Technical documentation: Escs Technical Report January2016",
+        "filename": "ESCS_TechnicalReport_January2016.pdf",
+        "size": 327211
+      },
+      {
+        "id": "goldberg_etal_2006_ipip_jrp",
+        "title": "Goldberg Etal 2006 IPIP Jrp",
+        "category": "technical",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Goldberg_etal_2006_IPIP_JRP.pdf",
+        "type": "pdf",
+        "description": "Technical documentation: Goldberg Etal 2006 IPIP Jrp",
+        "filename": "Goldberg_etal_2006_IPIP_JRP.pdf",
+        "size": 219579
+      },
+      {
+        "id": "mini ipip20220704",
+        "title": "Mini Ipip20220704",
+        "category": "technical",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Mini IPIP20220704.pdf",
+        "type": "pdf",
+        "description": "Technical documentation: Mini Ipip20220704",
+        "filename": "Mini IPIP20220704.pdf",
+        "size": 435150
+      },
+      {
+        "id": "ori_technicalreport_escs_mar08",
+        "title": "Ori Technical Report Escs Mar08",
+        "category": "technical",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ORI_TechnicalReport_ESCS_Mar08.pdf",
+        "type": "pdf",
+        "description": "Technical documentation: Ori Technical Report Escs Mar08",
+        "filename": "ORI_TechnicalReport_ESCS_Mar08.pdf",
+        "size": 76061
+      },
+      {
+        "id": "psimanualseptember2018",
+        "title": "Psimanual September2018",
+        "category": "technical",
+        "path": "/archive/ipip-mirror/ipip.ori.org/PSIManualSeptember2018.pdf",
+        "type": "pdf",
+        "description": "Technical documentation: Psimanual September2018",
+        "filename": "PSIManualSeptember2018.pdf",
+        "size": 290320
+      }
+    ],
+    "test-batteries": [
+      {
+        "id": "new16pfkey",
+        "title": "16pfscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/new16PFKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for 16pfscoring Key",
+        "filename": "new16PFKey.htm",
+        "size": 30656
+      },
+      {
+        "id": "new16pftable",
+        "title": "16pftable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/new16PFTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for 16pftable",
+        "filename": "new16PFTable.htm",
+        "size": 13488
+      },
+      {
+        "id": "new6fpqkey",
+        "title": "6fpqscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/new6FPQKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for 6fpqscoring Key",
+        "filename": "new6FPQKey.htm",
+        "size": 45280
+      },
+      {
+        "id": "new6fpqtable",
+        "title": "6fpqtable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/new6FPQTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for 6fpqtable",
+        "filename": "new6FPQTable.htm",
+        "size": 100229
+      },
+      {
+        "id": "new7factorkey",
+        "title": "7factor Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/new7FactorKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for 7factor Scoring Key",
+        "filename": "new7FactorKey.htm",
+        "size": 13436
+      },
+      {
+        "id": "new7factortable",
+        "title": "7factor Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/new7FactorTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for 7factor Table",
+        "filename": "new7FactorTable.htm",
+        "size": 50239
+      },
+      {
+        "id": "newab5ckey",
+        "title": "Ab5cscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newAB5CKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Ab5cscoring Key",
+        "filename": "newAB5CKey.htm",
+        "size": 83747
+      },
+      {
+        "id": "newab5ctable",
+        "title": "Ab5ctable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newAB5CTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Ab5ctable",
+        "filename": "newAB5CTable.htm",
+        "size": 133238
+      },
+      {
+        "id": "ambicomparisontable",
+        "title": "Ambicomparison Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/AMBIComparisonTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Ambicomparison Table",
+        "filename": "AMBIComparisonTable.htm",
+        "size": 6270
+      },
+      {
+        "id": "ambiscoringkeys",
+        "title": "Ambiscoring Keys",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/AMBIScoringKeys.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Ambiscoring Keys",
+        "filename": "AMBIScoringKeys.htm",
+        "size": 602431
+      },
+      {
+        "id": "bfaskeys",
+        "title": "Bfaskeys",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/BFASKeys.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Bfaskeys",
+        "filename": "BFASKeys.htm",
+        "size": 57669
+      },
+      {
+        "id": "bfastable",
+        "title": "Bfastable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/BFASTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Bfastable",
+        "filename": "BFASTable.htm",
+        "size": 52267
+      },
+      {
+        "id": "newbigfive5broadkey",
+        "title": "Big Five5broad Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newBigFive5broadKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Big Five5broad Scoring Key",
+        "filename": "newBigFive5broadKey.htm",
+        "size": 18088
+      },
+      {
+        "id": "newbigfive5broadtable",
+        "title": "Big Five5broad Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newBigFive5broadTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Big Five5broad Table",
+        "filename": "newBigFive5broadTable.htm",
+        "size": 63432
+      },
+      {
+        "id": "newbis_baskey",
+        "title": "Bis Basscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newBIS_BASkey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Bis Basscoring Key",
+        "filename": "newBIS_BASkey.htm",
+        "size": 10333
+      },
+      {
+        "id": "newbis_bastable",
+        "title": "Bis Bastable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newBIS_BAStable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Bis Bastable",
+        "filename": "newBIS_BAStable.htm",
+        "size": 43802
+      },
+      {
+        "id": "newcat-pd-sfv1.1comparisontable",
+        "title": "Cat Pd Sfv1.1comparison Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newCAT-PD-SFv1.1ComparisonTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Cat Pd Sfv1.1comparison Table",
+        "filename": "newCAT-PD-SFv1.1ComparisonTable.htm",
+        "size": 15100
+      },
+      {
+        "id": "newcat-pd-sfv1.1keys",
+        "title": "Cat Pd Sfv1.1keys",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newCAT-PD-SFv1.1Keys.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Cat Pd Sfv1.1keys",
+        "filename": "newCAT-PD-SFv1.1Keys.htm",
+        "size": 258085
+      },
+      {
+        "id": "newcpikey",
+        "title": "Cpiscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newCPIKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Cpiscoring Key",
+        "filename": "newCPIKey.htm",
+        "size": 57219
+      },
+      {
+        "id": "newcpitable",
+        "title": "Cpitable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newCPITable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Cpitable",
+        "filename": "newCPITable.htm",
+        "size": 107990
+      },
+      {
+        "id": "newemotionalintelligencekey",
+        "title": "Emotional Intelligence Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newEmotionalIntelligenceKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Emotional Intelligence Scoring Key",
+        "filename": "newEmotionalIntelligenceKey.htm",
+        "size": 14439
+      },
+      {
+        "id": "newemotionalintelligencetable",
+        "title": "Emotional Intelligence Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newEmotionalIntelligenceTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Emotional Intelligence Table",
+        "filename": "newEmotionalIntelligenceTable.htm",
+        "size": 3435
+      },
+      {
+        "id": "newhexaco_pi_key",
+        "title": "Hexaco Pi Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newHEXACO_PI_key.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Hexaco Pi Scoring Key",
+        "filename": "newHEXACO_PI_key.htm",
+        "size": 148747
+      },
+      {
+        "id": "newhexaco_pi_table",
+        "title": "Hexaco Pi Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newHEXACO_PI_table.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Hexaco Pi Table",
+        "filename": "newHEXACO_PI_table.htm",
+        "size": 22895
+      },
+      {
+        "id": "newhpikeys",
+        "title": "Hpikeys",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newHPIKeys.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Hpikeys",
+        "filename": "newHPIKeys.htm",
+        "size": 74116
+      },
+      {
+        "id": "newhpitable",
+        "title": "Hpitable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newHPITable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Hpitable",
+        "filename": "newHPITable.htm",
+        "size": 219018
+      },
+      {
+        "id": "newipip-ipcscoringkey",
+        "title": "IPIP Ipcscoring Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newIPIP-IPCScoringKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for IPIP Ipcscoring Scoring Key",
+        "filename": "newIPIP-IPCScoringKey.htm",
+        "size": 74641
+      },
+      {
+        "id": "ipip-neo-60comparisontable",
+        "title": "IPIP NEO 60comparison Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-NEO-60ComparisonTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for IPIP NEO 60comparison Table",
+        "filename": "IPIP-NEO-60ComparisonTable.htm",
+        "size": 50918
+      },
+      {
+        "id": "ipip-neo-60scoringkeys",
+        "title": "IPIP NEO 60scoring Keys",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-NEO-60ScoringKeys.htm",
+        "type": "html",
+        "description": "Scoring key and item list for IPIP NEO 60scoring Keys",
+        "filename": "IPIP-NEO-60ScoringKeys.htm",
+        "size": 15957
+      },
+      {
+        "id": "ipip-via-r-core-strengths_key",
+        "title": "IPIP VIA R Core Strengths Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R-core-strengths_Key.html",
+        "type": "html",
+        "description": "Scoring key and item list for IPIP VIA R Core Strengths Scoring Key",
+        "filename": "IPIP-VIA-R-core-strengths_Key.html",
+        "size": 59108
+      },
+      {
+        "id": "ipip-via-r-core-strengths_table",
+        "title": "IPIP VIA R Core Strengths Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R-core-strengths_Table.html",
+        "type": "html",
+        "description": "Scoring key and item list for IPIP VIA R Core Strengths Table",
+        "filename": "IPIP-VIA-R-core-strengths_Table.html",
+        "size": 51946
+      },
+      {
+        "id": "ipip-via-r_key",
+        "title": "IPIP VIA R Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R_Key.html",
+        "type": "html",
+        "description": "Scoring key and item list for IPIP VIA R Scoring Key",
+        "filename": "IPIP-VIA-R_Key.html",
+        "size": 132809
+      },
+      {
+        "id": "ipip-via-r_table",
+        "title": "IPIP VIA R Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R_Table.html",
+        "type": "html",
+        "description": "Scoring key and item list for IPIP VIA R Table",
+        "filename": "IPIP-VIA-R_Table.html",
+        "size": 92756
+      },
+      {
+        "id": "ipip300-120comparisontable",
+        "title": "Ipip300 120comparison Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP300-120ComparisonTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Ipip300 120comparison Table",
+        "filename": "IPIP300-120ComparisonTable.htm",
+        "size": 366806
+      },
+      {
+        "id": "ipip300-120comparisontable_maples_etal",
+        "title": "Ipip300 120comparison Table Maples Etal",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IPIP300-120ComparisonTable_Maples_etal.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Ipip300 120comparison Table Maples Etal",
+        "filename": "IPIP300-120ComparisonTable_Maples_etal.htm",
+        "size": 363552
+      },
+      {
+        "id": "newjpi-rkey",
+        "title": "Jpi Rscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newJPI-RKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Jpi Rscoring Key",
+        "filename": "newJPI-RKey.htm",
+        "size": 28182
+      },
+      {
+        "id": "newjpi-rtable",
+        "title": "Jpi Rtable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newJPI-RTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Jpi Rtable",
+        "filename": "newJPI-RTable.htm",
+        "size": 76927
+      },
+      {
+        "id": "miniipip6key",
+        "title": "Mini Ipip6scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIP6Key.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Mini Ipip6scoring Key",
+        "filename": "MiniIPIP6Key.htm",
+        "size": 10649
+      },
+      {
+        "id": "miniipip6table",
+        "title": "Mini Ipip6table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIP6Table.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Mini Ipip6table",
+        "filename": "MiniIPIP6Table.htm",
+        "size": 15251
+      },
+      {
+        "id": "miniipipkey",
+        "title": "Mini Ipipscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIPKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Mini Ipipscoring Key",
+        "filename": "MiniIPIPKey.htm",
+        "size": 7639
+      },
+      {
+        "id": "miniipiptable",
+        "title": "Mini Ipiptable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIPTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Mini Ipiptable",
+        "filename": "MiniIPIPTable.htm",
+        "size": 15109
+      },
+      {
+        "id": "newmpqkey",
+        "title": "Mpqscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newMPQKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Mpqscoring Key",
+        "filename": "newMPQKey.htm",
+        "size": 24216
+      },
+      {
+        "id": "newmpqtable",
+        "title": "Mpqtable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newMPQTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Mpqtable",
+        "filename": "newMPQTable.htm",
+        "size": 69216
+      },
+      {
+        "id": "newneo_domainstable",
+        "title": "NEO Domains Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newNEO_DomainsTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for NEO Domains Table",
+        "filename": "newNEO_DomainsTable.htm",
+        "size": 38401
+      },
+      {
+        "id": "newneo_facetstable",
+        "title": "NEO Facets Table",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newNEO_FacetsTable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for NEO Facets Table",
+        "filename": "newNEO_FacetsTable.htm",
+        "size": 193376
+      },
+      {
+        "id": "newneodomainskey",
+        "title": "Neodomains Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newNEODomainsKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Neodomains Scoring Key",
+        "filename": "newNEODomainsKey.htm",
+        "size": 25317
+      },
+      {
+        "id": "newneofacetskey",
+        "title": "Neofacets Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newNEOFacetsKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Neofacets Scoring Key",
+        "filename": "newNEOFacetsKey.htm",
+        "size": 51708
+      },
+      {
+        "id": "newneokey",
+        "title": "Neoscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newNEOKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Neoscoring Key",
+        "filename": "newNEOKey.htm",
+        "size": 76339
+      },
+      {
+        "id": "neworaiskey",
+        "title": "Oraisscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newORAISKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Oraisscoring Key",
+        "filename": "newORAISKey.htm",
+        "size": 200512
+      },
+      {
+        "id": "neworviskey",
+        "title": "Orvisscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newORVISKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Orvisscoring Key",
+        "filename": "newORVISKey.htm",
+        "size": 109348
+      },
+      {
+        "id": "raschviakey",
+        "title": "Rasch Viascoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/RaschVIAKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Rasch Viascoring Key",
+        "filename": "RaschVIAKey.htm",
+        "size": 355872
+      },
+      {
+        "id": "raschviatable",
+        "title": "Rasch Viatable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/RaschVIATable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Rasch Viatable",
+        "filename": "RaschVIATable.htm",
+        "size": 65013
+      },
+      {
+        "id": "newsingleconstructskey",
+        "title": "Single Constructs Scoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newSingleConstructsKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Single Constructs Scoring Key",
+        "filename": "newSingleConstructsKey.htm",
+        "size": 68319
+      },
+      {
+        "id": "newtcikey",
+        "title": "Tciscoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newTCIKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Tciscoring Key",
+        "filename": "newTCIKey.htm",
+        "size": 52912
+      },
+      {
+        "id": "newtcitable",
+        "title": "Tcitable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newTCITable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Tcitable",
+        "filename": "newTCITable.htm",
+        "size": 131522
+      },
+      {
+        "id": "viakeys-explanation",
+        "title": "Viakeys Explanation",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/VIAkeys-explanation.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Viakeys Explanation",
+        "filename": "VIAkeys-explanation.htm",
+        "size": 2654
+      },
+      {
+        "id": "newviakey",
+        "title": "Viascoring Key",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newVIAKey.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Viascoring Key",
+        "filename": "newVIAKey.htm",
+        "size": 114463
+      },
+      {
+        "id": "newviatable",
+        "title": "Viatable",
+        "category": "test-batteries",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newVIATable.htm",
+        "type": "html",
+        "description": "Scoring key and item list for Viatable",
+        "filename": "newVIATable.htm",
+        "size": 55015
+      }
+    ],
+    "translations": [
+      {
+        "id": "arabicbigfivefactormarkers",
+        "title": "Arabic Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ArabicBigFiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Arabic Big Five Factor Markers",
+        "filename": "ArabicBigFiveFactorMarkers.htm",
+        "size": 104452
+      },
+      {
+        "id": "arabicbigfivefactormarkers2",
+        "title": "Arabic Big Five Factor Markers2",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ArabicBigFiveFactorMarkers2.htm",
+        "type": "html",
+        "description": "Translated items for Arabic Big Five Factor Markers2",
+        "filename": "ArabicBigFiveFactorMarkers2.htm",
+        "size": 29017
+      },
+      {
+        "id": "armenianipip-neo-120",
+        "title": "Armenian IPIP NEO 120",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ArmenianIPIP-NEO-120.htm",
+        "type": "html",
+        "description": "Translated items for Armenian IPIP NEO 120",
+        "filename": "ArmenianIPIP-NEO-120.htm",
+        "size": 57869
+      },
+      {
+        "id": "chineseab5cfactormarkers",
+        "title": "Chinese Ab5cfactor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ChineseAB5CFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Chinese Ab5cfactor Markers",
+        "filename": "ChineseAB5CFactorMarkers.htm",
+        "size": 79365
+      },
+      {
+        "id": "chineseab5ctoughness",
+        "title": "Chinese Ab5ctoughness",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ChineseAB5CToughness.htm",
+        "type": "html",
+        "description": "Translated items for Chinese Ab5ctoughness",
+        "filename": "ChineseAB5CToughness.htm",
+        "size": 6184
+      },
+      {
+        "id": "chineseipip-120norms",
+        "title": "Chinese IPIP 120norms",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ChineseIPIP-120norms.htm",
+        "type": "html",
+        "description": "Translated items for Chinese IPIP 120norms",
+        "filename": "ChineseIPIP-120norms.htm",
+        "size": 70105
+      },
+      {
+        "id": "chineseipip-120reliability",
+        "title": "Chinese IPIP 120reliability",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ChineseIPIP-120reliability.htm",
+        "type": "html",
+        "description": "Translated items for Chinese IPIP 120reliability",
+        "filename": "ChineseIPIP-120reliability.htm",
+        "size": 307632
+      },
+      {
+        "id": "croatianipip-neodomains",
+        "title": "Croatian IPIP Neodomains",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/CroatianIPIP-NEODomains.htm",
+        "type": "html",
+        "description": "Translated items for Croatian IPIP Neodomains",
+        "filename": "CroatianIPIP-NEODomains.htm",
+        "size": 40130
+      },
+      {
+        "id": "croatianipip-neofacets",
+        "title": "Croatian IPIP Neofacets",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/CroatianIPIP-NEOFacets.htm",
+        "type": "html",
+        "description": "Translated items for Croatian IPIP Neofacets",
+        "filename": "CroatianIPIP-NEOFacets.htm",
+        "size": 167543
+      },
+      {
+        "id": "croatian100-itembigfivefactormarkers-peerassessment",
+        "title": "Croatian100 Item Big Five Factor Markers Peer Assessment",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Croatian100-itemBigFiveFactorMarkers-PeerAssessment.htm",
+        "type": "html",
+        "description": "Translated items for Croatian100 Item Big Five Factor Markers Peer Assessment",
+        "filename": "Croatian100-itemBigFiveFactorMarkers-PeerAssessment.htm",
+        "size": 371480
+      },
+      {
+        "id": "croatian100-itembigfivefactormarkers-self-report",
+        "title": "Croatian100 Item Big Five Factor Markers Self Report",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Croatian100-itemBigFiveFactorMarkers-Self-Report.htm",
+        "type": "html",
+        "description": "Translated items for Croatian100 Item Big Five Factor Markers Self Report",
+        "filename": "Croatian100-itemBigFiveFactorMarkers-Self-Report.htm",
+        "size": 368448
+      },
+      {
+        "id": "croatian50-itembigfivefactormarkers-adolescents",
+        "title": "Croatian50 Item Big Five Factor Markers Adolescents",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Adolescents.htm",
+        "type": "html",
+        "description": "Translated items for Croatian50 Item Big Five Factor Markers Adolescents",
+        "filename": "Croatian50-itemBigFiveFactorMarkers-Adolescents.htm",
+        "size": 230967
+      },
+      {
+        "id": "croatian50-itembigfivefactormarkers-parental-assessment",
+        "title": "Croatian50 Item Big Five Factor Markers Parental Assessment",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Parental-Assessment.htm",
+        "type": "html",
+        "description": "Translated items for Croatian50 Item Big Five Factor Markers Parental Assessment",
+        "filename": "Croatian50-itemBigFiveFactorMarkers-Parental-Assessment.htm",
+        "size": 176764
+      },
+      {
+        "id": "croatian50-itembigfivefactormarkers-peer-assessment",
+        "title": "Croatian50 Item Big Five Factor Markers Peer Assessment",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Peer-Assessment.htm",
+        "type": "html",
+        "description": "Translated items for Croatian50 Item Big Five Factor Markers Peer Assessment",
+        "filename": "Croatian50-itemBigFiveFactorMarkers-Peer-Assessment.htm",
+        "size": 172497
+      },
+      {
+        "id": "croatian50-itembigfivefactormarkers-self-report",
+        "title": "Croatian50 Item Big Five Factor Markers Self Report",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Self-Report.htm",
+        "type": "html",
+        "description": "Translated items for Croatian50 Item Big Five Factor Markers Self Report",
+        "filename": "Croatian50-itemBigFiveFactorMarkers-Self-Report.htm",
+        "size": 184282
+      },
+      {
+        "id": "croatian50-itemneo-pi-r-domains",
+        "title": "Croatian50 Item NEO Pi R Domains",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemNEO-PI-R-Domains.htm",
+        "type": "html",
+        "description": "Translated items for Croatian50 Item NEO Pi R Domains",
+        "filename": "Croatian50-itemNEO-PI-R-Domains.htm",
+        "size": 133873
+      },
+      {
+        "id": "danishipip-neo-120",
+        "title": "Danish IPIP NEO 120",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/DanishIPIP-NEO-120.htm",
+        "type": "html",
+        "description": "Translated items for Danish IPIP NEO 120",
+        "filename": "DanishIPIP-NEO-120.htm",
+        "size": 34191
+      },
+      {
+        "id": "dutchipip-neo-120",
+        "title": "Dutch IPIP NEO 120",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/DutchIPIP-NEO-120.htm",
+        "type": "html",
+        "description": "Translated items for Dutch IPIP NEO 120",
+        "filename": "DutchIPIP-NEO-120.htm",
+        "size": 24682
+      },
+      {
+        "id": "dutchmini-ipip",
+        "title": "Dutch Mini IPIP",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/DutchMini-IPIP.htm",
+        "type": "html",
+        "description": "Translated items for Dutch Mini IPIP",
+        "filename": "DutchMini-IPIP.htm",
+        "size": 6134
+      },
+      {
+        "id": "estonianipip-neofacets",
+        "title": "Estonian IPIP Neofacets",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/EstonianIPIP-NEOFacets.htm",
+        "type": "html",
+        "description": "Translated items for Estonian IPIP Neofacets",
+        "filename": "EstonianIPIP-NEOFacets.htm",
+        "size": 513062
+      },
+      {
+        "id": "estonianrevisedipip-neofacets",
+        "title": "Estonian Revised IPIP Neofacets",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/EstonianRevisedIPIP-NEOFacets.htm",
+        "type": "html",
+        "description": "Translated items for Estonian Revised IPIP Neofacets",
+        "filename": "EstonianRevisedIPIP-NEOFacets.htm",
+        "size": 314555
+      },
+      {
+        "id": "farsibfas",
+        "title": "Farsi Bfas",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/FarsiBFAS.htm",
+        "type": "html",
+        "description": "Translated items for Farsi Bfas",
+        "filename": "FarsiBFAS.htm",
+        "size": 36905
+      },
+      {
+        "id": "final arabic ipip 50 items_2018-1",
+        "title": "Final Arabic IPIP 50 Items 2018 1",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Final Arabic IPIP 50 items_2018-1.docx",
+        "type": "document",
+        "description": "Translated items for Final Arabic IPIP 50 Items 2018 1",
+        "filename": "Final Arabic IPIP 50 items_2018-1.docx",
+        "size": 31788
+      },
+      {
+        "id": "frenchcanadian300-item-ipip-neo",
+        "title": "French Canadian300 Item IPIP NEO",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/FrenchCanadian300-Item-IPIP-NEO.htm",
+        "type": "html",
+        "description": "Translated items for French Canadian300 Item IPIP NEO",
+        "filename": "FrenchCanadian300-Item-IPIP-NEO.htm",
+        "size": 81429
+      },
+      {
+        "id": "french50-itembigfivefactormarkers&conservatism",
+        "title": "French50 Item Big Five Factor Markers&conservatism",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/French50-itemBigFiveFactorMarkers&Conservatism.htm",
+        "type": "html",
+        "description": "Translated items for French50 Item Big Five Factor Markers&conservatism",
+        "filename": "French50-itemBigFiveFactorMarkers&Conservatism.htm",
+        "size": 28704
+      },
+      {
+        "id": "germanorvis",
+        "title": "German Orvis",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/GermanORVIS.htm",
+        "type": "html",
+        "description": "Translated items for German Orvis",
+        "filename": "GermanORVIS.htm",
+        "size": 31180
+      },
+      {
+        "id": "german100-itembig-fivefactormarkers",
+        "title": "German100 Item Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/German100-ItemBig-FiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for German100 Item Big Five Factor Markers",
+        "filename": "German100-ItemBig-FiveFactorMarkers.htm",
+        "size": 37988
+      },
+      {
+        "id": "german50-itembigfivefactormarkers",
+        "title": "German50 Item Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/German50-itemBigFiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for German50 Item Big Five Factor Markers",
+        "filename": "German50-itemBigFiveFactorMarkers.htm",
+        "size": 28898
+      },
+      {
+        "id": "hebrewipip-neofacets",
+        "title": "Hebrew IPIP Neofacets",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HebrewIPIP-NEOFacets.htm",
+        "type": "html",
+        "description": "Translated items for Hebrew IPIP Neofacets",
+        "filename": "HebrewIPIP-NEOFacets.htm",
+        "size": 153074
+      },
+      {
+        "id": "hungarianactivity",
+        "title": "Hungarian Activity",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianActivity.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Activity",
+        "filename": "HungarianActivity.htm",
+        "size": 70366
+      },
+      {
+        "id": "hungarianattitudes",
+        "title": "Hungarian Attitudes",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianAttitudes.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Attitudes",
+        "filename": "HungarianAttitudes.htm",
+        "size": 127899
+      },
+      {
+        "id": "hungarianemotion",
+        "title": "Hungarian Emotion",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianEmotion.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Emotion",
+        "filename": "HungarianEmotion.htm",
+        "size": 313622
+      },
+      {
+        "id": "hungarianintelligence",
+        "title": "Hungarian Intelligence",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianIntelligence.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Intelligence",
+        "filename": "HungarianIntelligence.htm",
+        "size": 289837
+      },
+      {
+        "id": "hungarianipip-neodomains",
+        "title": "Hungarian IPIP Neodomains",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianIPIP-NEODomains.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian IPIP Neodomains",
+        "filename": "HungarianIPIP-NEODomains.htm",
+        "size": 367146
+      },
+      {
+        "id": "hungarianmanagement",
+        "title": "Hungarian Management",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianManagement.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Management",
+        "filename": "HungarianManagement.htm",
+        "size": 103393
+      },
+      {
+        "id": "hungariansocialrelationships",
+        "title": "Hungarian Social Relationships",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianSocialRelationships.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Social Relationships",
+        "filename": "HungarianSocialRelationships.htm",
+        "size": 327248
+      },
+      {
+        "id": "hungarianteamwork",
+        "title": "Hungarian Teamwork",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianTeamwork.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Teamwork",
+        "filename": "HungarianTeamwork.htm",
+        "size": 225556
+      },
+      {
+        "id": "hungarianviascales",
+        "title": "Hungarian Viascales",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/HungarianVIAScales.htm",
+        "type": "html",
+        "description": "Translated items for Hungarian Viascales",
+        "filename": "HungarianVIAScales.htm",
+        "size": 287388
+      },
+      {
+        "id": "icelandichexaco-pi",
+        "title": "Icelandic Hexaco Pi",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IcelandicHEXACO-PI.htm",
+        "type": "html",
+        "description": "Translated items for Icelandic Hexaco Pi",
+        "filename": "IcelandicHEXACO-PI.htm",
+        "size": 88012
+      },
+      {
+        "id": "indonesianbfm",
+        "title": "Indonesian Bfm",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IndonesianBFM.htm",
+        "type": "html",
+        "description": "Translated items for Indonesian Bfm",
+        "filename": "IndonesianBFM.htm",
+        "size": 124954
+      },
+      {
+        "id": "indonesianbfm2",
+        "title": "Indonesian Bfm2",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/IndonesianBFM2.htm",
+        "type": "html",
+        "description": "Translated items for Indonesian Bfm2",
+        "filename": "IndonesianBFM2.htm",
+        "size": 85555
+      },
+      {
+        "id": "indonesian25bfm",
+        "title": "Indonesian25bfm",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Indonesian25BFM.htm",
+        "type": "html",
+        "description": "Translated items for Indonesian25bfm",
+        "filename": "Indonesian25BFM.htm",
+        "size": 38290
+      },
+      {
+        "id": "italianipip-neo-120",
+        "title": "Italian IPIP NEO 120",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ItalianIPIP-NEO-120.htm",
+        "type": "html",
+        "description": "Translated items for Italian IPIP NEO 120",
+        "filename": "ItalianIPIP-NEO-120.htm",
+        "size": 41980
+      },
+      {
+        "id": "italianipip-neo5domains",
+        "title": "Italian IPIP Neo5domains",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/ItalianIPIP-NEO5domains.html",
+        "type": "html",
+        "description": "Translated items for Italian IPIP Neo5domains",
+        "filename": "ItalianIPIP-NEO5domains.html",
+        "size": 14399
+      },
+      {
+        "id": "italian=ipip-mpq",
+        "title": "Italian=ipip Mpq",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Italian=IPIP-MPQ.html",
+        "type": "html",
+        "description": "Translated items for Italian=ipip Mpq",
+        "filename": "Italian=IPIP-MPQ.html",
+        "size": 222978
+      },
+      {
+        "id": "newitemtranslations",
+        "title": "Item Translations",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/newItemTranslations.htm",
+        "type": "html",
+        "description": "Translated items for Item Translations",
+        "filename": "newItemTranslations.htm",
+        "size": 74584
+      },
+      {
+        "id": "japanesebig-fivefactormarkers",
+        "title": "Japanese Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/JapaneseBig-FiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Japanese Big Five Factor Markers",
+        "filename": "JapaneseBig-FiveFactorMarkers.htm",
+        "size": 19634
+      },
+      {
+        "id": "japaneseipip-neofacets",
+        "title": "Japanese IPIP Neofacets",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/JapaneseIPIP-NEOFacets.htm",
+        "type": "html",
+        "description": "Translated items for Japanese IPIP Neofacets",
+        "filename": "JapaneseIPIP-NEOFacets.htm",
+        "size": 280037
+      },
+      {
+        "id": "japaneseipipipc",
+        "title": "Japanese Ipipipc",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/JapaneseIPIPIPC.htm",
+        "type": "html",
+        "description": "Translated items for Japanese Ipipipc",
+        "filename": "JapaneseIPIPIPC.htm",
+        "size": 15820
+      },
+      {
+        "id": "japanese100-itemipip-neodomains",
+        "title": "Japanese100 Item IPIP Neodomains",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Japanese100-ItemIPIP-NEODomains.htm",
+        "type": "html",
+        "description": "Translated items for Japanese100 Item IPIP Neodomains",
+        "filename": "Japanese100-ItemIPIP-NEODomains.htm",
+        "size": 67712
+      },
+      {
+        "id": "koreanbig-fivefactormarkers",
+        "title": "Korean Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/KoreanBig-FiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Korean Big Five Factor Markers",
+        "filename": "KoreanBig-FiveFactorMarkers.htm",
+        "size": 214991
+      },
+      {
+        "id": "koreanipip-neo-300",
+        "title": "Korean IPIP NEO 300",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/KoreanIPIP-NEO-300.htm",
+        "type": "html",
+        "description": "Translated items for Korean IPIP NEO 300",
+        "filename": "KoreanIPIP-NEO-300.htm",
+        "size": 90822
+      },
+      {
+        "id": "latvianab5c",
+        "title": "Latvian Ab5c",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/LatvianAB5C.htm",
+        "type": "html",
+        "description": "Translated items for Latvian Ab5c",
+        "filename": "LatvianAB5C.htm",
+        "size": 152191
+      },
+      {
+        "id": "latvianbffm",
+        "title": "Latvian Bffm",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/LatvianBFFM.htm",
+        "type": "html",
+        "description": "Translated items for Latvian Bffm",
+        "filename": "LatvianBFFM.htm",
+        "size": 160805
+      },
+      {
+        "id": "macedonianipip-neofacets",
+        "title": "Macedonian IPIP Neofacets",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/MacedonianIPIP-NEOFacets.htm",
+        "type": "html",
+        "description": "Translated items for Macedonian IPIP Neofacets",
+        "filename": "MacedonianIPIP-NEOFacets.htm",
+        "size": 431175
+      },
+      {
+        "id": "mandarin translation of ipip-neo-120",
+        "title": "Mandarin Translation Of IPIP NEO 120",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Mandarin translation of IPIP-NEO-120.htm",
+        "type": "html",
+        "description": "Translated items for Mandarin Translation Of IPIP NEO 120",
+        "filename": "Mandarin translation of IPIP-NEO-120.htm",
+        "size": 175331
+      },
+      {
+        "id": "mexicanipip-neo-120",
+        "title": "Mexican IPIP NEO 120",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/MexicanIPIP-NEO-120.htm",
+        "type": "html",
+        "description": "Translated items for Mexican IPIP NEO 120",
+        "filename": "MexicanIPIP-NEO-120.htm",
+        "size": 214809
+      },
+      {
+        "id": "portuguese100-itembigfivefactormarkers",
+        "title": "Portuguese100 Item Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Portuguese100-itemBigFiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Portuguese100 Item Big Five Factor Markers",
+        "filename": "Portuguese100-itemBigFiveFactorMarkers.htm",
+        "size": 39693
+      },
+      {
+        "id": "portuguese50-itembigfivefactormarkers",
+        "title": "Portuguese50 Item Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Portuguese50-itemBigFiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Portuguese50 Item Big Five Factor Markers",
+        "filename": "Portuguese50-itemBigFiveFactorMarkers.htm",
+        "size": 21656
+      },
+      {
+        "id": "russian50-itembigfivefactormarkers",
+        "title": "Russian50 Item Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Russian50-itemBigFiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Russian50 Item Big Five Factor Markers",
+        "filename": "Russian50-itemBigFiveFactorMarkers.htm",
+        "size": 16499
+      },
+      {
+        "id": "serbian2544items",
+        "title": "Serbian2544items",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Serbian2544Items.htm",
+        "type": "html",
+        "description": "Translated items for Serbian2544items",
+        "filename": "Serbian2544Items.htm",
+        "size": 588119
+      },
+      {
+        "id": "sloveneipip-neofacets",
+        "title": "Slovene IPIP Neofacets",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/SloveneIPIP-NEOFacets.htm",
+        "type": "html",
+        "description": "Translated items for Slovene IPIP Neofacets",
+        "filename": "SloveneIPIP-NEOFacets.htm",
+        "size": 125001
+      },
+      {
+        "id": "slovene100-itembig-fivefactormarkers",
+        "title": "Slovene100 Item Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Slovene100-ItemBig-FiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Slovene100 Item Big Five Factor Markers",
+        "filename": "Slovene100-ItemBig-FiveFactorMarkers.htm",
+        "size": 29154
+      },
+      {
+        "id": "spanishbig-fivefactormarkers",
+        "title": "Spanish Big Five Factor Markers",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/SpanishBig-FiveFactorMarkers.htm",
+        "type": "html",
+        "description": "Translated items for Spanish Big Five Factor Markers",
+        "filename": "SpanishBig-FiveFactorMarkers.htm",
+        "size": 15178
+      },
+      {
+        "id": "spanishmini-ipipposneg",
+        "title": "Spanishmini Ipipposneg",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Spanishmini-IPIPposneg.htm",
+        "type": "html",
+        "description": "Translated items for Spanishmini Ipipposneg",
+        "filename": "Spanishmini-IPIPposneg.htm",
+        "size": 93394
+      },
+      {
+        "id": "thai50-itemneo-pi-r-domains",
+        "title": "Thai50 Item NEO Pi R Domains",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Thai50-itemNEO-PI-R-Domains.htm",
+        "type": "html",
+        "description": "Translated items for Thai50 Item NEO Pi R Domains",
+        "filename": "Thai50-itemNEO-PI-R-Domains.htm",
+        "size": 25906
+      },
+      {
+        "id": "turkish924items",
+        "title": "Turkish924items",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/Turkish924Items.htm",
+        "type": "html",
+        "description": "Translated items for Turkish924items",
+        "filename": "Turkish924Items.htm",
+        "size": 384303
+      },
+      {
+        "id": "urduconscientiousness",
+        "title": "Urdu Conscientiousness",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/UrduConscientiousness.htm",
+        "type": "html",
+        "description": "Translated items for Urdu Conscientiousness",
+        "filename": "UrduConscientiousness.htm",
+        "size": 19487
+      },
+      {
+        "id": "urduipip-neo-300",
+        "title": "Urdu IPIP NEO 300",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/UrduIPIP-NEO-300.htm",
+        "type": "html",
+        "description": "Translated items for Urdu IPIP NEO 300",
+        "filename": "UrduIPIP-NEO-300.htm",
+        "size": 275075
+      },
+      {
+        "id": "vietnameseab5c",
+        "title": "Vietnamese Ab5c",
+        "category": "translations",
+        "path": "/archive/ipip-mirror/ipip.ori.org/VietnameseAB5C.htm",
+        "type": "html",
+        "description": "Translated items for Vietnamese Ab5c",
+        "filename": "VietnameseAB5C.htm",
+        "size": 131008
+      }
+    ]
+  },
+  "allDocuments": [
+    {
+      "id": "historyoftheipip",
+      "title": "History Of The IPIP",
+      "category": "about",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HistoryOfTheIPIP.htm",
+      "type": "html",
+      "description": "About: History Of The IPIP",
+      "filename": "HistoryOfTheIPIP.htm",
+      "size": 16084
+    },
+    {
+      "id": "newrationale",
+      "title": "Rationale",
+      "category": "about",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newRationale.htm",
+      "type": "html",
+      "description": "About: Rationale",
+      "filename": "newRationale.htm",
+      "size": 5467
+    },
+    {
+      "id": "creatingyouronlineassessment",
+      "title": "Creating Your Online Assessment",
+      "category": "guides",
+      "path": "/archive/ipip-mirror/ipip.ori.org/CreatingYourOnlineAssessment.htm",
+      "type": "html",
+      "description": "Guide: Creating Your Online Assessment",
+      "filename": "CreatingYourOnlineAssessment.htm",
+      "size": 2981
+    },
+    {
+      "id": "interpretingindividualipipscalescores",
+      "title": "Interpreting Individual Ipipscale Scores",
+      "category": "guides",
+      "path": "/archive/ipip-mirror/ipip.ori.org/InterpretingIndividualIPIPScaleScores.htm",
+      "type": "html",
+      "description": "Guide: Interpreting Individual Ipipscale Scores",
+      "filename": "InterpretingIndividualIPIPScaleScores.htm",
+      "size": 3925
+    },
+    {
+      "id": "psiscalesandscoring",
+      "title": "Psiscalesand Scoring",
+      "category": "guides",
+      "path": "/archive/ipip-mirror/ipip.ori.org/PSIScalesandScoring.htm",
+      "type": "html",
+      "description": "Guide: Psiscalesand Scoring",
+      "filename": "PSIScalesandScoring.htm",
+      "size": 235766
+    },
+    {
+      "id": "newscaleconstruction",
+      "title": "Scale Construction",
+      "category": "guides",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newScaleConstruction.htm",
+      "type": "html",
+      "description": "Guide: Scale Construction",
+      "filename": "newScaleConstruction.htm",
+      "size": 6427
+    },
+    {
+      "id": "newscoringinstructions",
+      "title": "Scoring Instructions",
+      "category": "guides",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newScoringInstructions.htm",
+      "type": "html",
+      "description": "Guide: Scoring Instructions",
+      "filename": "newScoringInstructions.htm",
+      "size": 2172
+    },
+    {
+      "id": "30facetneo-pi-ritems",
+      "title": "30facet NEO Pi Ritems",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/30FacetNEO-PI-RItems.htm",
+      "type": "html",
+      "description": "30facet NEO Pi Ritems",
+      "filename": "30FacetNEO-PI-RItems.htm",
+      "size": 17649
+    },
+    {
+      "id": "30facetneo-pi-ritems_maples_etal",
+      "title": "30facet NEO Pi Ritems Maples Etal",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/30FacetNEO-PI-RItems_Maples_etal.htm",
+      "type": "html",
+      "description": "30facet NEO Pi Ritems Maples Etal",
+      "filename": "30FacetNEO-PI-RItems_Maples_etal.htm",
+      "size": 19736
+    },
+    {
+      "id": "newacknowledgements",
+      "title": "Acknowledgements",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newAcknowledgements.htm",
+      "type": "html",
+      "description": "Acknowledgements",
+      "filename": "newAcknowledgements.htm",
+      "size": 929
+    },
+    {
+      "id": "newcheatwarning",
+      "title": "Cheat Warning",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newCheatWarning.htm",
+      "type": "html",
+      "description": "Cheat Warning",
+      "filename": "newCheatWarning.htm",
+      "size": 3879
+    },
+    {
+      "id": "newcitation",
+      "title": "Citation",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newCitation.htm",
+      "type": "html",
+      "description": "Citation",
+      "filename": "newCitation.htm",
+      "size": 3897
+    },
+    {
+      "id": "newconsultinghelp",
+      "title": "Consulting Help",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newConsultingHelp.htm",
+      "type": "html",
+      "description": "Consulting Help",
+      "filename": "newConsultingHelp.htm",
+      "size": 897
+    },
+    {
+      "id": "finding_scales_to_measure_particular_constructs",
+      "title": "Finding Scales To Measure Particular Constructs",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Finding_Scales_to_Measure_Particular_Constructs.htm",
+      "type": "html",
+      "description": "Finding Scales To Measure Particular Constructs",
+      "filename": "Finding_Scales_to_Measure_Particular_Constructs.htm",
+      "size": 20505
+    },
+    {
+      "id": "greek50-itembigfivefactormarkers",
+      "title": "Greek50 Item Big Five Factor Markers",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Greek50-itemBigFiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Greek50 Item Big Five Factor Markers",
+      "filename": "Greek50-itemBigFiveFactorMarkers.htm",
+      "size": 181108
+    },
+    {
+      "id": "index",
+      "title": "Index",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/index.htm",
+      "type": "html",
+      "description": "Index",
+      "filename": "index.htm",
+      "size": 8815
+    },
+    {
+      "id": "newindexofscalelabels",
+      "title": "Indexof Scale Labels",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newIndexofScaleLabels.htm",
+      "type": "html",
+      "description": "Indexof Scale Labels",
+      "filename": "newIndexofScaleLabels.htm",
+      "size": 61084
+    },
+    {
+      "id": "new_ipip-50-item-scale",
+      "title": "IPIP 50 Item Scale",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/New_IPIP-50-item-scale.htm",
+      "type": "html",
+      "description": "IPIP 50 Item Scale",
+      "filename": "New_IPIP-50-item-scale.htm",
+      "size": 50306
+    },
+    {
+      "id": "newipip-ipcsurvey",
+      "title": "IPIP Ipcsurvey",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newIPIP-IPCSurvey.htm",
+      "type": "html",
+      "description": "IPIP Ipcsurvey",
+      "filename": "newIPIP-IPCSurvey.htm",
+      "size": 119970
+    },
+    {
+      "id": "ipipimplementationsaroundtheweb",
+      "title": "Ipipimplementations Around The Web",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIPImplementationsAroundTheWeb.htm",
+      "type": "html",
+      "description": "Ipipimplementations Around The Web",
+      "filename": "IPIPImplementationsAroundTheWeb.htm",
+      "size": 13228
+    },
+    {
+      "id": "ipipneo_300fr",
+      "title": "Ipipneo 300fr",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ipipneo_300fr.htm",
+      "type": "html",
+      "description": "Ipipneo 300fr",
+      "filename": "ipipneo_300fr.htm",
+      "size": 67529
+    },
+    {
+      "id": "newmultipleconstructs",
+      "title": "Multipleconstructs",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newMultipleconstructs.htm",
+      "type": "html",
+      "description": "Multipleconstructs",
+      "filename": "newMultipleconstructs.htm",
+      "size": 23206
+    },
+    {
+      "id": "newnorms",
+      "title": "Norms",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newNorms.htm",
+      "type": "html",
+      "description": "Norms",
+      "filename": "newNorms.htm",
+      "size": 4817
+    },
+    {
+      "id": "neworaissurvey",
+      "title": "Oraissurvey",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newORAISSurvey.htm",
+      "type": "html",
+      "description": "Oraissurvey",
+      "filename": "newORAISSurvey.htm",
+      "size": 508873
+    },
+    {
+      "id": "neworvissurvey",
+      "title": "Orvissurvey",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newORVISSurvey.htm",
+      "type": "html",
+      "description": "Orvissurvey",
+      "filename": "newORVISSurvey.htm",
+      "size": 224347
+    },
+    {
+      "id": "otjihereroagreeableness",
+      "title": "Otjiherero Agreeableness",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/OtjihereroAgreeableness.htm",
+      "type": "html",
+      "description": "Otjiherero Agreeableness",
+      "filename": "OtjihereroAgreeableness.htm",
+      "size": 21298
+    },
+    {
+      "id": "otjihererominiipip",
+      "title": "Otjiherero Mini IPIP",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/OtjihereroMiniIPIP.htm",
+      "type": "html",
+      "description": "Otjiherero Mini IPIP",
+      "filename": "OtjihereroMiniIPIP.htm",
+      "size": 9255
+    },
+    {
+      "id": "newpermission",
+      "title": "Permission",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newPermission.htm",
+      "type": "html",
+      "description": "Permission",
+      "filename": "newPermission.htm",
+      "size": 1046
+    },
+    {
+      "id": "polishmini-ipip",
+      "title": "Polish Mini IPIP",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/PolishMini-IPIP.htm",
+      "type": "html",
+      "description": "Polish Mini IPIP",
+      "filename": "PolishMini-IPIP.htm",
+      "size": 93664
+    },
+    {
+      "id": "newpublications",
+      "title": "Publications",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newPublications.htm",
+      "type": "html",
+      "description": "Publications",
+      "filename": "newPublications.htm",
+      "size": 810534
+    },
+    {
+      "id": "reliabilityvalidity",
+      "title": "Reliability Validity",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ReliabilityValidity.htm",
+      "type": "html",
+      "description": "Reliability Validity",
+      "filename": "ReliabilityValidity.htm",
+      "size": 2204
+    },
+    {
+      "id": "newresearchopportunities",
+      "title": "Research Opportunities",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newResearchOpportunities.htm",
+      "type": "html",
+      "description": "Research Opportunities",
+      "filename": "newResearchOpportunities.htm",
+      "size": 2132
+    },
+    {
+      "id": "romanian2504items",
+      "title": "Romanian2504items",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Romanian2504Items.htm",
+      "type": "html",
+      "description": "Romanian2504items",
+      "filename": "Romanian2504Items.htm",
+      "size": 2034548
+    },
+    {
+      "id": "newsingleconstructs",
+      "title": "Single Constructs",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newSingleConstructs.htm",
+      "type": "html",
+      "description": "Single Constructs",
+      "filename": "newSingleConstructs.htm",
+      "size": 26276
+    },
+    {
+      "id": "swedish1955items",
+      "title": "Swedish1955items",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Swedish1955Items.htm",
+      "type": "html",
+      "description": "Swedish1955items",
+      "filename": "Swedish1955Items.htm",
+      "size": 875942
+    },
+    {
+      "id": "third-person-items",
+      "title": "Third Person Items",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Third-Person-Items.htm",
+      "type": "html",
+      "description": "Third Person Items",
+      "filename": "Third-Person-Items.htm",
+      "size": 2851
+    },
+    {
+      "id": "newvalidity",
+      "title": "Validity",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newValidity.htm",
+      "type": "html",
+      "description": "Validity",
+      "filename": "newValidity.htm",
+      "size": 4867
+    },
+    {
+      "id": "newwilling_to_help",
+      "title": "Willing To Help",
+      "category": "other",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newWilling_to_Help.htm",
+      "type": "html",
+      "description": "Willing To Help",
+      "filename": "newWilling_to_Help.htm",
+      "size": 5440
+    },
+    {
+      "id": "alphabeticalitemlist",
+      "title": "Alphabetical Item List",
+      "category": "reference",
+      "path": "/archive/ipip-mirror/ipip.ori.org/AlphabeticalItemList.htm",
+      "type": "html",
+      "description": "Reference material: Alphabetical Item List",
+      "filename": "AlphabeticalItemList.htm",
+      "size": 849217
+    },
+    {
+      "id": "itemassignmenttable",
+      "title": "Item Assignment Table",
+      "category": "reference",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ItemAssignmentTable.htm",
+      "type": "html",
+      "description": "Reference material: Item Assignment Table",
+      "filename": "ItemAssignmentTable.htm",
+      "size": 3654
+    },
+    {
+      "id": "tedoneitemassignmenttable30apr21",
+      "title": "Tedone Item Assignment Table30apr21",
+      "category": "reference",
+      "path": "/archive/ipip-mirror/ipip.ori.org/TedoneItemAssignmentTable30APR21.xlsx",
+      "type": "document",
+      "description": "Reference material: Tedone Item Assignment Table30apr21",
+      "filename": "TedoneItemAssignmentTable30APR21.xlsx",
+      "size": 143847
+    },
+    {
+      "id": "a broad-bandwidth inventory",
+      "title": "A Broad Bandwidth Inventory",
+      "category": "technical",
+      "path": "/archive/ipip-mirror/ipip.ori.org/A broad-bandwidth inventory.pdf",
+      "type": "pdf",
+      "description": "Technical documentation: A Broad Bandwidth Inventory",
+      "filename": "A broad-bandwidth inventory.pdf",
+      "size": 1293922
+    },
+    {
+      "id": "escs_technicalreport_january2016",
+      "title": "Escs Technical Report January2016",
+      "category": "technical",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ESCS_TechnicalReport_January2016.pdf",
+      "type": "pdf",
+      "description": "Technical documentation: Escs Technical Report January2016",
+      "filename": "ESCS_TechnicalReport_January2016.pdf",
+      "size": 327211
+    },
+    {
+      "id": "goldberg_etal_2006_ipip_jrp",
+      "title": "Goldberg Etal 2006 IPIP Jrp",
+      "category": "technical",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Goldberg_etal_2006_IPIP_JRP.pdf",
+      "type": "pdf",
+      "description": "Technical documentation: Goldberg Etal 2006 IPIP Jrp",
+      "filename": "Goldberg_etal_2006_IPIP_JRP.pdf",
+      "size": 219579
+    },
+    {
+      "id": "mini ipip20220704",
+      "title": "Mini Ipip20220704",
+      "category": "technical",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Mini IPIP20220704.pdf",
+      "type": "pdf",
+      "description": "Technical documentation: Mini Ipip20220704",
+      "filename": "Mini IPIP20220704.pdf",
+      "size": 435150
+    },
+    {
+      "id": "ori_technicalreport_escs_mar08",
+      "title": "Ori Technical Report Escs Mar08",
+      "category": "technical",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ORI_TechnicalReport_ESCS_Mar08.pdf",
+      "type": "pdf",
+      "description": "Technical documentation: Ori Technical Report Escs Mar08",
+      "filename": "ORI_TechnicalReport_ESCS_Mar08.pdf",
+      "size": 76061
+    },
+    {
+      "id": "psimanualseptember2018",
+      "title": "Psimanual September2018",
+      "category": "technical",
+      "path": "/archive/ipip-mirror/ipip.ori.org/PSIManualSeptember2018.pdf",
+      "type": "pdf",
+      "description": "Technical documentation: Psimanual September2018",
+      "filename": "PSIManualSeptember2018.pdf",
+      "size": 290320
+    },
+    {
+      "id": "new16pfkey",
+      "title": "16pfscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/new16PFKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for 16pfscoring Key",
+      "filename": "new16PFKey.htm",
+      "size": 30656
+    },
+    {
+      "id": "new16pftable",
+      "title": "16pftable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/new16PFTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for 16pftable",
+      "filename": "new16PFTable.htm",
+      "size": 13488
+    },
+    {
+      "id": "new6fpqkey",
+      "title": "6fpqscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/new6FPQKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for 6fpqscoring Key",
+      "filename": "new6FPQKey.htm",
+      "size": 45280
+    },
+    {
+      "id": "new6fpqtable",
+      "title": "6fpqtable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/new6FPQTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for 6fpqtable",
+      "filename": "new6FPQTable.htm",
+      "size": 100229
+    },
+    {
+      "id": "new7factorkey",
+      "title": "7factor Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/new7FactorKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for 7factor Scoring Key",
+      "filename": "new7FactorKey.htm",
+      "size": 13436
+    },
+    {
+      "id": "new7factortable",
+      "title": "7factor Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/new7FactorTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for 7factor Table",
+      "filename": "new7FactorTable.htm",
+      "size": 50239
+    },
+    {
+      "id": "newab5ckey",
+      "title": "Ab5cscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newAB5CKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Ab5cscoring Key",
+      "filename": "newAB5CKey.htm",
+      "size": 83747
+    },
+    {
+      "id": "newab5ctable",
+      "title": "Ab5ctable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newAB5CTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Ab5ctable",
+      "filename": "newAB5CTable.htm",
+      "size": 133238
+    },
+    {
+      "id": "ambicomparisontable",
+      "title": "Ambicomparison Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/AMBIComparisonTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Ambicomparison Table",
+      "filename": "AMBIComparisonTable.htm",
+      "size": 6270
+    },
+    {
+      "id": "ambiscoringkeys",
+      "title": "Ambiscoring Keys",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/AMBIScoringKeys.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Ambiscoring Keys",
+      "filename": "AMBIScoringKeys.htm",
+      "size": 602431
+    },
+    {
+      "id": "bfaskeys",
+      "title": "Bfaskeys",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/BFASKeys.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Bfaskeys",
+      "filename": "BFASKeys.htm",
+      "size": 57669
+    },
+    {
+      "id": "bfastable",
+      "title": "Bfastable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/BFASTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Bfastable",
+      "filename": "BFASTable.htm",
+      "size": 52267
+    },
+    {
+      "id": "newbigfive5broadkey",
+      "title": "Big Five5broad Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newBigFive5broadKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Big Five5broad Scoring Key",
+      "filename": "newBigFive5broadKey.htm",
+      "size": 18088
+    },
+    {
+      "id": "newbigfive5broadtable",
+      "title": "Big Five5broad Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newBigFive5broadTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Big Five5broad Table",
+      "filename": "newBigFive5broadTable.htm",
+      "size": 63432
+    },
+    {
+      "id": "newbis_baskey",
+      "title": "Bis Basscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newBIS_BASkey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Bis Basscoring Key",
+      "filename": "newBIS_BASkey.htm",
+      "size": 10333
+    },
+    {
+      "id": "newbis_bastable",
+      "title": "Bis Bastable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newBIS_BAStable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Bis Bastable",
+      "filename": "newBIS_BAStable.htm",
+      "size": 43802
+    },
+    {
+      "id": "newcat-pd-sfv1.1comparisontable",
+      "title": "Cat Pd Sfv1.1comparison Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newCAT-PD-SFv1.1ComparisonTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Cat Pd Sfv1.1comparison Table",
+      "filename": "newCAT-PD-SFv1.1ComparisonTable.htm",
+      "size": 15100
+    },
+    {
+      "id": "newcat-pd-sfv1.1keys",
+      "title": "Cat Pd Sfv1.1keys",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newCAT-PD-SFv1.1Keys.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Cat Pd Sfv1.1keys",
+      "filename": "newCAT-PD-SFv1.1Keys.htm",
+      "size": 258085
+    },
+    {
+      "id": "newcpikey",
+      "title": "Cpiscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newCPIKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Cpiscoring Key",
+      "filename": "newCPIKey.htm",
+      "size": 57219
+    },
+    {
+      "id": "newcpitable",
+      "title": "Cpitable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newCPITable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Cpitable",
+      "filename": "newCPITable.htm",
+      "size": 107990
+    },
+    {
+      "id": "newemotionalintelligencekey",
+      "title": "Emotional Intelligence Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newEmotionalIntelligenceKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Emotional Intelligence Scoring Key",
+      "filename": "newEmotionalIntelligenceKey.htm",
+      "size": 14439
+    },
+    {
+      "id": "newemotionalintelligencetable",
+      "title": "Emotional Intelligence Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newEmotionalIntelligenceTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Emotional Intelligence Table",
+      "filename": "newEmotionalIntelligenceTable.htm",
+      "size": 3435
+    },
+    {
+      "id": "newhexaco_pi_key",
+      "title": "Hexaco Pi Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newHEXACO_PI_key.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Hexaco Pi Scoring Key",
+      "filename": "newHEXACO_PI_key.htm",
+      "size": 148747
+    },
+    {
+      "id": "newhexaco_pi_table",
+      "title": "Hexaco Pi Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newHEXACO_PI_table.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Hexaco Pi Table",
+      "filename": "newHEXACO_PI_table.htm",
+      "size": 22895
+    },
+    {
+      "id": "newhpikeys",
+      "title": "Hpikeys",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newHPIKeys.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Hpikeys",
+      "filename": "newHPIKeys.htm",
+      "size": 74116
+    },
+    {
+      "id": "newhpitable",
+      "title": "Hpitable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newHPITable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Hpitable",
+      "filename": "newHPITable.htm",
+      "size": 219018
+    },
+    {
+      "id": "newipip-ipcscoringkey",
+      "title": "IPIP Ipcscoring Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newIPIP-IPCScoringKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for IPIP Ipcscoring Scoring Key",
+      "filename": "newIPIP-IPCScoringKey.htm",
+      "size": 74641
+    },
+    {
+      "id": "ipip-neo-60comparisontable",
+      "title": "IPIP NEO 60comparison Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-NEO-60ComparisonTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for IPIP NEO 60comparison Table",
+      "filename": "IPIP-NEO-60ComparisonTable.htm",
+      "size": 50918
+    },
+    {
+      "id": "ipip-neo-60scoringkeys",
+      "title": "IPIP NEO 60scoring Keys",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-NEO-60ScoringKeys.htm",
+      "type": "html",
+      "description": "Scoring key and item list for IPIP NEO 60scoring Keys",
+      "filename": "IPIP-NEO-60ScoringKeys.htm",
+      "size": 15957
+    },
+    {
+      "id": "ipip-via-r-core-strengths_key",
+      "title": "IPIP VIA R Core Strengths Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R-core-strengths_Key.html",
+      "type": "html",
+      "description": "Scoring key and item list for IPIP VIA R Core Strengths Scoring Key",
+      "filename": "IPIP-VIA-R-core-strengths_Key.html",
+      "size": 59108
+    },
+    {
+      "id": "ipip-via-r-core-strengths_table",
+      "title": "IPIP VIA R Core Strengths Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R-core-strengths_Table.html",
+      "type": "html",
+      "description": "Scoring key and item list for IPIP VIA R Core Strengths Table",
+      "filename": "IPIP-VIA-R-core-strengths_Table.html",
+      "size": 51946
+    },
+    {
+      "id": "ipip-via-r_key",
+      "title": "IPIP VIA R Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R_Key.html",
+      "type": "html",
+      "description": "Scoring key and item list for IPIP VIA R Scoring Key",
+      "filename": "IPIP-VIA-R_Key.html",
+      "size": 132809
+    },
+    {
+      "id": "ipip-via-r_table",
+      "title": "IPIP VIA R Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP-VIA-R_Table.html",
+      "type": "html",
+      "description": "Scoring key and item list for IPIP VIA R Table",
+      "filename": "IPIP-VIA-R_Table.html",
+      "size": 92756
+    },
+    {
+      "id": "ipip300-120comparisontable",
+      "title": "Ipip300 120comparison Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP300-120ComparisonTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Ipip300 120comparison Table",
+      "filename": "IPIP300-120ComparisonTable.htm",
+      "size": 366806
+    },
+    {
+      "id": "ipip300-120comparisontable_maples_etal",
+      "title": "Ipip300 120comparison Table Maples Etal",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IPIP300-120ComparisonTable_Maples_etal.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Ipip300 120comparison Table Maples Etal",
+      "filename": "IPIP300-120ComparisonTable_Maples_etal.htm",
+      "size": 363552
+    },
+    {
+      "id": "newjpi-rkey",
+      "title": "Jpi Rscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newJPI-RKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Jpi Rscoring Key",
+      "filename": "newJPI-RKey.htm",
+      "size": 28182
+    },
+    {
+      "id": "newjpi-rtable",
+      "title": "Jpi Rtable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newJPI-RTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Jpi Rtable",
+      "filename": "newJPI-RTable.htm",
+      "size": 76927
+    },
+    {
+      "id": "miniipip6key",
+      "title": "Mini Ipip6scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIP6Key.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Mini Ipip6scoring Key",
+      "filename": "MiniIPIP6Key.htm",
+      "size": 10649
+    },
+    {
+      "id": "miniipip6table",
+      "title": "Mini Ipip6table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIP6Table.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Mini Ipip6table",
+      "filename": "MiniIPIP6Table.htm",
+      "size": 15251
+    },
+    {
+      "id": "miniipipkey",
+      "title": "Mini Ipipscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIPKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Mini Ipipscoring Key",
+      "filename": "MiniIPIPKey.htm",
+      "size": 7639
+    },
+    {
+      "id": "miniipiptable",
+      "title": "Mini Ipiptable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/MiniIPIPTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Mini Ipiptable",
+      "filename": "MiniIPIPTable.htm",
+      "size": 15109
+    },
+    {
+      "id": "newmpqkey",
+      "title": "Mpqscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newMPQKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Mpqscoring Key",
+      "filename": "newMPQKey.htm",
+      "size": 24216
+    },
+    {
+      "id": "newmpqtable",
+      "title": "Mpqtable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newMPQTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Mpqtable",
+      "filename": "newMPQTable.htm",
+      "size": 69216
+    },
+    {
+      "id": "newneo_domainstable",
+      "title": "NEO Domains Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newNEO_DomainsTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for NEO Domains Table",
+      "filename": "newNEO_DomainsTable.htm",
+      "size": 38401
+    },
+    {
+      "id": "newneo_facetstable",
+      "title": "NEO Facets Table",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newNEO_FacetsTable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for NEO Facets Table",
+      "filename": "newNEO_FacetsTable.htm",
+      "size": 193376
+    },
+    {
+      "id": "newneodomainskey",
+      "title": "Neodomains Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newNEODomainsKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Neodomains Scoring Key",
+      "filename": "newNEODomainsKey.htm",
+      "size": 25317
+    },
+    {
+      "id": "newneofacetskey",
+      "title": "Neofacets Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newNEOFacetsKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Neofacets Scoring Key",
+      "filename": "newNEOFacetsKey.htm",
+      "size": 51708
+    },
+    {
+      "id": "newneokey",
+      "title": "Neoscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newNEOKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Neoscoring Key",
+      "filename": "newNEOKey.htm",
+      "size": 76339
+    },
+    {
+      "id": "neworaiskey",
+      "title": "Oraisscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newORAISKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Oraisscoring Key",
+      "filename": "newORAISKey.htm",
+      "size": 200512
+    },
+    {
+      "id": "neworviskey",
+      "title": "Orvisscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newORVISKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Orvisscoring Key",
+      "filename": "newORVISKey.htm",
+      "size": 109348
+    },
+    {
+      "id": "raschviakey",
+      "title": "Rasch Viascoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/RaschVIAKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Rasch Viascoring Key",
+      "filename": "RaschVIAKey.htm",
+      "size": 355872
+    },
+    {
+      "id": "raschviatable",
+      "title": "Rasch Viatable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/RaschVIATable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Rasch Viatable",
+      "filename": "RaschVIATable.htm",
+      "size": 65013
+    },
+    {
+      "id": "newsingleconstructskey",
+      "title": "Single Constructs Scoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newSingleConstructsKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Single Constructs Scoring Key",
+      "filename": "newSingleConstructsKey.htm",
+      "size": 68319
+    },
+    {
+      "id": "newtcikey",
+      "title": "Tciscoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newTCIKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Tciscoring Key",
+      "filename": "newTCIKey.htm",
+      "size": 52912
+    },
+    {
+      "id": "newtcitable",
+      "title": "Tcitable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newTCITable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Tcitable",
+      "filename": "newTCITable.htm",
+      "size": 131522
+    },
+    {
+      "id": "viakeys-explanation",
+      "title": "Viakeys Explanation",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/VIAkeys-explanation.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Viakeys Explanation",
+      "filename": "VIAkeys-explanation.htm",
+      "size": 2654
+    },
+    {
+      "id": "newviakey",
+      "title": "Viascoring Key",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newVIAKey.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Viascoring Key",
+      "filename": "newVIAKey.htm",
+      "size": 114463
+    },
+    {
+      "id": "newviatable",
+      "title": "Viatable",
+      "category": "test-batteries",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newVIATable.htm",
+      "type": "html",
+      "description": "Scoring key and item list for Viatable",
+      "filename": "newVIATable.htm",
+      "size": 55015
+    },
+    {
+      "id": "arabicbigfivefactormarkers",
+      "title": "Arabic Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ArabicBigFiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Arabic Big Five Factor Markers",
+      "filename": "ArabicBigFiveFactorMarkers.htm",
+      "size": 104452
+    },
+    {
+      "id": "arabicbigfivefactormarkers2",
+      "title": "Arabic Big Five Factor Markers2",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ArabicBigFiveFactorMarkers2.htm",
+      "type": "html",
+      "description": "Translated items for Arabic Big Five Factor Markers2",
+      "filename": "ArabicBigFiveFactorMarkers2.htm",
+      "size": 29017
+    },
+    {
+      "id": "armenianipip-neo-120",
+      "title": "Armenian IPIP NEO 120",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ArmenianIPIP-NEO-120.htm",
+      "type": "html",
+      "description": "Translated items for Armenian IPIP NEO 120",
+      "filename": "ArmenianIPIP-NEO-120.htm",
+      "size": 57869
+    },
+    {
+      "id": "chineseab5cfactormarkers",
+      "title": "Chinese Ab5cfactor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ChineseAB5CFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Chinese Ab5cfactor Markers",
+      "filename": "ChineseAB5CFactorMarkers.htm",
+      "size": 79365
+    },
+    {
+      "id": "chineseab5ctoughness",
+      "title": "Chinese Ab5ctoughness",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ChineseAB5CToughness.htm",
+      "type": "html",
+      "description": "Translated items for Chinese Ab5ctoughness",
+      "filename": "ChineseAB5CToughness.htm",
+      "size": 6184
+    },
+    {
+      "id": "chineseipip-120norms",
+      "title": "Chinese IPIP 120norms",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ChineseIPIP-120norms.htm",
+      "type": "html",
+      "description": "Translated items for Chinese IPIP 120norms",
+      "filename": "ChineseIPIP-120norms.htm",
+      "size": 70105
+    },
+    {
+      "id": "chineseipip-120reliability",
+      "title": "Chinese IPIP 120reliability",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ChineseIPIP-120reliability.htm",
+      "type": "html",
+      "description": "Translated items for Chinese IPIP 120reliability",
+      "filename": "ChineseIPIP-120reliability.htm",
+      "size": 307632
+    },
+    {
+      "id": "croatianipip-neodomains",
+      "title": "Croatian IPIP Neodomains",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/CroatianIPIP-NEODomains.htm",
+      "type": "html",
+      "description": "Translated items for Croatian IPIP Neodomains",
+      "filename": "CroatianIPIP-NEODomains.htm",
+      "size": 40130
+    },
+    {
+      "id": "croatianipip-neofacets",
+      "title": "Croatian IPIP Neofacets",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/CroatianIPIP-NEOFacets.htm",
+      "type": "html",
+      "description": "Translated items for Croatian IPIP Neofacets",
+      "filename": "CroatianIPIP-NEOFacets.htm",
+      "size": 167543
+    },
+    {
+      "id": "croatian100-itembigfivefactormarkers-peerassessment",
+      "title": "Croatian100 Item Big Five Factor Markers Peer Assessment",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Croatian100-itemBigFiveFactorMarkers-PeerAssessment.htm",
+      "type": "html",
+      "description": "Translated items for Croatian100 Item Big Five Factor Markers Peer Assessment",
+      "filename": "Croatian100-itemBigFiveFactorMarkers-PeerAssessment.htm",
+      "size": 371480
+    },
+    {
+      "id": "croatian100-itembigfivefactormarkers-self-report",
+      "title": "Croatian100 Item Big Five Factor Markers Self Report",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Croatian100-itemBigFiveFactorMarkers-Self-Report.htm",
+      "type": "html",
+      "description": "Translated items for Croatian100 Item Big Five Factor Markers Self Report",
+      "filename": "Croatian100-itemBigFiveFactorMarkers-Self-Report.htm",
+      "size": 368448
+    },
+    {
+      "id": "croatian50-itembigfivefactormarkers-adolescents",
+      "title": "Croatian50 Item Big Five Factor Markers Adolescents",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Adolescents.htm",
+      "type": "html",
+      "description": "Translated items for Croatian50 Item Big Five Factor Markers Adolescents",
+      "filename": "Croatian50-itemBigFiveFactorMarkers-Adolescents.htm",
+      "size": 230967
+    },
+    {
+      "id": "croatian50-itembigfivefactormarkers-parental-assessment",
+      "title": "Croatian50 Item Big Five Factor Markers Parental Assessment",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Parental-Assessment.htm",
+      "type": "html",
+      "description": "Translated items for Croatian50 Item Big Five Factor Markers Parental Assessment",
+      "filename": "Croatian50-itemBigFiveFactorMarkers-Parental-Assessment.htm",
+      "size": 176764
+    },
+    {
+      "id": "croatian50-itembigfivefactormarkers-peer-assessment",
+      "title": "Croatian50 Item Big Five Factor Markers Peer Assessment",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Peer-Assessment.htm",
+      "type": "html",
+      "description": "Translated items for Croatian50 Item Big Five Factor Markers Peer Assessment",
+      "filename": "Croatian50-itemBigFiveFactorMarkers-Peer-Assessment.htm",
+      "size": 172497
+    },
+    {
+      "id": "croatian50-itembigfivefactormarkers-self-report",
+      "title": "Croatian50 Item Big Five Factor Markers Self Report",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemBigFiveFactorMarkers-Self-Report.htm",
+      "type": "html",
+      "description": "Translated items for Croatian50 Item Big Five Factor Markers Self Report",
+      "filename": "Croatian50-itemBigFiveFactorMarkers-Self-Report.htm",
+      "size": 184282
+    },
+    {
+      "id": "croatian50-itemneo-pi-r-domains",
+      "title": "Croatian50 Item NEO Pi R Domains",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Croatian50-itemNEO-PI-R-Domains.htm",
+      "type": "html",
+      "description": "Translated items for Croatian50 Item NEO Pi R Domains",
+      "filename": "Croatian50-itemNEO-PI-R-Domains.htm",
+      "size": 133873
+    },
+    {
+      "id": "danishipip-neo-120",
+      "title": "Danish IPIP NEO 120",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/DanishIPIP-NEO-120.htm",
+      "type": "html",
+      "description": "Translated items for Danish IPIP NEO 120",
+      "filename": "DanishIPIP-NEO-120.htm",
+      "size": 34191
+    },
+    {
+      "id": "dutchipip-neo-120",
+      "title": "Dutch IPIP NEO 120",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/DutchIPIP-NEO-120.htm",
+      "type": "html",
+      "description": "Translated items for Dutch IPIP NEO 120",
+      "filename": "DutchIPIP-NEO-120.htm",
+      "size": 24682
+    },
+    {
+      "id": "dutchmini-ipip",
+      "title": "Dutch Mini IPIP",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/DutchMini-IPIP.htm",
+      "type": "html",
+      "description": "Translated items for Dutch Mini IPIP",
+      "filename": "DutchMini-IPIP.htm",
+      "size": 6134
+    },
+    {
+      "id": "estonianipip-neofacets",
+      "title": "Estonian IPIP Neofacets",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/EstonianIPIP-NEOFacets.htm",
+      "type": "html",
+      "description": "Translated items for Estonian IPIP Neofacets",
+      "filename": "EstonianIPIP-NEOFacets.htm",
+      "size": 513062
+    },
+    {
+      "id": "estonianrevisedipip-neofacets",
+      "title": "Estonian Revised IPIP Neofacets",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/EstonianRevisedIPIP-NEOFacets.htm",
+      "type": "html",
+      "description": "Translated items for Estonian Revised IPIP Neofacets",
+      "filename": "EstonianRevisedIPIP-NEOFacets.htm",
+      "size": 314555
+    },
+    {
+      "id": "farsibfas",
+      "title": "Farsi Bfas",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/FarsiBFAS.htm",
+      "type": "html",
+      "description": "Translated items for Farsi Bfas",
+      "filename": "FarsiBFAS.htm",
+      "size": 36905
+    },
+    {
+      "id": "final arabic ipip 50 items_2018-1",
+      "title": "Final Arabic IPIP 50 Items 2018 1",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Final Arabic IPIP 50 items_2018-1.docx",
+      "type": "document",
+      "description": "Translated items for Final Arabic IPIP 50 Items 2018 1",
+      "filename": "Final Arabic IPIP 50 items_2018-1.docx",
+      "size": 31788
+    },
+    {
+      "id": "frenchcanadian300-item-ipip-neo",
+      "title": "French Canadian300 Item IPIP NEO",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/FrenchCanadian300-Item-IPIP-NEO.htm",
+      "type": "html",
+      "description": "Translated items for French Canadian300 Item IPIP NEO",
+      "filename": "FrenchCanadian300-Item-IPIP-NEO.htm",
+      "size": 81429
+    },
+    {
+      "id": "french50-itembigfivefactormarkers&conservatism",
+      "title": "French50 Item Big Five Factor Markers&conservatism",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/French50-itemBigFiveFactorMarkers&Conservatism.htm",
+      "type": "html",
+      "description": "Translated items for French50 Item Big Five Factor Markers&conservatism",
+      "filename": "French50-itemBigFiveFactorMarkers&Conservatism.htm",
+      "size": 28704
+    },
+    {
+      "id": "germanorvis",
+      "title": "German Orvis",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/GermanORVIS.htm",
+      "type": "html",
+      "description": "Translated items for German Orvis",
+      "filename": "GermanORVIS.htm",
+      "size": 31180
+    },
+    {
+      "id": "german100-itembig-fivefactormarkers",
+      "title": "German100 Item Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/German100-ItemBig-FiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for German100 Item Big Five Factor Markers",
+      "filename": "German100-ItemBig-FiveFactorMarkers.htm",
+      "size": 37988
+    },
+    {
+      "id": "german50-itembigfivefactormarkers",
+      "title": "German50 Item Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/German50-itemBigFiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for German50 Item Big Five Factor Markers",
+      "filename": "German50-itemBigFiveFactorMarkers.htm",
+      "size": 28898
+    },
+    {
+      "id": "hebrewipip-neofacets",
+      "title": "Hebrew IPIP Neofacets",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HebrewIPIP-NEOFacets.htm",
+      "type": "html",
+      "description": "Translated items for Hebrew IPIP Neofacets",
+      "filename": "HebrewIPIP-NEOFacets.htm",
+      "size": 153074
+    },
+    {
+      "id": "hungarianactivity",
+      "title": "Hungarian Activity",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianActivity.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Activity",
+      "filename": "HungarianActivity.htm",
+      "size": 70366
+    },
+    {
+      "id": "hungarianattitudes",
+      "title": "Hungarian Attitudes",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianAttitudes.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Attitudes",
+      "filename": "HungarianAttitudes.htm",
+      "size": 127899
+    },
+    {
+      "id": "hungarianemotion",
+      "title": "Hungarian Emotion",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianEmotion.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Emotion",
+      "filename": "HungarianEmotion.htm",
+      "size": 313622
+    },
+    {
+      "id": "hungarianintelligence",
+      "title": "Hungarian Intelligence",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianIntelligence.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Intelligence",
+      "filename": "HungarianIntelligence.htm",
+      "size": 289837
+    },
+    {
+      "id": "hungarianipip-neodomains",
+      "title": "Hungarian IPIP Neodomains",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianIPIP-NEODomains.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian IPIP Neodomains",
+      "filename": "HungarianIPIP-NEODomains.htm",
+      "size": 367146
+    },
+    {
+      "id": "hungarianmanagement",
+      "title": "Hungarian Management",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianManagement.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Management",
+      "filename": "HungarianManagement.htm",
+      "size": 103393
+    },
+    {
+      "id": "hungariansocialrelationships",
+      "title": "Hungarian Social Relationships",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianSocialRelationships.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Social Relationships",
+      "filename": "HungarianSocialRelationships.htm",
+      "size": 327248
+    },
+    {
+      "id": "hungarianteamwork",
+      "title": "Hungarian Teamwork",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianTeamwork.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Teamwork",
+      "filename": "HungarianTeamwork.htm",
+      "size": 225556
+    },
+    {
+      "id": "hungarianviascales",
+      "title": "Hungarian Viascales",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/HungarianVIAScales.htm",
+      "type": "html",
+      "description": "Translated items for Hungarian Viascales",
+      "filename": "HungarianVIAScales.htm",
+      "size": 287388
+    },
+    {
+      "id": "icelandichexaco-pi",
+      "title": "Icelandic Hexaco Pi",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IcelandicHEXACO-PI.htm",
+      "type": "html",
+      "description": "Translated items for Icelandic Hexaco Pi",
+      "filename": "IcelandicHEXACO-PI.htm",
+      "size": 88012
+    },
+    {
+      "id": "indonesianbfm",
+      "title": "Indonesian Bfm",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IndonesianBFM.htm",
+      "type": "html",
+      "description": "Translated items for Indonesian Bfm",
+      "filename": "IndonesianBFM.htm",
+      "size": 124954
+    },
+    {
+      "id": "indonesianbfm2",
+      "title": "Indonesian Bfm2",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/IndonesianBFM2.htm",
+      "type": "html",
+      "description": "Translated items for Indonesian Bfm2",
+      "filename": "IndonesianBFM2.htm",
+      "size": 85555
+    },
+    {
+      "id": "indonesian25bfm",
+      "title": "Indonesian25bfm",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Indonesian25BFM.htm",
+      "type": "html",
+      "description": "Translated items for Indonesian25bfm",
+      "filename": "Indonesian25BFM.htm",
+      "size": 38290
+    },
+    {
+      "id": "italianipip-neo-120",
+      "title": "Italian IPIP NEO 120",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ItalianIPIP-NEO-120.htm",
+      "type": "html",
+      "description": "Translated items for Italian IPIP NEO 120",
+      "filename": "ItalianIPIP-NEO-120.htm",
+      "size": 41980
+    },
+    {
+      "id": "italianipip-neo5domains",
+      "title": "Italian IPIP Neo5domains",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/ItalianIPIP-NEO5domains.html",
+      "type": "html",
+      "description": "Translated items for Italian IPIP Neo5domains",
+      "filename": "ItalianIPIP-NEO5domains.html",
+      "size": 14399
+    },
+    {
+      "id": "italian=ipip-mpq",
+      "title": "Italian=ipip Mpq",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Italian=IPIP-MPQ.html",
+      "type": "html",
+      "description": "Translated items for Italian=ipip Mpq",
+      "filename": "Italian=IPIP-MPQ.html",
+      "size": 222978
+    },
+    {
+      "id": "newitemtranslations",
+      "title": "Item Translations",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/newItemTranslations.htm",
+      "type": "html",
+      "description": "Translated items for Item Translations",
+      "filename": "newItemTranslations.htm",
+      "size": 74584
+    },
+    {
+      "id": "japanesebig-fivefactormarkers",
+      "title": "Japanese Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/JapaneseBig-FiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Japanese Big Five Factor Markers",
+      "filename": "JapaneseBig-FiveFactorMarkers.htm",
+      "size": 19634
+    },
+    {
+      "id": "japaneseipip-neofacets",
+      "title": "Japanese IPIP Neofacets",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/JapaneseIPIP-NEOFacets.htm",
+      "type": "html",
+      "description": "Translated items for Japanese IPIP Neofacets",
+      "filename": "JapaneseIPIP-NEOFacets.htm",
+      "size": 280037
+    },
+    {
+      "id": "japaneseipipipc",
+      "title": "Japanese Ipipipc",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/JapaneseIPIPIPC.htm",
+      "type": "html",
+      "description": "Translated items for Japanese Ipipipc",
+      "filename": "JapaneseIPIPIPC.htm",
+      "size": 15820
+    },
+    {
+      "id": "japanese100-itemipip-neodomains",
+      "title": "Japanese100 Item IPIP Neodomains",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Japanese100-ItemIPIP-NEODomains.htm",
+      "type": "html",
+      "description": "Translated items for Japanese100 Item IPIP Neodomains",
+      "filename": "Japanese100-ItemIPIP-NEODomains.htm",
+      "size": 67712
+    },
+    {
+      "id": "koreanbig-fivefactormarkers",
+      "title": "Korean Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/KoreanBig-FiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Korean Big Five Factor Markers",
+      "filename": "KoreanBig-FiveFactorMarkers.htm",
+      "size": 214991
+    },
+    {
+      "id": "koreanipip-neo-300",
+      "title": "Korean IPIP NEO 300",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/KoreanIPIP-NEO-300.htm",
+      "type": "html",
+      "description": "Translated items for Korean IPIP NEO 300",
+      "filename": "KoreanIPIP-NEO-300.htm",
+      "size": 90822
+    },
+    {
+      "id": "latvianab5c",
+      "title": "Latvian Ab5c",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/LatvianAB5C.htm",
+      "type": "html",
+      "description": "Translated items for Latvian Ab5c",
+      "filename": "LatvianAB5C.htm",
+      "size": 152191
+    },
+    {
+      "id": "latvianbffm",
+      "title": "Latvian Bffm",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/LatvianBFFM.htm",
+      "type": "html",
+      "description": "Translated items for Latvian Bffm",
+      "filename": "LatvianBFFM.htm",
+      "size": 160805
+    },
+    {
+      "id": "macedonianipip-neofacets",
+      "title": "Macedonian IPIP Neofacets",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/MacedonianIPIP-NEOFacets.htm",
+      "type": "html",
+      "description": "Translated items for Macedonian IPIP Neofacets",
+      "filename": "MacedonianIPIP-NEOFacets.htm",
+      "size": 431175
+    },
+    {
+      "id": "mandarin translation of ipip-neo-120",
+      "title": "Mandarin Translation Of IPIP NEO 120",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Mandarin translation of IPIP-NEO-120.htm",
+      "type": "html",
+      "description": "Translated items for Mandarin Translation Of IPIP NEO 120",
+      "filename": "Mandarin translation of IPIP-NEO-120.htm",
+      "size": 175331
+    },
+    {
+      "id": "mexicanipip-neo-120",
+      "title": "Mexican IPIP NEO 120",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/MexicanIPIP-NEO-120.htm",
+      "type": "html",
+      "description": "Translated items for Mexican IPIP NEO 120",
+      "filename": "MexicanIPIP-NEO-120.htm",
+      "size": 214809
+    },
+    {
+      "id": "portuguese100-itembigfivefactormarkers",
+      "title": "Portuguese100 Item Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Portuguese100-itemBigFiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Portuguese100 Item Big Five Factor Markers",
+      "filename": "Portuguese100-itemBigFiveFactorMarkers.htm",
+      "size": 39693
+    },
+    {
+      "id": "portuguese50-itembigfivefactormarkers",
+      "title": "Portuguese50 Item Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Portuguese50-itemBigFiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Portuguese50 Item Big Five Factor Markers",
+      "filename": "Portuguese50-itemBigFiveFactorMarkers.htm",
+      "size": 21656
+    },
+    {
+      "id": "russian50-itembigfivefactormarkers",
+      "title": "Russian50 Item Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Russian50-itemBigFiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Russian50 Item Big Five Factor Markers",
+      "filename": "Russian50-itemBigFiveFactorMarkers.htm",
+      "size": 16499
+    },
+    {
+      "id": "serbian2544items",
+      "title": "Serbian2544items",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Serbian2544Items.htm",
+      "type": "html",
+      "description": "Translated items for Serbian2544items",
+      "filename": "Serbian2544Items.htm",
+      "size": 588119
+    },
+    {
+      "id": "sloveneipip-neofacets",
+      "title": "Slovene IPIP Neofacets",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/SloveneIPIP-NEOFacets.htm",
+      "type": "html",
+      "description": "Translated items for Slovene IPIP Neofacets",
+      "filename": "SloveneIPIP-NEOFacets.htm",
+      "size": 125001
+    },
+    {
+      "id": "slovene100-itembig-fivefactormarkers",
+      "title": "Slovene100 Item Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Slovene100-ItemBig-FiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Slovene100 Item Big Five Factor Markers",
+      "filename": "Slovene100-ItemBig-FiveFactorMarkers.htm",
+      "size": 29154
+    },
+    {
+      "id": "spanishbig-fivefactormarkers",
+      "title": "Spanish Big Five Factor Markers",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/SpanishBig-FiveFactorMarkers.htm",
+      "type": "html",
+      "description": "Translated items for Spanish Big Five Factor Markers",
+      "filename": "SpanishBig-FiveFactorMarkers.htm",
+      "size": 15178
+    },
+    {
+      "id": "spanishmini-ipipposneg",
+      "title": "Spanishmini Ipipposneg",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Spanishmini-IPIPposneg.htm",
+      "type": "html",
+      "description": "Translated items for Spanishmini Ipipposneg",
+      "filename": "Spanishmini-IPIPposneg.htm",
+      "size": 93394
+    },
+    {
+      "id": "thai50-itemneo-pi-r-domains",
+      "title": "Thai50 Item NEO Pi R Domains",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Thai50-itemNEO-PI-R-Domains.htm",
+      "type": "html",
+      "description": "Translated items for Thai50 Item NEO Pi R Domains",
+      "filename": "Thai50-itemNEO-PI-R-Domains.htm",
+      "size": 25906
+    },
+    {
+      "id": "turkish924items",
+      "title": "Turkish924items",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/Turkish924Items.htm",
+      "type": "html",
+      "description": "Translated items for Turkish924items",
+      "filename": "Turkish924Items.htm",
+      "size": 384303
+    },
+    {
+      "id": "urduconscientiousness",
+      "title": "Urdu Conscientiousness",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/UrduConscientiousness.htm",
+      "type": "html",
+      "description": "Translated items for Urdu Conscientiousness",
+      "filename": "UrduConscientiousness.htm",
+      "size": 19487
+    },
+    {
+      "id": "urduipip-neo-300",
+      "title": "Urdu IPIP NEO 300",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/UrduIPIP-NEO-300.htm",
+      "type": "html",
+      "description": "Translated items for Urdu IPIP NEO 300",
+      "filename": "UrduIPIP-NEO-300.htm",
+      "size": 275075
+    },
+    {
+      "id": "vietnameseab5c",
+      "title": "Vietnamese Ab5c",
+      "category": "translations",
+      "path": "/archive/ipip-mirror/ipip.ori.org/VietnameseAB5C.htm",
+      "type": "html",
+      "description": "Translated items for Vietnamese Ab5c",
+      "filename": "VietnameseAB5C.htm",
+      "size": 131008
+    }
+  ]
+}

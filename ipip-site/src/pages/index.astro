@@ -1,0 +1,82 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+---
+
+<MainLayout title="Home">
+  <div class="text-center mb-12">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">
+      International Personality Item Pool
+    </h1>
+    <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+      A scientific collaboratory for the development of advanced measures of personality and other individual differences.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-8 mb-12">
+    <a href="/tests" class="block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200">
+      <div class="text-3xl mb-4">📝</div>
+      <h2 class="text-2xl font-bold text-gray-900 mb-2">Take Tests</h2>
+      <p class="text-gray-600">
+        Complete psychological assessments online. Choose from 16+ test batteries including Big Five, NEO-PI-R, HEXACO, and more.
+      </p>
+      <div class="mt-4 text-blue-600 font-medium">
+        Start testing →
+      </div>
+    </a>
+
+    <a href="/items" class="block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200">
+      <div class="text-3xl mb-4">🔍</div>
+      <h2 class="text-2xl font-bold text-gray-900 mb-2">Browse Items</h2>
+      <p class="text-gray-600">
+        Explore 3,200+ personality test items with translations in 30+ languages. Search, filter, and view item details.
+      </p>
+      <div class="mt-4 text-blue-600 font-medium">
+        Browse items →
+      </div>
+    </a>
+
+    <a href="/archive" class="block p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200">
+      <div class="text-3xl mb-4">📚</div>
+      <h2 class="text-2xl font-bold text-gray-900 mb-2">Archive</h2>
+      <p class="text-gray-600">
+        Access technical documentation, scoring guides, research papers, and the complete IPIP archive.
+      </p>
+      <div class="mt-4 text-blue-600 font-medium">
+        View archive →
+      </div>
+    </a>
+  </div>
+
+  <div class="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-8">
+    <h3 class="text-lg font-bold text-gray-900 mb-2">About This Project</h3>
+    <p class="text-gray-700">
+      This website is a modern recreation of the International Personality Item Pool (IPIP) project.
+      All original content has been preserved and reorganized for better accessibility.
+      The IPIP provides public-domain personality test items and scales for research and educational purposes.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-6">
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+      <h3 class="text-lg font-bold text-gray-900 mb-3">Quick Stats</h3>
+      <ul class="space-y-2 text-gray-700">
+        <li><span class="font-semibold">3,224</span> personality test items</li>
+        <li><span class="font-semibold">16</span> test batteries available</li>
+        <li><span class="font-semibold">304</span> personality scales</li>
+        <li><span class="font-semibold">30+</span> language translations</li>
+      </ul>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+      <h3 class="text-lg font-bold text-gray-900 mb-3">Features</h3>
+      <ul class="space-y-2 text-gray-700">
+        <li>✓ Interactive online testing</li>
+        <li>✓ Multi-language support</li>
+        <li>✓ Automatic scoring</li>
+        <li>✓ Progress saving</li>
+        <li>✓ Complete item database</li>
+        <li>✓ Full archive access</li>
+      </ul>
+    </div>
+  </div>
+</MainLayout>

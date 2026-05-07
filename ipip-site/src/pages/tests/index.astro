@@ -1,0 +1,52 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import testBatteries from '../../../public/data/test-batteries.json';
+
+const batteries = testBatteries;
+
+// Sort by item count
+batteries.sort((a, b) => a.itemCount - b.itemCount);
+---
+
+<MainLayout title="Tests">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-gray-900 mb-2">Personality Tests</h1>
+    <p class="text-gray-600">
+      Choose from {batteries.length} different personality test batteries. All tests are free and can be completed online.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {batteries.map(battery => (
+      <a
+        href={`/tests/${battery.id}`}
+        class="block bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow border border-gray-200 p-6"
+      >
+        <h2 class="text-xl font-bold text-gray-900 mb-2">
+          {battery.name}
+        </h2>
+        <p class="text-gray-600 text-sm mb-4">
+          {battery.description}
+        </p>
+        <div class="flex items-center justify-between text-sm text-gray-500">
+          <span>{battery.itemCount} items</span>
+          <span>~{battery.estimatedMinutes} min</span>
+        </div>
+        <div class="mt-4 text-blue-600 font-medium">
+          Start test →
+        </div>
+      </a>
+    ))}
+  </div>
+
+  <div class="mt-12 bg-yellow-50 border border-yellow-200 rounded-lg p-6">
+    <h3 class="text-lg font-bold text-gray-900 mb-2">Before You Begin</h3>
+    <ul class="space-y-2 text-gray-700">
+      <li>• Tests are saved automatically in your browser</li>
+      <li>• You can pause and resume at any time</li>
+      <li>• All scoring is done locally - no data is sent to a server</li>
+      <li>• Results can be exported as JSON or CSV</li>
+      <li>• For research purposes, these tests are provided as-is without clinical interpretation</li>
+    </ul>
+  </div>
+</MainLayout>

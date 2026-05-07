@@ -1,0 +1,27 @@
+{
+  "languageCode": "vi",
+  "languageName": "Vietnamese",
+  "batteryId": "7factor",
+  "translations": {
+    "X148": "a1p2p12",
+    "X56": "a1n1n05",
+    "X110": "a1n3n31",
+    "X83": "a1p1p02",
+    "H871": "a1p3n64",
+    "X227": "a2n2n100",
+    "X150": "a2p3p118",
+    "X177": "a2p5n185",
+    "H834": "a3n2n231",
+    "H1227": "a5p1p410",
+    "H1413": "a3n2p282",
+    "H250": "a3p5n298",
+    "H744": "a4n3p383",
+    "H730": "a4n3p385",
+    "X228": "a5n5n403",
+    "E141": "a4p5n390",
+    "H1215": "a5p3p428",
+    "E171": "a5n4n443"
+  },
+  "sourceFile": "VietnameseAB5C.htm",
+  "itemCount": 18
+}

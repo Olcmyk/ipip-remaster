@@ -1,0 +1,63 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import TestInterface from '../../components/test/TestInterface';
+import testBatteries from '../../../public/data/test-batteries.json';
+import items from '../../../public/data/items.json';
+import scales from '../../../public/data/scales.json';
+
+export async function getStaticPaths() {
+  const batteries = testBatteries;
+
+  return batteries.map(battery => ({
+    params: { testId: battery.id }
+  }));
+}
+
+const { testId } = Astro.params;
+
+const battery = testBatteries.find(b => b.id === testId);
+if (!battery) {
+  return Astro.redirect('/tests');
+}
+
+// Get items for this battery
+const batteryScales = scales.filter(s => battery.scales.includes(s.id));
+const itemIds = new Set();
+batteryScales.forEach(scale => {
+  scale.items.forEach(item => {
+    item.itemIds.forEach(id => {
+      itemIds.add(id);
+    });
+  });
+});
+const batteryItems = items.filter(item => item.ids.some(id => itemIds.has(id)));
+
+// Merge keying information from scales into items
+const itemsWithKeying = batteryItems.map(item => {
+  const keying = {};
+
+  // Find all scales that use this item and their keying
+  batteryScales.forEach(scale => {
+    scale.items.forEach(scaleItem => {
+      // Check if this scale item matches our item
+      if (scaleItem.itemIds.some(id => item.ids.includes(id))) {
+        keying[scale.id] = scaleItem.keying;
+      }
+    });
+  });
+
+  return {
+    ...item,
+    keying: Object.keys(keying).length > 0 ? keying : undefined
+  };
+});
+---
+
+<MainLayout title={battery.name}>
+  <TestInterface
+    client:load
+    battery={battery}
+    items={itemsWithKeying}
+    scales={batteryScales}
+  />
+</MainLayout>

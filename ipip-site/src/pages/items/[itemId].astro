@@ -1,0 +1,41 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import ItemDetail from '../../components/browser/ItemDetail';
+import items from '../../../public/data/items.json';
+import scales from '../../../public/data/scales.json';
+import translationIndex from '../../../public/data/translations/index.json';
+
+export async function getStaticPaths() {
+  // Generate paths for all item IDs (including merged IDs)
+  const paths = [];
+  items.forEach(item => {
+    item.ids.forEach(id => {
+      paths.push({
+        params: { itemId: id }
+      });
+    });
+  });
+  return paths;
+}
+
+const { itemId } = Astro.params;
+
+const item = items.find(i => i.ids.includes(itemId));
+
+if (!item) {
+  return Astro.redirect('/items');
+}
+
+const itemScales = scales.filter(s => s.items.some(i => i.itemId === item.id));
+
+const translations = translationIndex;
+---
+
+<MainLayout title={`Item ${item.ids[0]}`}>
+  <ItemDetail
+    client:load
+    item={item}
+    scales={itemScales}
+    availableLanguages={translations}
+  />
+</MainLayout>

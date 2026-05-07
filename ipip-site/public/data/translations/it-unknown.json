@@ -1,0 +1,16 @@
+{
+  "languageCode": "it",
+  "languageName": "Italian",
+  "batteryId": null,
+  "translations": {
+    "X74": "N + keyed",
+    "X265": "N – keyed",
+    "X112": "E + keyed",
+    "H1039": "E – keyed",
+    "X123": "O + keyed",
+    "X228": "O – keyed",
+    "X87": "C + keyed"
+  },
+  "sourceFile": "ItalianIPIP-NEO5domains.html",
+  "itemCount": 7
+}

@@ -1,0 +1,14 @@
+{
+  "languageCode": "ja",
+  "languageName": "Japanese",
+  "translations": {
+    "H769": "6",
+    "H162": "10",
+    "X83": "21",
+    "E179": "24",
+    "X169": "26",
+    "X227": "32"
+  },
+  "sourceFile": "JapaneseIPIPIPC.htm",
+  "coverage": "0.2"
+}

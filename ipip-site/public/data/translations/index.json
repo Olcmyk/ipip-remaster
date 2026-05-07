@@ -1,0 +1,128 @@
+[
+  {
+    "languageCode": "ar",
+    "languageName": "Arabic",
+    "batteryId": "bigfive5broad",
+    "itemCount": 17,
+    "sourceFile": "ArabicBigFiveFactorMarkers.htm"
+  },
+  {
+    "languageCode": "ar",
+    "languageName": "Arabic",
+    "batteryId": "bigfive5broad",
+    "itemCount": 21,
+    "sourceFile": "ArabicBigFiveFactorMarkers2.htm"
+  },
+  {
+    "languageCode": "hr",
+    "languageName": "Croatian",
+    "batteryId": "neodomains",
+    "itemCount": 23,
+    "sourceFile": "CroatianIPIP-NEODomains.htm"
+  },
+  {
+    "languageCode": "hr",
+    "languageName": "Croatian",
+    "batteryId": "neofacets",
+    "itemCount": 6,
+    "sourceFile": "CroatianIPIP-NEOFacets.htm"
+  },
+  {
+    "languageCode": "da",
+    "languageName": "Danish",
+    "batteryId": "neodomains",
+    "itemCount": 14,
+    "sourceFile": "DanishIPIP-NEO-120.htm"
+  },
+  {
+    "languageCode": "et",
+    "languageName": "Estonian",
+    "batteryId": "neofacets",
+    "itemCount": 140,
+    "sourceFile": "EstonianIPIP-NEOFacets.htm"
+  },
+  {
+    "languageCode": "et",
+    "languageName": "Estonian",
+    "batteryId": "neofacets",
+    "itemCount": 92,
+    "sourceFile": "EstonianRevisedIPIP-NEOFacets.htm"
+  },
+  {
+    "languageCode": "fr",
+    "languageName": "French",
+    "batteryId": "neo",
+    "itemCount": 135,
+    "sourceFile": "FrenchCanadian300-Item-IPIP-NEO.htm"
+  },
+  {
+    "languageCode": "hu",
+    "languageName": "Hungarian",
+    "batteryId": "neodomains",
+    "itemCount": 64,
+    "sourceFile": "HungarianIPIP-NEODomains.htm"
+  },
+  {
+    "languageCode": "id",
+    "languageName": "Indonesian",
+    "batteryId": "bigfive5broad",
+    "itemCount": 17,
+    "sourceFile": "IndonesianBFM.htm"
+  },
+  {
+    "languageCode": "ja",
+    "languageName": "Japanese",
+    "batteryId": "neodomains",
+    "itemCount": 31,
+    "sourceFile": "Japanese100-ItemIPIP-NEODomains.htm"
+  },
+  {
+    "languageCode": "ja",
+    "languageName": "Japanese",
+    "batteryId": "neofacets",
+    "itemCount": 93,
+    "sourceFile": "JapaneseIPIP-NEOFacets.htm"
+  },
+  {
+    "languageCode": "ko",
+    "languageName": "Korean",
+    "batteryId": "bigfive5broad",
+    "itemCount": 21,
+    "sourceFile": "KoreanBig-FiveFactorMarkers.htm"
+  },
+  {
+    "languageCode": "ko",
+    "languageName": "Korean",
+    "batteryId": "neofacets",
+    "itemCount": 109,
+    "sourceFile": "KoreanIPIP-NEO-300.htm"
+  },
+  {
+    "languageCode": "mk",
+    "languageName": "Macedonian",
+    "batteryId": "neofacets",
+    "itemCount": 3,
+    "sourceFile": "MacedonianIPIP-NEOFacets.htm"
+  },
+  {
+    "languageCode": "ru",
+    "languageName": "Russian",
+    "batteryId": "bigfive5broad",
+    "itemCount": 42,
+    "sourceFile": "Russian50-itemBigFiveFactorMarkers.htm"
+  },
+  {
+    "languageCode": "th",
+    "languageName": "Thai",
+    "batteryId": "neodomains",
+    "itemCount": 2,
+    "sourceFile": "Thai50-itemNEO-PI-R-Domains.htm"
+  },
+  {
+    "languageCode": "vi",
+    "languageName": "Vietnamese",
+    "batteryId": "7factor",
+    "itemCount": 18,
+    "sourceFile": "VietnameseAB5C.htm"
+  }
+]

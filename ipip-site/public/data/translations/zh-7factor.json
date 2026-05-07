@@ -1,0 +1,18 @@
+{
+  "languageCode": "zh",
+  "languageName": "Chinese",
+  "batteryId": "7factor",
+  "translations": {
+    "X176": "10.",
+    "H1103": "12.",
+    "H1130": "17.",
+    "X228": "20.",
+    "X227": "22.",
+    "H1313": "25.",
+    "X83": "31.",
+    "E136": "42.",
+    "X74": "49."
+  },
+  "sourceFile": "ChineseAB5CFactorMarkers.htm",
+  "itemCount": 9
+}

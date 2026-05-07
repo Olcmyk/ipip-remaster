@@ -1,0 +1,113 @@
+{
+  "summary": {
+    "originalItemCount": 5044,
+    "mergedItemCount": 3787,
+    "itemsMerged": 1257,
+    "uniqueTexts": 3787,
+    "originalScaleItems": 3188,
+    "mergedScaleItems": 3066,
+    "duplicateScaleItemsRemoved": 122
+  },
+  "examples": [
+    {
+      "text": "Like to watch children open presents.",
+      "ids": [
+        "A1",
+        "J89"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Dislike being\naround happy people when I'm feeling sad.",
+      "ids": [
+        "A2",
+        "I8"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Shout or scream when I'm angry.",
+      "ids": [
+        "A3",
+        "J395"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Find it\ndifficult showing people that I care about them.",
+      "ids": [
+        "A4",
+        "I247"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Laugh out loud if something is funny.",
+      "ids": [
+        "A5",
+        "J30"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Express my happiness in a childlike manner.",
+      "ids": [
+        "A7",
+        "I184"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Keep my\nfeelings to myself, regardless of how unhappy I am.",
+      "ids": [
+        "A10",
+        "I485"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Am unaffected by other people's happiness.",
+      "ids": [
+        "A11",
+        "G212"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Find it\ndifficult showing people that I'm angry with them.",
+      "ids": [
+        "A12",
+        "I248"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    },
+    {
+      "text": "Rarely get caught up in the excitement.",
+      "ids": [
+        "A13",
+        "J294"
+      ],
+      "translationLanguages": [
+        "undefined"
+      ]
+    }
+  ]
+}

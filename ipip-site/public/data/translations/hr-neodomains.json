@@ -1,0 +1,32 @@
+{
+  "languageCode": "hr",
+  "languageName": "Croatian",
+  "batteryId": "neodomains",
+  "translations": {
+    "H640": "Često\nsam turoban.",
+    "H1366": "Vješto\nse snalazim u društvenim situacijama.",
+    "H1110": "Znam\nkako osvojiti ljude.",
+    "X83": "Na\nzabavama razgovaram s mnogo različitih ljudi.",
+    "X78": "Ne\nsmeta me biti u središtu pažnje.",
+    "X147": "Svoja\nbih životna iskustva opisao kao pomalo dosadna.",
+    "X68": "Ne\nvolim privlačiti pažnju.",
+    "H592": "Teško\npristupam drugima.",
+    "X14": "Imam\nživu maštu.",
+    "X218": "Sklon\nsam glasovanju za liberalne političke kandidate.",
+    "H1227": "Podižem\nraspravu na višu razinu.",
+    "X238": "Uživam\nu neobuzdanom maštanju.",
+    "X235": "Ne\nvolim posjećivati muzeje umjetnosti.",
+    "X126": "Sklon\nsam glasovanju za konzervativne političke kandidate.",
+    "E77": "Rijetko\nu nečemu tražim dublji smisao.",
+    "X239": "Ne\nzanimaju me teorijske rasprave.",
+    "H604": "Mislim\nda drugi imaju skrivene namjere.",
+    "H1325": "U\nsvemu tražim osobnu korist.",
+    "X263": "Držim\nse planova koje sam zacrtao.",
+    "H1351": "Sve\nradim prema planu.",
+    "H1171": "Teško\nmi je prihvatiti se posla.",
+    "X115": "Radim\ntaman onoliko koliko je potrebno.",
+    "H854": "Ne\nposvećujem potpunu pažnju zadatku koji obavljam."
+  },
+  "sourceFile": "CroatianIPIP-NEODomains.htm",
+  "itemCount": 23
+}

@@ -1,0 +1,25 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import ItemBrowser from '../../components/browser/ItemBrowser';
+import items from '../../../public/data/items.json';
+import scales from '../../../public/data/scales.json';
+import translationIndex from '../../../public/data/translations/index.json';
+
+const translations = translationIndex;
+---
+
+<MainLayout title="Item Browser">
+  <div class="mb-6">
+    <h1 class="text-3xl font-bold text-gray-900 mb-2">Item Browser</h1>
+    <p class="text-gray-600">
+      Browse all {items.length} personality test items. Search, filter, and view translations.
+    </p>
+  </div>
+
+  <ItemBrowser
+    client:load
+    items={items}
+    scales={scales}
+    translations={translations}
+  />
+</MainLayout>
