@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/post-build-inject-styles.js",
+    "build": "astro build && node scripts/post-build-inject-styles.cjs",
     "preview": "astro preview",
     "astro": "astro",
     "extract:items": "node scripts/parse-items.js",
