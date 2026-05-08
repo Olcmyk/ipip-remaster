@@ -1,4 +1,4 @@
-# IPIP Clone
+# IPIP Remaster
 
 A recreation of [https://ipip.ori.org/](https://ipip.ori.org/) with online testing functionality.
 
