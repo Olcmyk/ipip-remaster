@@ -473,7 +473,9 @@
       "mini-ipip-conscientiousness",
       "mini-ipip-neuroticismb",
       "mini-ipip-imagination"
-    ]
+    ],
+    "itemCount": 20,
+    "estimatedMinutes": 10
   },
   {
     "id": "mini-ipip6",
@@ -486,6 +488,8 @@
       "mini-ipip6-neuroticism",
       "mini-ipip6-openness-to-experience",
       "mini-ipip6-honesty-humility"
-    ]
+    ],
+    "itemCount": 24,
+    "estimatedMinutes": 12
   }
 ]
