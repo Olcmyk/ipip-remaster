@@ -1,0 +1,2 @@
+# Exclude archive directory from GitHub language statistics
+archive/** linguist-vendored
