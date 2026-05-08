@@ -4125,8 +4125,8 @@
     ]
   },
   {
-    "id": "bigfive5broad-factor-ii",
-    "name": "Factor II",
+    "id": "bigfive5broad-agreeableness",
+    "name": "Agreeableness",
     "instrument": "BigFive5broad",
     "alpha": null,
     "items": [
@@ -4206,8 +4206,8 @@
     ]
   },
   {
-    "id": "bigfive5broad-factor-iii",
-    "name": "Factor III",
+    "id": "bigfive5broad-conscientiousness",
+    "name": "Conscientiousness",
     "instrument": "BigFive5broad",
     "alpha": null,
     "items": [

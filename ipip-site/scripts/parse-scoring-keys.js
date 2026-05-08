@@ -119,8 +119,17 @@ function parseScoringKeyFile(filename) {
       const alphaMatch = text.match(/alpha\s*=\s*([\d.]+)/i);
       const alpha = alphaMatch ? parseFloat(alphaMatch[1]) : null;
 
-      // Clean scale name
-      let scaleName = text.replace(/\(.*?\)/g, '').trim();
+      // Clean scale name - prefer parenthetical content for factor names
+      let scaleName = text;
+      const factorMatch = text.match(/Factor\s+([IVX]+|[A-Z]\d+)\s*(?:\(([^)]+)\))?/i);
+      if (factorMatch && factorMatch[2]) {
+        // Use the parenthetical name for factors (e.g., "Agreeableness" from "Factor II (Agreeableness)")
+        scaleName = factorMatch[2].trim();
+      } else {
+        // For non-factor scales, remove parenthetical content
+        scaleName = text.replace(/\(.*?\)/g, '').trim();
+      }
+
       if (scaleName.length > 0 && scaleName.length < 100) {
         currentScale = {
           id: `${instrumentName.toLowerCase()}-${scaleName.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`,
