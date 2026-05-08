@@ -23,6 +23,27 @@ const categoryDescriptions: Record<string, string> = {
     </p>
   </div>
 
+  <!-- Search Box -->
+  <div class="mb-8">
+    <div class="relative">
+      <input
+        type="text"
+        id="archive-search"
+        placeholder="Search all documents..."
+        class="w-full px-4 py-3 pl-10 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+      />
+      <svg class="absolute left-3 top-3.5 h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+    </div>
+    <div id="search-results" class="mt-4 hidden">
+      <div class="mb-3 text-sm text-gray-600">
+        <span id="results-count"></span>
+      </div>
+      <div id="results-list" class="space-y-3"></div>
+    </div>
+  </div>
+
   <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
     {catalog.categories.map(category => {
       const docs = catalog.byCategory[category];
@@ -57,3 +78,80 @@ const categoryDescriptions: Record<string, string> = {
     </p>
   </div>
 </MainLayout>
+
+<script define:vars={{ allDocuments: catalog.allDocuments }}>
+  const searchInput = document.getElementById('archive-search');
+  const searchResults = document.getElementById('search-results');
+  const resultsCount = document.getElementById('results-count');
+  const resultsList = document.getElementById('results-list');
+  const categoriesGrid = document.querySelector('.grid');
+
+  function searchDocuments(query) {
+    if (!query || query.trim().length < 2) {
+      searchResults.classList.add('hidden');
+      categoriesGrid.classList.remove('hidden');
+      return;
+    }
+
+    const lowerQuery = query.toLowerCase();
+    const results = allDocuments.filter(doc => {
+      return doc.title.toLowerCase().includes(lowerQuery) ||
+             doc.description.toLowerCase().includes(lowerQuery) ||
+             doc.filename.toLowerCase().includes(lowerQuery) ||
+             doc.category.toLowerCase().includes(lowerQuery);
+    });
+
+    if (results.length === 0) {
+      resultsCount.textContent = 'No documents found';
+      resultsList.innerHTML = '<p class="text-gray-500 text-center py-8">Try a different search term</p>';
+    } else {
+      resultsCount.textContent = `Found ${results.length} document${results.length === 1 ? '' : 's'}`;
+      resultsList.innerHTML = results.map(doc => `
+        <a
+          href="/archive/${doc.category}/${doc.filename}"
+          class="block bg-white rounded-lg shadow-sm border border-gray-200 p-4 hover:shadow-md transition-shadow"
+        >
+          <div class="flex items-start justify-between">
+            <div class="flex-1">
+              <h3 class="font-bold text-gray-900 mb-1">${doc.title}</h3>
+              <p class="text-sm text-gray-600 mb-2">${doc.description}</p>
+              <div class="flex items-center gap-2">
+                <span class="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded capitalize">
+                  ${doc.category.replace(/-/g, ' ')}
+                </span>
+                <span class="text-xs bg-gray-100 text-gray-700 px-2 py-0.5 rounded uppercase">
+                  ${doc.type}
+                </span>
+                <span class="text-xs text-gray-500">
+                  ${(doc.size / 1024).toFixed(1)} KB
+                </span>
+              </div>
+            </div>
+            <div class="ml-4 text-gray-400">
+              →
+            </div>
+          </div>
+        </a>
+      `).join('');
+    }
+
+    searchResults.classList.remove('hidden');
+    categoriesGrid.classList.add('hidden');
+  }
+
+  let debounceTimer;
+  searchInput.addEventListener('input', (e) => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      searchDocuments(e.target.value);
+    }, 300);
+  });
+
+  // Clear search when input is empty
+  searchInput.addEventListener('keyup', (e) => {
+    if (e.target.value.trim() === '') {
+      searchResults.classList.add('hidden');
+      categoriesGrid.classList.remove('hidden');
+    }
+  });
+</script>
