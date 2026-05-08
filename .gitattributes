@@ -1,2 +1,3 @@
-# Exclude archive directory from GitHub language statistics
+# Exclude archive and build output directories from GitHub language statistics
 archive/** linguist-vendored
+ipip-site/dist/** linguist-generated
