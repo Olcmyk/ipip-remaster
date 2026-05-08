@@ -23541,5 +23541,4805 @@
         "keying": -1
       }
     ]
+  },
+  {
+    "id": "miniipip6-extraversion",
+    "name": "Extraversion",
+    "instrument": "MiniIPIP6",
+    "alpha": 0.75,
+    "items": [
+      {
+        "itemId": "H34",
+        "keying": 1
+      },
+      {
+        "itemId": "J473",
+        "keying": 1
+      },
+      {
+        "itemId": "I124",
+        "keying": -1
+      },
+      {
+        "itemId": "H154",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip6-agreeableness",
+    "name": "Agreeableness",
+    "instrument": "MiniIPIP6",
+    "alpha": 0.62,
+    "items": [
+      {
+        "itemId": "H1130",
+        "keying": 1
+      },
+      {
+        "itemId": "E136",
+        "keying": 1
+      },
+      {
+        "itemId": "G172",
+        "keying": -1
+      },
+      {
+        "itemId": "G166",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip6-conscientiousness",
+    "name": "Conscientiousness",
+    "instrument": "MiniIPIP6",
+    "alpha": 0.69,
+    "items": [
+      {
+        "itemId": "E119",
+        "keying": 1
+      },
+      {
+        "itemId": "X118",
+        "keying": 1
+      },
+      {
+        "itemId": "J200",
+        "keying": -1
+      },
+      {
+        "itemId": "H1467",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip6-neuroticism",
+    "name": "Neuroticism",
+    "instrument": "MiniIPIP6",
+    "alpha": 0.69,
+    "items": [
+      {
+        "itemId": "E92",
+        "keying": 1
+      },
+      {
+        "itemId": "I331",
+        "keying": 1
+      },
+      {
+        "itemId": "E141",
+        "keying": -1
+      },
+      {
+        "itemId": "J375",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip6-openness-to-experience",
+    "name": "Openness to Experience",
+    "instrument": "MiniIPIP6",
+    "alpha": 0.66,
+    "items": [
+      {
+        "itemId": "I405",
+        "keying": 1
+      },
+      {
+        "itemId": "I422",
+        "keying": -1
+      },
+      {
+        "itemId": "G164",
+        "keying": -1
+      },
+      {
+        "itemId": "I40",
+        "keying": -1
+      },
+      {
+        "itemId": "I210",
+        "keying": -1
+      },
+      {
+        "itemId": "G495",
+        "keying": -1
+      },
+      {
+        "itemId": "K159",
+        "keying": -1
+      },
+      {
+        "itemId": "K158",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip-surgency-or-extraversion",
+    "name": "Surgency or Extraversion",
+    "instrument": "MiniIPIP",
+    "alpha": 0.77,
+    "items": [
+      {
+        "itemId": "H34",
+        "keying": 1
+      },
+      {
+        "itemId": "J473",
+        "keying": 1
+      },
+      {
+        "itemId": "I124",
+        "keying": -1
+      },
+      {
+        "itemId": "H154",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip-agreeableness",
+    "name": "Agreeableness",
+    "instrument": "MiniIPIP",
+    "alpha": 0.7,
+    "items": [
+      {
+        "itemId": "H1130",
+        "keying": 1
+      },
+      {
+        "itemId": "E136",
+        "keying": 1
+      },
+      {
+        "itemId": "G172",
+        "keying": -1
+      },
+      {
+        "itemId": "G166",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip-conscientiousness",
+    "name": "Conscientiousness",
+    "instrument": "MiniIPIP",
+    "alpha": 0.69,
+    "items": [
+      {
+        "itemId": "E119",
+        "keying": 1
+      },
+      {
+        "itemId": "X118",
+        "keying": 1
+      },
+      {
+        "itemId": "J200",
+        "keying": -1
+      },
+      {
+        "itemId": "H1467",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip-neuroticismb",
+    "name": "Neuroticismb",
+    "instrument": "MiniIPIP",
+    "alpha": 0.68,
+    "items": [
+      {
+        "itemId": "E92",
+        "keying": 1
+      },
+      {
+        "itemId": "I331",
+        "keying": 1
+      },
+      {
+        "itemId": "E141",
+        "keying": -1
+      },
+      {
+        "itemId": "J375",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "miniipip-intellect-or-imagination",
+    "name": "Intellect or Imagination",
+    "instrument": "MiniIPIP",
+    "alpha": 0.65,
+    "items": [
+      {
+        "itemId": "I405",
+        "keying": 1
+      },
+      {
+        "itemId": "I422",
+        "keying": -1
+      },
+      {
+        "itemId": "G164",
+        "keying": -1
+      },
+      {
+        "itemId": "I40",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-i-vs-i-i-",
+    "name": "I+/I+ vs I-/I-",
+    "instrument": "AB5C",
+    "alpha": 0.83,
+    "items": [
+      {
+        "itemId": "H34",
+        "keying": 1
+      },
+      {
+        "itemId": "J473",
+        "keying": 1
+      },
+      {
+        "itemId": "H16",
+        "keying": 1
+      },
+      {
+        "itemId": "H78",
+        "keying": 1
+      },
+      {
+        "itemId": "I124",
+        "keying": -1
+      },
+      {
+        "itemId": "H154",
+        "keying": -1
+      },
+      {
+        "itemId": "G197",
+        "keying": -1
+      },
+      {
+        "itemId": "I102",
+        "keying": -1
+      },
+      {
+        "itemId": "G357",
+        "keying": -1
+      },
+      {
+        "itemId": "H588",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-the-items-in-the-45-preliminary-ipip-scales-measuring-the-45-ab5c-facets-i-i-vs-i-i-",
+    "name": "The Items in the 45 Preliminary IPIP Scales Measuring the 45 AB5C Facets I+/I+ vs I-/I-",
+    "instrument": "AB5C",
+    "alpha": 0.83,
+    "items": [
+      {
+        "itemId": "H29",
+        "keying": 1
+      },
+      {
+        "itemId": "G183",
+        "keying": 1
+      },
+      {
+        "itemId": "G10",
+        "keying": 1
+      },
+      {
+        "itemId": "H32",
+        "keying": 1
+      },
+      {
+        "itemId": "H52",
+        "keying": 1
+      },
+      {
+        "itemId": "G123",
+        "keying": -1
+      },
+      {
+        "itemId": "G68",
+        "keying": -1
+      },
+      {
+        "itemId": "G250",
+        "keying": -1
+      },
+      {
+        "itemId": "H704",
+        "keying": -1
+      },
+      {
+        "itemId": "H601",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-ii-vs-i-ii-",
+    "name": "I+/II+ vs I-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H29",
+        "keying": 1
+      },
+      {
+        "itemId": "G183",
+        "keying": 1
+      },
+      {
+        "itemId": "G10",
+        "keying": 1
+      },
+      {
+        "itemId": "H32",
+        "keying": 1
+      },
+      {
+        "itemId": "H52",
+        "keying": 1
+      },
+      {
+        "itemId": "G123",
+        "keying": -1
+      },
+      {
+        "itemId": "G68",
+        "keying": -1
+      },
+      {
+        "itemId": "G250",
+        "keying": -1
+      },
+      {
+        "itemId": "H704",
+        "keying": -1
+      },
+      {
+        "itemId": "H601",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-ii-vs-i-ii-",
+    "name": "I+/II+ vs I-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E1",
+        "keying": 1
+      },
+      {
+        "itemId": "G384",
+        "keying": 1
+      },
+      {
+        "itemId": "H524",
+        "keying": 1
+      },
+      {
+        "itemId": "H402",
+        "keying": 1
+      },
+      {
+        "itemId": "H1077",
+        "keying": 1
+      },
+      {
+        "itemId": "H58",
+        "keying": 1
+      },
+      {
+        "itemId": "G446",
+        "keying": 1
+      },
+      {
+        "itemId": "H79",
+        "keying": 1
+      },
+      {
+        "itemId": "H328",
+        "keying": 1
+      },
+      {
+        "itemId": "H1026",
+        "keying": -1
+      },
+      {
+        "itemId": "G161",
+        "keying": -1
+      },
+      {
+        "itemId": "H1448",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iii-vs-i-iii-",
+    "name": "I+/III+ vs I-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E1",
+        "keying": 1
+      },
+      {
+        "itemId": "G384",
+        "keying": 1
+      },
+      {
+        "itemId": "H524",
+        "keying": 1
+      },
+      {
+        "itemId": "H402",
+        "keying": 1
+      },
+      {
+        "itemId": "H1077",
+        "keying": 1
+      },
+      {
+        "itemId": "H58",
+        "keying": 1
+      },
+      {
+        "itemId": "G446",
+        "keying": 1
+      },
+      {
+        "itemId": "H79",
+        "keying": 1
+      },
+      {
+        "itemId": "H328",
+        "keying": 1
+      },
+      {
+        "itemId": "H1026",
+        "keying": -1
+      },
+      {
+        "itemId": "G161",
+        "keying": -1
+      },
+      {
+        "itemId": "H1448",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iii-vs-i-iii-",
+    "name": "I+/III+ vs I-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I205",
+        "keying": 1
+      },
+      {
+        "itemId": "G90",
+        "keying": 1
+      },
+      {
+        "itemId": "H1094",
+        "keying": 1
+      },
+      {
+        "itemId": "G154",
+        "keying": 1
+      },
+      {
+        "itemId": "H33",
+        "keying": 1
+      },
+      {
+        "itemId": "H909",
+        "keying": -1
+      },
+      {
+        "itemId": "H592",
+        "keying": -1
+      },
+      {
+        "itemId": "H649",
+        "keying": -1
+      },
+      {
+        "itemId": "H1144",
+        "keying": -1
+      },
+      {
+        "itemId": "H656",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iv-vs-i-iv-",
+    "name": "I+/IV+ vs I-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I205",
+        "keying": 1
+      },
+      {
+        "itemId": "G90",
+        "keying": 1
+      },
+      {
+        "itemId": "H1094",
+        "keying": 1
+      },
+      {
+        "itemId": "G154",
+        "keying": 1
+      },
+      {
+        "itemId": "H33",
+        "keying": 1
+      },
+      {
+        "itemId": "H909",
+        "keying": -1
+      },
+      {
+        "itemId": "H592",
+        "keying": -1
+      },
+      {
+        "itemId": "H649",
+        "keying": -1
+      },
+      {
+        "itemId": "H1144",
+        "keying": -1
+      },
+      {
+        "itemId": "H656",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iv-vs-i-iv-",
+    "name": "I+/IV+ vs I-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H334",
+        "keying": 1
+      },
+      {
+        "itemId": "H1110",
+        "keying": 1
+      },
+      {
+        "itemId": "H17",
+        "keying": 1
+      },
+      {
+        "itemId": "G207",
+        "keying": 1
+      },
+      {
+        "itemId": "J185",
+        "keying": 1
+      },
+      {
+        "itemId": "H1039",
+        "keying": -1
+      },
+      {
+        "itemId": "I413",
+        "keying": -1
+      },
+      {
+        "itemId": "H976",
+        "keying": -1
+      },
+      {
+        "itemId": "G77",
+        "keying": -1
+      },
+      {
+        "itemId": "H964",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-v-vs-i-v-",
+    "name": "I+/V+ vs I-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H334",
+        "keying": 1
+      },
+      {
+        "itemId": "H1110",
+        "keying": 1
+      },
+      {
+        "itemId": "H17",
+        "keying": 1
+      },
+      {
+        "itemId": "G207",
+        "keying": 1
+      },
+      {
+        "itemId": "J185",
+        "keying": 1
+      },
+      {
+        "itemId": "H1039",
+        "keying": -1
+      },
+      {
+        "itemId": "I413",
+        "keying": -1
+      },
+      {
+        "itemId": "H976",
+        "keying": -1
+      },
+      {
+        "itemId": "G77",
+        "keying": -1
+      },
+      {
+        "itemId": "H964",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-v-vs-i-v-",
+    "name": "I+/V+ vs I-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G484",
+        "keying": 1
+      },
+      {
+        "itemId": "G136",
+        "keying": 1
+      },
+      {
+        "itemId": "G356",
+        "keying": 1
+      },
+      {
+        "itemId": "H873",
+        "keying": 1
+      },
+      {
+        "itemId": "H1327",
+        "keying": 1
+      },
+      {
+        "itemId": "G400",
+        "keying": 1
+      },
+      {
+        "itemId": "I110",
+        "keying": 1
+      },
+      {
+        "itemId": "H2030",
+        "keying": 1
+      },
+      {
+        "itemId": "G411",
+        "keying": -1
+      },
+      {
+        "itemId": "H170",
+        "keying": -1
+      },
+      {
+        "itemId": "E31",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-ii-vs-i-ii-",
+    "name": "I+/II- vs I-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G484",
+        "keying": 1
+      },
+      {
+        "itemId": "G136",
+        "keying": 1
+      },
+      {
+        "itemId": "G356",
+        "keying": 1
+      },
+      {
+        "itemId": "H873",
+        "keying": 1
+      },
+      {
+        "itemId": "H1327",
+        "keying": 1
+      },
+      {
+        "itemId": "G400",
+        "keying": 1
+      },
+      {
+        "itemId": "I110",
+        "keying": 1
+      },
+      {
+        "itemId": "H2030",
+        "keying": 1
+      },
+      {
+        "itemId": "G411",
+        "keying": -1
+      },
+      {
+        "itemId": "H170",
+        "keying": -1
+      },
+      {
+        "itemId": "E31",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-ii-vs-i-ii-",
+    "name": "I+/II- vs I-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G13",
+        "keying": 1
+      },
+      {
+        "itemId": "G184",
+        "keying": 1
+      },
+      {
+        "itemId": "H81",
+        "keying": 1
+      },
+      {
+        "itemId": "H2013",
+        "keying": 1
+      },
+      {
+        "itemId": "H23",
+        "keying": 1
+      },
+      {
+        "itemId": "H66",
+        "keying": 1
+      },
+      {
+        "itemId": "H86",
+        "keying": 1
+      },
+      {
+        "itemId": "H2023",
+        "keying": 1
+      },
+      {
+        "itemId": "J378",
+        "keying": -1
+      },
+      {
+        "itemId": "J260",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iii-vs-i-iii-",
+    "name": "I+/III- vs I-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G13",
+        "keying": 1
+      },
+      {
+        "itemId": "G184",
+        "keying": 1
+      },
+      {
+        "itemId": "H81",
+        "keying": 1
+      },
+      {
+        "itemId": "H2013",
+        "keying": 1
+      },
+      {
+        "itemId": "H23",
+        "keying": 1
+      },
+      {
+        "itemId": "H66",
+        "keying": 1
+      },
+      {
+        "itemId": "H86",
+        "keying": 1
+      },
+      {
+        "itemId": "H2023",
+        "keying": 1
+      },
+      {
+        "itemId": "J378",
+        "keying": -1
+      },
+      {
+        "itemId": "J260",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iii-vs-i-iii-",
+    "name": "I+/III- vs I-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H4",
+        "keying": 1
+      },
+      {
+        "itemId": "H1138",
+        "keying": 1
+      },
+      {
+        "itemId": "H527",
+        "keying": 1
+      },
+      {
+        "itemId": "H535",
+        "keying": 1
+      },
+      {
+        "itemId": "H1150",
+        "keying": 1
+      },
+      {
+        "itemId": "H536",
+        "keying": 1
+      },
+      {
+        "itemId": "H531",
+        "keying": 1
+      },
+      {
+        "itemId": "G493",
+        "keying": 1
+      },
+      {
+        "itemId": "H548",
+        "keying": -1
+      },
+      {
+        "itemId": "I23",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iv-vs-i-iv-",
+    "name": "I+/IV- vs I-/IV+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H4",
+        "keying": 1
+      },
+      {
+        "itemId": "H1138",
+        "keying": 1
+      },
+      {
+        "itemId": "H527",
+        "keying": 1
+      },
+      {
+        "itemId": "H535",
+        "keying": 1
+      },
+      {
+        "itemId": "H1150",
+        "keying": 1
+      },
+      {
+        "itemId": "H536",
+        "keying": 1
+      },
+      {
+        "itemId": "H531",
+        "keying": 1
+      },
+      {
+        "itemId": "G493",
+        "keying": 1
+      },
+      {
+        "itemId": "H548",
+        "keying": -1
+      },
+      {
+        "itemId": "I23",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-iv-vs-i-iv-",
+    "name": "I+/IV- vs I-/IV+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G406",
+        "keying": 1
+      },
+      {
+        "itemId": "E56",
+        "keying": 1
+      },
+      {
+        "itemId": "H2015",
+        "keying": 1
+      },
+      {
+        "itemId": "H1092",
+        "keying": -1
+      },
+      {
+        "itemId": "H602",
+        "keying": -1
+      },
+      {
+        "itemId": "E94",
+        "keying": -1
+      },
+      {
+        "itemId": "I100",
+        "keying": -1
+      },
+      {
+        "itemId": "E131",
+        "keying": -1
+      },
+      {
+        "itemId": "H2003",
+        "keying": -1
+      },
+      {
+        "itemId": "H400",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-v-vs-i-v-",
+    "name": "I+/V- vs I-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G406",
+        "keying": 1
+      },
+      {
+        "itemId": "E56",
+        "keying": 1
+      },
+      {
+        "itemId": "H2015",
+        "keying": 1
+      },
+      {
+        "itemId": "H1092",
+        "keying": -1
+      },
+      {
+        "itemId": "H602",
+        "keying": -1
+      },
+      {
+        "itemId": "E94",
+        "keying": -1
+      },
+      {
+        "itemId": "I100",
+        "keying": -1
+      },
+      {
+        "itemId": "E131",
+        "keying": -1
+      },
+      {
+        "itemId": "H2003",
+        "keying": -1
+      },
+      {
+        "itemId": "H400",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-i-v-vs-i-v-",
+    "name": "I+/V- vs I-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1130",
+        "keying": 1
+      },
+      {
+        "itemId": "H159",
+        "keying": 1
+      },
+      {
+        "itemId": "H183",
+        "keying": 1
+      },
+      {
+        "itemId": "H188",
+        "keying": 1
+      },
+      {
+        "itemId": "G228",
+        "keying": 1
+      },
+      {
+        "itemId": "I214",
+        "keying": -1
+      },
+      {
+        "itemId": "G166",
+        "keying": -1
+      },
+      {
+        "itemId": "G127",
+        "keying": -1
+      },
+      {
+        "itemId": "H918",
+        "keying": -1
+      },
+      {
+        "itemId": "G403",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-ii-vs-ii-ii-",
+    "name": "II+/II+ vs II-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1130",
+        "keying": 1
+      },
+      {
+        "itemId": "H159",
+        "keying": 1
+      },
+      {
+        "itemId": "H183",
+        "keying": 1
+      },
+      {
+        "itemId": "H188",
+        "keying": 1
+      },
+      {
+        "itemId": "G228",
+        "keying": 1
+      },
+      {
+        "itemId": "I214",
+        "keying": -1
+      },
+      {
+        "itemId": "G166",
+        "keying": -1
+      },
+      {
+        "itemId": "G127",
+        "keying": -1
+      },
+      {
+        "itemId": "H918",
+        "keying": -1
+      },
+      {
+        "itemId": "G403",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-ii-vs-ii-ii-",
+    "name": "II+/II+ vs II-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G131",
+        "keying": 1
+      },
+      {
+        "itemId": "H107",
+        "keying": 1
+      },
+      {
+        "itemId": "H173",
+        "keying": 1
+      },
+      {
+        "itemId": "H225",
+        "keying": 1
+      },
+      {
+        "itemId": "H160",
+        "keying": 1
+      },
+      {
+        "itemId": "H30",
+        "keying": 1
+      },
+      {
+        "itemId": "H557",
+        "keying": 1
+      },
+      {
+        "itemId": "H26",
+        "keying": 1
+      },
+      {
+        "itemId": "E136",
+        "keying": 1
+      },
+      {
+        "itemId": "G172",
+        "keying": -1
+      },
+      {
+        "itemId": "H672",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-i-vs-ii-i-",
+    "name": "II+/I+ vs II-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G131",
+        "keying": 1
+      },
+      {
+        "itemId": "H107",
+        "keying": 1
+      },
+      {
+        "itemId": "H173",
+        "keying": 1
+      },
+      {
+        "itemId": "H225",
+        "keying": 1
+      },
+      {
+        "itemId": "H160",
+        "keying": 1
+      },
+      {
+        "itemId": "H30",
+        "keying": 1
+      },
+      {
+        "itemId": "H557",
+        "keying": 1
+      },
+      {
+        "itemId": "H26",
+        "keying": 1
+      },
+      {
+        "itemId": "E136",
+        "keying": 1
+      },
+      {
+        "itemId": "G172",
+        "keying": -1
+      },
+      {
+        "itemId": "H672",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-i-vs-ii-i-",
+    "name": "II+/I+ vs II-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "K166",
+        "keying": 1
+      },
+      {
+        "itemId": "H1304",
+        "keying": 1
+      },
+      {
+        "itemId": "E167",
+        "keying": 1
+      },
+      {
+        "itemId": "K33",
+        "keying": 1
+      },
+      {
+        "itemId": "H296",
+        "keying": 1
+      },
+      {
+        "itemId": "H575",
+        "keying": -1
+      },
+      {
+        "itemId": "H1430",
+        "keying": -1
+      },
+      {
+        "itemId": "H1475",
+        "keying": -1
+      },
+      {
+        "itemId": "H743",
+        "keying": -1
+      },
+      {
+        "itemId": "H1328",
+        "keying": -1
+      },
+      {
+        "itemId": "H794",
+        "keying": -1
+      },
+      {
+        "itemId": "H1346",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iii-vs-ii-iii-",
+    "name": "II+/III+ vs II-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "K166",
+        "keying": 1
+      },
+      {
+        "itemId": "H1304",
+        "keying": 1
+      },
+      {
+        "itemId": "E167",
+        "keying": 1
+      },
+      {
+        "itemId": "K33",
+        "keying": 1
+      },
+      {
+        "itemId": "H296",
+        "keying": 1
+      },
+      {
+        "itemId": "H575",
+        "keying": -1
+      },
+      {
+        "itemId": "H1430",
+        "keying": -1
+      },
+      {
+        "itemId": "H1475",
+        "keying": -1
+      },
+      {
+        "itemId": "H743",
+        "keying": -1
+      },
+      {
+        "itemId": "H1328",
+        "keying": -1
+      },
+      {
+        "itemId": "H794",
+        "keying": -1
+      },
+      {
+        "itemId": "H1346",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iii-vs-ii-iii-",
+    "name": "II+/III+ vs II-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G111",
+        "keying": 1
+      },
+      {
+        "itemId": "H22",
+        "keying": 1
+      },
+      {
+        "itemId": "G181",
+        "keying": 1
+      },
+      {
+        "itemId": "H113",
+        "keying": 1
+      },
+      {
+        "itemId": "H105",
+        "keying": 1
+      },
+      {
+        "itemId": "E157",
+        "keying": 1
+      },
+      {
+        "itemId": "G124",
+        "keying": -1
+      },
+      {
+        "itemId": "E65",
+        "keying": -1
+      },
+      {
+        "itemId": "H1103",
+        "keying": -1
+      },
+      {
+        "itemId": "I256",
+        "keying": -1
+      },
+      {
+        "itemId": "G465",
+        "keying": -1
+      },
+      {
+        "itemId": "G475",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iv-vs-ii-iv-",
+    "name": "II+/IV+ vs II-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G111",
+        "keying": 1
+      },
+      {
+        "itemId": "H22",
+        "keying": 1
+      },
+      {
+        "itemId": "G181",
+        "keying": 1
+      },
+      {
+        "itemId": "H113",
+        "keying": 1
+      },
+      {
+        "itemId": "H105",
+        "keying": 1
+      },
+      {
+        "itemId": "E157",
+        "keying": 1
+      },
+      {
+        "itemId": "G124",
+        "keying": -1
+      },
+      {
+        "itemId": "E65",
+        "keying": -1
+      },
+      {
+        "itemId": "H1103",
+        "keying": -1
+      },
+      {
+        "itemId": "I256",
+        "keying": -1
+      },
+      {
+        "itemId": "G465",
+        "keying": -1
+      },
+      {
+        "itemId": "G475",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iv-vs-ii-iv-",
+    "name": "II+/IV+ vs II-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E124",
+        "keying": 1
+      },
+      {
+        "itemId": "H1074",
+        "keying": 1
+      },
+      {
+        "itemId": "H1210",
+        "keying": 1
+      },
+      {
+        "itemId": "E177",
+        "keying": 1
+      },
+      {
+        "itemId": "E170",
+        "keying": 1
+      },
+      {
+        "itemId": "J267",
+        "keying": -1
+      },
+      {
+        "itemId": "E143",
+        "keying": -1
+      },
+      {
+        "itemId": "H792",
+        "keying": -1
+      },
+      {
+        "itemId": "E9",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-v-vs-ii-v-",
+    "name": "II+/V+ vs II-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E124",
+        "keying": 1
+      },
+      {
+        "itemId": "H1074",
+        "keying": 1
+      },
+      {
+        "itemId": "H1210",
+        "keying": 1
+      },
+      {
+        "itemId": "E177",
+        "keying": 1
+      },
+      {
+        "itemId": "E170",
+        "keying": 1
+      },
+      {
+        "itemId": "J267",
+        "keying": -1
+      },
+      {
+        "itemId": "E143",
+        "keying": -1
+      },
+      {
+        "itemId": "H792",
+        "keying": -1
+      },
+      {
+        "itemId": "E9",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-v-vs-ii-v-",
+    "name": "II+/V+ vs II-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "K67",
+        "keying": 1
+      },
+      {
+        "itemId": "H153",
+        "keying": 1
+      },
+      {
+        "itemId": "H721",
+        "keying": -1
+      },
+      {
+        "itemId": "H453",
+        "keying": -1
+      },
+      {
+        "itemId": "H720",
+        "keying": -1
+      },
+      {
+        "itemId": "H723",
+        "keying": -1
+      },
+      {
+        "itemId": "H748",
+        "keying": -1
+      },
+      {
+        "itemId": "H98",
+        "keying": -1
+      },
+      {
+        "itemId": "E23",
+        "keying": -1
+      },
+      {
+        "itemId": "H1429",
+        "keying": -1
+      },
+      {
+        "itemId": "E35",
+        "keying": -1
+      },
+      {
+        "itemId": "H876",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-i-vs-ii-i-",
+    "name": "II+/I- vs II-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "K67",
+        "keying": 1
+      },
+      {
+        "itemId": "H153",
+        "keying": 1
+      },
+      {
+        "itemId": "H721",
+        "keying": -1
+      },
+      {
+        "itemId": "H453",
+        "keying": -1
+      },
+      {
+        "itemId": "H720",
+        "keying": -1
+      },
+      {
+        "itemId": "H723",
+        "keying": -1
+      },
+      {
+        "itemId": "H748",
+        "keying": -1
+      },
+      {
+        "itemId": "H98",
+        "keying": -1
+      },
+      {
+        "itemId": "E23",
+        "keying": -1
+      },
+      {
+        "itemId": "H1429",
+        "keying": -1
+      },
+      {
+        "itemId": "E35",
+        "keying": -1
+      },
+      {
+        "itemId": "H876",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-i-vs-ii-i-",
+    "name": "II+/I- vs II-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G91",
+        "keying": 1
+      },
+      {
+        "itemId": "G97",
+        "keying": 1
+      },
+      {
+        "itemId": "E115",
+        "keying": 1
+      },
+      {
+        "itemId": "H1129",
+        "keying": 1
+      },
+      {
+        "itemId": "H109",
+        "keying": 1
+      },
+      {
+        "itemId": "H1120",
+        "keying": 1
+      },
+      {
+        "itemId": "G488",
+        "keying": -1
+      },
+      {
+        "itemId": "I88",
+        "keying": -1
+      },
+      {
+        "itemId": "H378",
+        "keying": -1
+      },
+      {
+        "itemId": "E121",
+        "keying": -1
+      },
+      {
+        "itemId": "E166",
+        "keying": -1
+      },
+      {
+        "itemId": "H435",
+        "keying": -1
+      },
+      {
+        "itemId": "G325",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iii-vs-ii-iii-",
+    "name": "II+/III- vs II-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G91",
+        "keying": 1
+      },
+      {
+        "itemId": "G97",
+        "keying": 1
+      },
+      {
+        "itemId": "E115",
+        "keying": 1
+      },
+      {
+        "itemId": "H1129",
+        "keying": 1
+      },
+      {
+        "itemId": "H109",
+        "keying": 1
+      },
+      {
+        "itemId": "H1120",
+        "keying": 1
+      },
+      {
+        "itemId": "G488",
+        "keying": -1
+      },
+      {
+        "itemId": "I88",
+        "keying": -1
+      },
+      {
+        "itemId": "H378",
+        "keying": -1
+      },
+      {
+        "itemId": "E121",
+        "keying": -1
+      },
+      {
+        "itemId": "E166",
+        "keying": -1
+      },
+      {
+        "itemId": "H435",
+        "keying": -1
+      },
+      {
+        "itemId": "G325",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iii-vs-ii-iii-",
+    "name": "II+/III- vs II-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H988",
+        "keying": 1
+      },
+      {
+        "itemId": "J94",
+        "keying": 1
+      },
+      {
+        "itemId": "J118",
+        "keying": 1
+      },
+      {
+        "itemId": "H1097",
+        "keying": 1
+      },
+      {
+        "itemId": "E50",
+        "keying": 1
+      },
+      {
+        "itemId": "E152",
+        "keying": 1
+      },
+      {
+        "itemId": "H204",
+        "keying": 1
+      },
+      {
+        "itemId": "H3",
+        "keying": 1
+      },
+      {
+        "itemId": "E156",
+        "keying": -1
+      },
+      {
+        "itemId": "H572",
+        "keying": -1
+      },
+      {
+        "itemId": "E63",
+        "keying": -1
+      },
+      {
+        "itemId": "E85",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iv-vs-ii-iv-",
+    "name": "II+/IV- vs II-/IV+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H988",
+        "keying": 1
+      },
+      {
+        "itemId": "J94",
+        "keying": 1
+      },
+      {
+        "itemId": "J118",
+        "keying": 1
+      },
+      {
+        "itemId": "H1097",
+        "keying": 1
+      },
+      {
+        "itemId": "E50",
+        "keying": 1
+      },
+      {
+        "itemId": "E152",
+        "keying": 1
+      },
+      {
+        "itemId": "H204",
+        "keying": 1
+      },
+      {
+        "itemId": "H3",
+        "keying": 1
+      },
+      {
+        "itemId": "E156",
+        "keying": -1
+      },
+      {
+        "itemId": "H572",
+        "keying": -1
+      },
+      {
+        "itemId": "E63",
+        "keying": -1
+      },
+      {
+        "itemId": "E85",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-iv-vs-ii-iv-",
+    "name": "II+/IV- vs II-/IV+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I403",
+        "keying": 1
+      },
+      {
+        "itemId": "H1179",
+        "keying": 1
+      },
+      {
+        "itemId": "H126",
+        "keying": 1
+      },
+      {
+        "itemId": "H198",
+        "keying": 1
+      },
+      {
+        "itemId": "H195",
+        "keying": 1
+      },
+      {
+        "itemId": "H142",
+        "keying": 1
+      },
+      {
+        "itemId": "H714",
+        "keying": -1
+      },
+      {
+        "itemId": "H498",
+        "keying": -1
+      },
+      {
+        "itemId": "G327",
+        "keying": -1
+      },
+      {
+        "itemId": "H894",
+        "keying": -1
+      },
+      {
+        "itemId": "H774",
+        "keying": -1
+      },
+      {
+        "itemId": "H1086",
+        "keying": -1
+      },
+      {
+        "itemId": "G323",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-v-vs-ii-v-",
+    "name": "II+/V- vs II-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I403",
+        "keying": 1
+      },
+      {
+        "itemId": "H1179",
+        "keying": 1
+      },
+      {
+        "itemId": "H126",
+        "keying": 1
+      },
+      {
+        "itemId": "H198",
+        "keying": 1
+      },
+      {
+        "itemId": "H195",
+        "keying": 1
+      },
+      {
+        "itemId": "H142",
+        "keying": 1
+      },
+      {
+        "itemId": "H714",
+        "keying": -1
+      },
+      {
+        "itemId": "H498",
+        "keying": -1
+      },
+      {
+        "itemId": "G327",
+        "keying": -1
+      },
+      {
+        "itemId": "H894",
+        "keying": -1
+      },
+      {
+        "itemId": "H774",
+        "keying": -1
+      },
+      {
+        "itemId": "H1086",
+        "keying": -1
+      },
+      {
+        "itemId": "G323",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-ii-v-vs-ii-v-",
+    "name": "II+/V- vs II-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G5",
+        "keying": 1
+      },
+      {
+        "itemId": "H1351",
+        "keying": 1
+      },
+      {
+        "itemId": "E16",
+        "keying": 1
+      },
+      {
+        "itemId": "E20",
+        "keying": 1
+      },
+      {
+        "itemId": "J77",
+        "keying": 1
+      },
+      {
+        "itemId": "H158",
+        "keying": 1
+      },
+      {
+        "itemId": "J200",
+        "keying": -1
+      },
+      {
+        "itemId": "H1189",
+        "keying": -1
+      },
+      {
+        "itemId": "H836",
+        "keying": -1
+      },
+      {
+        "itemId": "H625",
+        "keying": -1
+      },
+      {
+        "itemId": "E104",
+        "keying": -1
+      },
+      {
+        "itemId": "E132",
+        "keying": -1
+      },
+      {
+        "itemId": "G178",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-iii-vs-iii-iii-",
+    "name": "III+/III+ vs III-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G5",
+        "keying": 1
+      },
+      {
+        "itemId": "H1351",
+        "keying": 1
+      },
+      {
+        "itemId": "E16",
+        "keying": 1
+      },
+      {
+        "itemId": "E20",
+        "keying": 1
+      },
+      {
+        "itemId": "J77",
+        "keying": 1
+      },
+      {
+        "itemId": "H158",
+        "keying": 1
+      },
+      {
+        "itemId": "J200",
+        "keying": -1
+      },
+      {
+        "itemId": "H1189",
+        "keying": -1
+      },
+      {
+        "itemId": "H836",
+        "keying": -1
+      },
+      {
+        "itemId": "H625",
+        "keying": -1
+      },
+      {
+        "itemId": "E104",
+        "keying": -1
+      },
+      {
+        "itemId": "E132",
+        "keying": -1
+      },
+      {
+        "itemId": "G178",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-iii-vs-iii-iii-",
+    "name": "III+/III+ vs III-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G113",
+        "keying": 1
+      },
+      {
+        "itemId": "J158",
+        "keying": 1
+      },
+      {
+        "itemId": "E119",
+        "keying": 1
+      },
+      {
+        "itemId": "I272",
+        "keying": 1
+      },
+      {
+        "itemId": "H254",
+        "keying": 1
+      },
+      {
+        "itemId": "H1186",
+        "keying": -1
+      },
+      {
+        "itemId": "H1171",
+        "keying": -1
+      },
+      {
+        "itemId": "H1180",
+        "keying": -1
+      },
+      {
+        "itemId": "H621",
+        "keying": -1
+      },
+      {
+        "itemId": "H969",
+        "keying": -1
+      },
+      {
+        "itemId": "I290",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-i-vs-iii-i-",
+    "name": "III+/I+ vs III-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G113",
+        "keying": 1
+      },
+      {
+        "itemId": "J158",
+        "keying": 1
+      },
+      {
+        "itemId": "E119",
+        "keying": 1
+      },
+      {
+        "itemId": "I272",
+        "keying": 1
+      },
+      {
+        "itemId": "H254",
+        "keying": 1
+      },
+      {
+        "itemId": "H1186",
+        "keying": -1
+      },
+      {
+        "itemId": "H1171",
+        "keying": -1
+      },
+      {
+        "itemId": "H1180",
+        "keying": -1
+      },
+      {
+        "itemId": "H621",
+        "keying": -1
+      },
+      {
+        "itemId": "H969",
+        "keying": -1
+      },
+      {
+        "itemId": "I290",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-i-vs-iii-i-",
+    "name": "III+/I+ vs III-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H319",
+        "keying": 1
+      },
+      {
+        "itemId": "H314",
+        "keying": 1
+      },
+      {
+        "itemId": "G433",
+        "keying": 1
+      },
+      {
+        "itemId": "H218",
+        "keying": 1
+      },
+      {
+        "itemId": "H294",
+        "keying": 1
+      },
+      {
+        "itemId": "H210",
+        "keying": 1
+      },
+      {
+        "itemId": "H897",
+        "keying": -1
+      },
+      {
+        "itemId": "H88",
+        "keying": -1
+      },
+      {
+        "itemId": "H497",
+        "keying": -1
+      },
+      {
+        "itemId": "H834",
+        "keying": -1
+      },
+      {
+        "itemId": "I127",
+        "keying": -1
+      },
+      {
+        "itemId": "H853",
+        "keying": -1
+      },
+      {
+        "itemId": "H82",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-ii-vs-iii-ii-",
+    "name": "III+/II+ vs III-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H319",
+        "keying": 1
+      },
+      {
+        "itemId": "H314",
+        "keying": 1
+      },
+      {
+        "itemId": "G433",
+        "keying": 1
+      },
+      {
+        "itemId": "H218",
+        "keying": 1
+      },
+      {
+        "itemId": "H294",
+        "keying": 1
+      },
+      {
+        "itemId": "H210",
+        "keying": 1
+      },
+      {
+        "itemId": "H897",
+        "keying": -1
+      },
+      {
+        "itemId": "H88",
+        "keying": -1
+      },
+      {
+        "itemId": "H497",
+        "keying": -1
+      },
+      {
+        "itemId": "H834",
+        "keying": -1
+      },
+      {
+        "itemId": "I127",
+        "keying": -1
+      },
+      {
+        "itemId": "H853",
+        "keying": -1
+      },
+      {
+        "itemId": "H82",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-ii-vs-iii-ii-",
+    "name": "III+/II+ vs III-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G80",
+        "keying": 1
+      },
+      {
+        "itemId": "G422",
+        "keying": 1
+      },
+      {
+        "itemId": "H517",
+        "keying": 1
+      },
+      {
+        "itemId": "G151",
+        "keying": 1
+      },
+      {
+        "itemId": "H1354",
+        "keying": 1
+      },
+      {
+        "itemId": "H1467",
+        "keying": -1
+      },
+      {
+        "itemId": "F44",
+        "keying": -1
+      },
+      {
+        "itemId": "H896",
+        "keying": -1
+      },
+      {
+        "itemId": "H1140",
+        "keying": -1
+      },
+      {
+        "itemId": "H885",
+        "keying": -1
+      },
+      {
+        "itemId": "H858",
+        "keying": -1
+      },
+      {
+        "itemId": "G408",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-iv-vs-iii-iv-",
+    "name": "III+/IV+ vs III-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G80",
+        "keying": 1
+      },
+      {
+        "itemId": "G422",
+        "keying": 1
+      },
+      {
+        "itemId": "H517",
+        "keying": 1
+      },
+      {
+        "itemId": "G151",
+        "keying": 1
+      },
+      {
+        "itemId": "H1354",
+        "keying": 1
+      },
+      {
+        "itemId": "H1467",
+        "keying": -1
+      },
+      {
+        "itemId": "F44",
+        "keying": -1
+      },
+      {
+        "itemId": "H896",
+        "keying": -1
+      },
+      {
+        "itemId": "H1140",
+        "keying": -1
+      },
+      {
+        "itemId": "H885",
+        "keying": -1
+      },
+      {
+        "itemId": "H858",
+        "keying": -1
+      },
+      {
+        "itemId": "G408",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-iv-vs-iii-iv-",
+    "name": "III+/IV+ vs III-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1362",
+        "keying": 1
+      },
+      {
+        "itemId": "G454",
+        "keying": 1
+      },
+      {
+        "itemId": "H1356",
+        "keying": 1
+      },
+      {
+        "itemId": "H288",
+        "keying": 1
+      },
+      {
+        "itemId": "E140",
+        "keying": 1
+      },
+      {
+        "itemId": "H377",
+        "keying": 1
+      },
+      {
+        "itemId": "I271",
+        "keying": 1
+      },
+      {
+        "itemId": "H1293",
+        "keying": 1
+      },
+      {
+        "itemId": "H1256",
+        "keying": 1
+      },
+      {
+        "itemId": "E89",
+        "keying": -1
+      },
+      {
+        "itemId": "J278",
+        "keying": -1
+      },
+      {
+        "itemId": "H1423",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-v-vs-iii-v-",
+    "name": "III+/V+ vs III-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1362",
+        "keying": 1
+      },
+      {
+        "itemId": "G454",
+        "keying": 1
+      },
+      {
+        "itemId": "H1356",
+        "keying": 1
+      },
+      {
+        "itemId": "H288",
+        "keying": 1
+      },
+      {
+        "itemId": "E140",
+        "keying": 1
+      },
+      {
+        "itemId": "H377",
+        "keying": 1
+      },
+      {
+        "itemId": "I271",
+        "keying": 1
+      },
+      {
+        "itemId": "H1293",
+        "keying": 1
+      },
+      {
+        "itemId": "H1256",
+        "keying": 1
+      },
+      {
+        "itemId": "E89",
+        "keying": -1
+      },
+      {
+        "itemId": "J278",
+        "keying": -1
+      },
+      {
+        "itemId": "H1423",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-v-vs-iii-v-",
+    "name": "III+/V+ vs III-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E40",
+        "keying": 1
+      },
+      {
+        "itemId": "E52",
+        "keying": 1
+      },
+      {
+        "itemId": "H892",
+        "keying": 1
+      },
+      {
+        "itemId": "E30",
+        "keying": 1
+      },
+      {
+        "itemId": "J189",
+        "keying": 1
+      },
+      {
+        "itemId": "H870",
+        "keying": -1
+      },
+      {
+        "itemId": "E66",
+        "keying": -1
+      },
+      {
+        "itemId": "E15",
+        "keying": -1
+      },
+      {
+        "itemId": "H537",
+        "keying": -1
+      },
+      {
+        "itemId": "H2026",
+        "keying": -1
+      },
+      {
+        "itemId": "E122",
+        "keying": -1
+      },
+      {
+        "itemId": "E46",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-i-vs-iii-i-",
+    "name": "III+/I- vs III-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E40",
+        "keying": 1
+      },
+      {
+        "itemId": "E52",
+        "keying": 1
+      },
+      {
+        "itemId": "H892",
+        "keying": 1
+      },
+      {
+        "itemId": "E30",
+        "keying": 1
+      },
+      {
+        "itemId": "J189",
+        "keying": 1
+      },
+      {
+        "itemId": "H870",
+        "keying": -1
+      },
+      {
+        "itemId": "E66",
+        "keying": -1
+      },
+      {
+        "itemId": "E15",
+        "keying": -1
+      },
+      {
+        "itemId": "H537",
+        "keying": -1
+      },
+      {
+        "itemId": "H2026",
+        "keying": -1
+      },
+      {
+        "itemId": "E122",
+        "keying": -1
+      },
+      {
+        "itemId": "E46",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-i-vs-iii-i-",
+    "name": "III+/I- vs III-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1350",
+        "keying": 1
+      },
+      {
+        "itemId": "G445",
+        "keying": 1
+      },
+      {
+        "itemId": "G311",
+        "keying": 1
+      },
+      {
+        "itemId": "H332",
+        "keying": 1
+      },
+      {
+        "itemId": "H271",
+        "keying": 1
+      },
+      {
+        "itemId": "G312",
+        "keying": 1
+      },
+      {
+        "itemId": "E169",
+        "keying": 1
+      },
+      {
+        "itemId": "H1223",
+        "keying": 1
+      },
+      {
+        "itemId": "J451",
+        "keying": -1
+      },
+      {
+        "itemId": "E96",
+        "keying": -1
+      },
+      {
+        "itemId": "H879",
+        "keying": -1
+      },
+      {
+        "itemId": "H1413",
+        "keying": -1
+      },
+      {
+        "itemId": "H931",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-ii-vs-iii-ii-",
+    "name": "III+/II- vs III-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1350",
+        "keying": 1
+      },
+      {
+        "itemId": "G445",
+        "keying": 1
+      },
+      {
+        "itemId": "G311",
+        "keying": 1
+      },
+      {
+        "itemId": "H332",
+        "keying": 1
+      },
+      {
+        "itemId": "H271",
+        "keying": 1
+      },
+      {
+        "itemId": "G312",
+        "keying": 1
+      },
+      {
+        "itemId": "E169",
+        "keying": 1
+      },
+      {
+        "itemId": "H1223",
+        "keying": 1
+      },
+      {
+        "itemId": "J451",
+        "keying": -1
+      },
+      {
+        "itemId": "E96",
+        "keying": -1
+      },
+      {
+        "itemId": "H879",
+        "keying": -1
+      },
+      {
+        "itemId": "H1413",
+        "keying": -1
+      },
+      {
+        "itemId": "H931",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-ii-vs-iii-ii-",
+    "name": "III+/II- vs III-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G462",
+        "keying": 1
+      },
+      {
+        "itemId": "H1002",
+        "keying": 1
+      },
+      {
+        "itemId": "E11",
+        "keying": 1
+      },
+      {
+        "itemId": "H303",
+        "keying": 1
+      },
+      {
+        "itemId": "G492",
+        "keying": 1
+      },
+      {
+        "itemId": "H275",
+        "keying": 1
+      },
+      {
+        "itemId": "H270",
+        "keying": 1
+      },
+      {
+        "itemId": "E100",
+        "keying": -1
+      },
+      {
+        "itemId": "E7",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-iv-vs-iii-iv-",
+    "name": "III+/IV- vs III-/IV+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G462",
+        "keying": 1
+      },
+      {
+        "itemId": "H1002",
+        "keying": 1
+      },
+      {
+        "itemId": "E11",
+        "keying": 1
+      },
+      {
+        "itemId": "H303",
+        "keying": 1
+      },
+      {
+        "itemId": "G492",
+        "keying": 1
+      },
+      {
+        "itemId": "H275",
+        "keying": 1
+      },
+      {
+        "itemId": "H270",
+        "keying": 1
+      },
+      {
+        "itemId": "E100",
+        "keying": -1
+      },
+      {
+        "itemId": "E7",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-iv-vs-iii-iv-",
+    "name": "III+/IV- vs III-/IV+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "X118",
+        "keying": 1
+      },
+      {
+        "itemId": "I269",
+        "keying": 1
+      },
+      {
+        "itemId": "H264",
+        "keying": 1
+      },
+      {
+        "itemId": "H244",
+        "keying": 1
+      },
+      {
+        "itemId": "H250",
+        "keying": 1
+      },
+      {
+        "itemId": "H243",
+        "keying": 1
+      },
+      {
+        "itemId": "H215",
+        "keying": 1
+      },
+      {
+        "itemId": "H823",
+        "keying": -1
+      },
+      {
+        "itemId": "H822",
+        "keying": -1
+      },
+      {
+        "itemId": "X122",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-v-vs-iii-v-",
+    "name": "III+/V- vs III-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "X118",
+        "keying": 1
+      },
+      {
+        "itemId": "I269",
+        "keying": 1
+      },
+      {
+        "itemId": "H264",
+        "keying": 1
+      },
+      {
+        "itemId": "H244",
+        "keying": 1
+      },
+      {
+        "itemId": "H250",
+        "keying": 1
+      },
+      {
+        "itemId": "H243",
+        "keying": 1
+      },
+      {
+        "itemId": "H215",
+        "keying": 1
+      },
+      {
+        "itemId": "H823",
+        "keying": -1
+      },
+      {
+        "itemId": "H822",
+        "keying": -1
+      },
+      {
+        "itemId": "X122",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iii-v-vs-iii-v-",
+    "name": "III+/V- vs III-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "X231",
+        "keying": 1
+      },
+      {
+        "itemId": "G149",
+        "keying": 1
+      },
+      {
+        "itemId": "G153",
+        "keying": 1
+      },
+      {
+        "itemId": "J381",
+        "keying": 1
+      },
+      {
+        "itemId": "X191",
+        "keying": 1
+      },
+      {
+        "itemId": "I327",
+        "keying": -1
+      },
+      {
+        "itemId": "I331",
+        "keying": -1
+      },
+      {
+        "itemId": "G103",
+        "keying": -1
+      },
+      {
+        "itemId": "G427",
+        "keying": -1
+      },
+      {
+        "itemId": "I310",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-iv-vs-iv-iv-",
+    "name": "IV+/IV+ vs IV-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "X231",
+        "keying": 1
+      },
+      {
+        "itemId": "G149",
+        "keying": 1
+      },
+      {
+        "itemId": "G153",
+        "keying": 1
+      },
+      {
+        "itemId": "J381",
+        "keying": 1
+      },
+      {
+        "itemId": "X191",
+        "keying": 1
+      },
+      {
+        "itemId": "I327",
+        "keying": -1
+      },
+      {
+        "itemId": "I331",
+        "keying": -1
+      },
+      {
+        "itemId": "G103",
+        "keying": -1
+      },
+      {
+        "itemId": "G427",
+        "keying": -1
+      },
+      {
+        "itemId": "I310",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-iv-vs-iv-iv-",
+    "name": "IV+/IV+ vs IV-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J375",
+        "keying": 1
+      },
+      {
+        "itemId": "I206",
+        "keying": 1
+      },
+      {
+        "itemId": "G18",
+        "keying": 1
+      },
+      {
+        "itemId": "H42",
+        "keying": 1
+      },
+      {
+        "itemId": "G206",
+        "keying": 1
+      },
+      {
+        "itemId": "X74",
+        "keying": -1
+      },
+      {
+        "itemId": "H1157",
+        "keying": -1
+      },
+      {
+        "itemId": "H612",
+        "keying": -1
+      },
+      {
+        "itemId": "X15",
+        "keying": -1
+      },
+      {
+        "itemId": "G115",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-i-vs-iv-i-",
+    "name": "IV+/I+ vs IV-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J375",
+        "keying": 1
+      },
+      {
+        "itemId": "I206",
+        "keying": 1
+      },
+      {
+        "itemId": "G18",
+        "keying": 1
+      },
+      {
+        "itemId": "H42",
+        "keying": 1
+      },
+      {
+        "itemId": "G206",
+        "keying": 1
+      },
+      {
+        "itemId": "X74",
+        "keying": -1
+      },
+      {
+        "itemId": "H1157",
+        "keying": -1
+      },
+      {
+        "itemId": "H612",
+        "keying": -1
+      },
+      {
+        "itemId": "X15",
+        "keying": -1
+      },
+      {
+        "itemId": "G115",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-i-vs-iv-i-",
+    "name": "IV+/I+ vs IV-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J295",
+        "keying": 1
+      },
+      {
+        "itemId": "G148",
+        "keying": 1
+      },
+      {
+        "itemId": "E144",
+        "keying": 1
+      },
+      {
+        "itemId": "G3",
+        "keying": 1
+      },
+      {
+        "itemId": "H754",
+        "keying": -1
+      },
+      {
+        "itemId": "G177",
+        "keying": -1
+      },
+      {
+        "itemId": "H759",
+        "keying": -1
+      },
+      {
+        "itemId": "H1085",
+        "keying": -1
+      },
+      {
+        "itemId": "H755",
+        "keying": -1
+      },
+      {
+        "itemId": "E81",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-ii-vs-iv-ii-",
+    "name": "IV+/II+ vs IV-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J295",
+        "keying": 1
+      },
+      {
+        "itemId": "G148",
+        "keying": 1
+      },
+      {
+        "itemId": "E144",
+        "keying": 1
+      },
+      {
+        "itemId": "G3",
+        "keying": 1
+      },
+      {
+        "itemId": "H754",
+        "keying": -1
+      },
+      {
+        "itemId": "G177",
+        "keying": -1
+      },
+      {
+        "itemId": "H759",
+        "keying": -1
+      },
+      {
+        "itemId": "H1085",
+        "keying": -1
+      },
+      {
+        "itemId": "H755",
+        "keying": -1
+      },
+      {
+        "itemId": "E81",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-ii-vs-iv-ii-",
+    "name": "IV+/II+ vs IV-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J337",
+        "keying": 1
+      },
+      {
+        "itemId": "I144",
+        "keying": 1
+      },
+      {
+        "itemId": "J299",
+        "keying": 1
+      },
+      {
+        "itemId": "G69",
+        "keying": 1
+      },
+      {
+        "itemId": "G122",
+        "keying": -1
+      },
+      {
+        "itemId": "G174",
+        "keying": -1
+      },
+      {
+        "itemId": "E57",
+        "keying": -1
+      },
+      {
+        "itemId": "H925",
+        "keying": -1
+      },
+      {
+        "itemId": "G405",
+        "keying": -1
+      },
+      {
+        "itemId": "I49",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-iii-vs-iv-iii-",
+    "name": "IV+/III+ vs IV-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J337",
+        "keying": 1
+      },
+      {
+        "itemId": "I144",
+        "keying": 1
+      },
+      {
+        "itemId": "J299",
+        "keying": 1
+      },
+      {
+        "itemId": "G69",
+        "keying": 1
+      },
+      {
+        "itemId": "G122",
+        "keying": -1
+      },
+      {
+        "itemId": "G174",
+        "keying": -1
+      },
+      {
+        "itemId": "E57",
+        "keying": -1
+      },
+      {
+        "itemId": "H925",
+        "keying": -1
+      },
+      {
+        "itemId": "G405",
+        "keying": -1
+      },
+      {
+        "itemId": "I49",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-iii-vs-iv-iii-",
+    "name": "IV+/III+ vs IV-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E64",
+        "keying": 1
+      },
+      {
+        "itemId": "H384",
+        "keying": 1
+      },
+      {
+        "itemId": "H1281",
+        "keying": 1
+      },
+      {
+        "itemId": "G398",
+        "keying": 1
+      },
+      {
+        "itemId": "H920",
+        "keying": -1
+      },
+      {
+        "itemId": "H948",
+        "keying": -1
+      },
+      {
+        "itemId": "H987",
+        "keying": -1
+      },
+      {
+        "itemId": "G108",
+        "keying": -1
+      },
+      {
+        "itemId": "H643",
+        "keying": -1
+      },
+      {
+        "itemId": "G298",
+        "keying": -1
+      },
+      {
+        "itemId": "G105",
+        "keying": -1
+      },
+      {
+        "itemId": "G100",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-v-vs-iv-v-",
+    "name": "IV+/V+ vs IV-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E64",
+        "keying": 1
+      },
+      {
+        "itemId": "H384",
+        "keying": 1
+      },
+      {
+        "itemId": "H1281",
+        "keying": 1
+      },
+      {
+        "itemId": "G398",
+        "keying": 1
+      },
+      {
+        "itemId": "H920",
+        "keying": -1
+      },
+      {
+        "itemId": "H948",
+        "keying": -1
+      },
+      {
+        "itemId": "H987",
+        "keying": -1
+      },
+      {
+        "itemId": "G108",
+        "keying": -1
+      },
+      {
+        "itemId": "H643",
+        "keying": -1
+      },
+      {
+        "itemId": "G298",
+        "keying": -1
+      },
+      {
+        "itemId": "G105",
+        "keying": -1
+      },
+      {
+        "itemId": "G100",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-v-vs-iv-v-",
+    "name": "IV+/V+ vs IV-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H381",
+        "keying": 1
+      },
+      {
+        "itemId": "H162",
+        "keying": 1
+      },
+      {
+        "itemId": "G489",
+        "keying": -1
+      },
+      {
+        "itemId": "H802",
+        "keying": -1
+      },
+      {
+        "itemId": "E98",
+        "keying": -1
+      },
+      {
+        "itemId": "H523",
+        "keying": -1
+      },
+      {
+        "itemId": "H1192",
+        "keying": -1
+      },
+      {
+        "itemId": "E19",
+        "keying": -1
+      },
+      {
+        "itemId": "G355",
+        "keying": -1
+      },
+      {
+        "itemId": "G261",
+        "keying": -1
+      },
+      {
+        "itemId": "E68",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-i-vs-iv-i-",
+    "name": "IV+/I- vs IV-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H381",
+        "keying": 1
+      },
+      {
+        "itemId": "H162",
+        "keying": 1
+      },
+      {
+        "itemId": "G489",
+        "keying": -1
+      },
+      {
+        "itemId": "H802",
+        "keying": -1
+      },
+      {
+        "itemId": "E98",
+        "keying": -1
+      },
+      {
+        "itemId": "H523",
+        "keying": -1
+      },
+      {
+        "itemId": "H1192",
+        "keying": -1
+      },
+      {
+        "itemId": "E19",
+        "keying": -1
+      },
+      {
+        "itemId": "G355",
+        "keying": -1
+      },
+      {
+        "itemId": "G261",
+        "keying": -1
+      },
+      {
+        "itemId": "E68",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-i-vs-iv-i-",
+    "name": "IV+/I- vs IV-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J376",
+        "keying": 1
+      },
+      {
+        "itemId": "G146",
+        "keying": 1
+      },
+      {
+        "itemId": "H950",
+        "keying": -1
+      },
+      {
+        "itemId": "H2012",
+        "keying": -1
+      },
+      {
+        "itemId": "G370",
+        "keying": -1
+      },
+      {
+        "itemId": "G107",
+        "keying": -1
+      },
+      {
+        "itemId": "G476",
+        "keying": -1
+      },
+      {
+        "itemId": "H93",
+        "keying": -1
+      },
+      {
+        "itemId": "H956",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-ii-vs-iv-ii-",
+    "name": "IV+/II- vs IV-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J376",
+        "keying": 1
+      },
+      {
+        "itemId": "G146",
+        "keying": 1
+      },
+      {
+        "itemId": "H950",
+        "keying": -1
+      },
+      {
+        "itemId": "H2012",
+        "keying": -1
+      },
+      {
+        "itemId": "G370",
+        "keying": -1
+      },
+      {
+        "itemId": "G107",
+        "keying": -1
+      },
+      {
+        "itemId": "G476",
+        "keying": -1
+      },
+      {
+        "itemId": "H93",
+        "keying": -1
+      },
+      {
+        "itemId": "H956",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-ii-vs-iv-ii-",
+    "name": "IV+/II- vs IV-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H241",
+        "keying": -1
+      },
+      {
+        "itemId": "G491",
+        "keying": -1
+      },
+      {
+        "itemId": "H1022",
+        "keying": -1
+      },
+      {
+        "itemId": "H309",
+        "keying": -1
+      },
+      {
+        "itemId": "G87",
+        "keying": -1
+      },
+      {
+        "itemId": "H766",
+        "keying": -1
+      },
+      {
+        "itemId": "H1460",
+        "keying": -1
+      },
+      {
+        "itemId": "H744",
+        "keying": -1
+      },
+      {
+        "itemId": "G410",
+        "keying": -1
+      },
+      {
+        "itemId": "H730",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-iii-vs-iv-iii-",
+    "name": "IV+/III- vs IV-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H241",
+        "keying": -1
+      },
+      {
+        "itemId": "G491",
+        "keying": -1
+      },
+      {
+        "itemId": "H1022",
+        "keying": -1
+      },
+      {
+        "itemId": "H309",
+        "keying": -1
+      },
+      {
+        "itemId": "G87",
+        "keying": -1
+      },
+      {
+        "itemId": "H766",
+        "keying": -1
+      },
+      {
+        "itemId": "H1460",
+        "keying": -1
+      },
+      {
+        "itemId": "H744",
+        "keying": -1
+      },
+      {
+        "itemId": "G410",
+        "keying": -1
+      },
+      {
+        "itemId": "H730",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-iii-vs-iv-iii-",
+    "name": "IV+/III- vs IV-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I180",
+        "keying": 1
+      },
+      {
+        "itemId": "E151",
+        "keying": 1
+      },
+      {
+        "itemId": "G78",
+        "keying": 1
+      },
+      {
+        "itemId": "J298",
+        "keying": 1
+      },
+      {
+        "itemId": "E141",
+        "keying": 1
+      },
+      {
+        "itemId": "H562",
+        "keying": 1
+      },
+      {
+        "itemId": "G145",
+        "keying": 1
+      },
+      {
+        "itemId": "I179",
+        "keying": -1
+      },
+      {
+        "itemId": "E92",
+        "keying": -1
+      },
+      {
+        "itemId": "E146",
+        "keying": -1
+      },
+      {
+        "itemId": "H921",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-v-vs-iv-v-",
+    "name": "IV+/V- vs IV-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I180",
+        "keying": 1
+      },
+      {
+        "itemId": "E151",
+        "keying": 1
+      },
+      {
+        "itemId": "G78",
+        "keying": 1
+      },
+      {
+        "itemId": "J298",
+        "keying": 1
+      },
+      {
+        "itemId": "E141",
+        "keying": 1
+      },
+      {
+        "itemId": "H562",
+        "keying": 1
+      },
+      {
+        "itemId": "G145",
+        "keying": 1
+      },
+      {
+        "itemId": "I179",
+        "keying": -1
+      },
+      {
+        "itemId": "E92",
+        "keying": -1
+      },
+      {
+        "itemId": "E146",
+        "keying": -1
+      },
+      {
+        "itemId": "H921",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-iv-v-vs-iv-v-",
+    "name": "IV+/V- vs IV-/V+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1276",
+        "keying": 1
+      },
+      {
+        "itemId": "H1272",
+        "keying": 1
+      },
+      {
+        "itemId": "H1358",
+        "keying": 1
+      },
+      {
+        "itemId": "H1284",
+        "keying": 1
+      },
+      {
+        "itemId": "E145",
+        "keying": 1
+      },
+      {
+        "itemId": "E123",
+        "keying": 1
+      },
+      {
+        "itemId": "G164",
+        "keying": -1
+      },
+      {
+        "itemId": "H1392",
+        "keying": -1
+      },
+      {
+        "itemId": "I398",
+        "keying": -1
+      },
+      {
+        "itemId": "H1401",
+        "keying": -1
+      },
+      {
+        "itemId": "H1439",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-v-vs-v-v-",
+    "name": "V+/V+ vs V-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1276",
+        "keying": 1
+      },
+      {
+        "itemId": "H1272",
+        "keying": 1
+      },
+      {
+        "itemId": "H1358",
+        "keying": 1
+      },
+      {
+        "itemId": "H1284",
+        "keying": 1
+      },
+      {
+        "itemId": "E145",
+        "keying": 1
+      },
+      {
+        "itemId": "E123",
+        "keying": 1
+      },
+      {
+        "itemId": "G164",
+        "keying": -1
+      },
+      {
+        "itemId": "H1392",
+        "keying": -1
+      },
+      {
+        "itemId": "I398",
+        "keying": -1
+      },
+      {
+        "itemId": "H1401",
+        "keying": -1
+      },
+      {
+        "itemId": "H1439",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-v-vs-v-v-",
+    "name": "V+/V+ vs V-/V-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G116",
+        "keying": 1
+      },
+      {
+        "itemId": "H1313",
+        "keying": 1
+      },
+      {
+        "itemId": "G423",
+        "keying": 1
+      },
+      {
+        "itemId": "G448",
+        "keying": 1
+      },
+      {
+        "itemId": "H471",
+        "keying": 1
+      },
+      {
+        "itemId": "G119",
+        "keying": 1
+      },
+      {
+        "itemId": "I40",
+        "keying": -1
+      },
+      {
+        "itemId": "H1382",
+        "keying": -1
+      },
+      {
+        "itemId": "G404",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-i-vs-v-i-",
+    "name": "V+/I+ vs V-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G116",
+        "keying": 1
+      },
+      {
+        "itemId": "H1313",
+        "keying": 1
+      },
+      {
+        "itemId": "G423",
+        "keying": 1
+      },
+      {
+        "itemId": "G448",
+        "keying": 1
+      },
+      {
+        "itemId": "H471",
+        "keying": 1
+      },
+      {
+        "itemId": "G119",
+        "keying": 1
+      },
+      {
+        "itemId": "I40",
+        "keying": -1
+      },
+      {
+        "itemId": "H1382",
+        "keying": -1
+      },
+      {
+        "itemId": "G404",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-i-vs-v-i-",
+    "name": "V+/I+ vs V-/I-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E105",
+        "keying": 1
+      },
+      {
+        "itemId": "H663",
+        "keying": 1
+      },
+      {
+        "itemId": "H1245",
+        "keying": 1
+      },
+      {
+        "itemId": "I161",
+        "keying": 1
+      },
+      {
+        "itemId": "E47",
+        "keying": 1
+      },
+      {
+        "itemId": "X81",
+        "keying": 1
+      },
+      {
+        "itemId": "X140",
+        "keying": 1
+      },
+      {
+        "itemId": "H1244",
+        "keying": 1
+      },
+      {
+        "itemId": "I42",
+        "keying": -1
+      },
+      {
+        "itemId": "I39",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-ii-vs-v-ii-",
+    "name": "V+/II+ vs V-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E105",
+        "keying": 1
+      },
+      {
+        "itemId": "H663",
+        "keying": 1
+      },
+      {
+        "itemId": "H1245",
+        "keying": 1
+      },
+      {
+        "itemId": "I161",
+        "keying": 1
+      },
+      {
+        "itemId": "E47",
+        "keying": 1
+      },
+      {
+        "itemId": "X81",
+        "keying": 1
+      },
+      {
+        "itemId": "X140",
+        "keying": 1
+      },
+      {
+        "itemId": "H1244",
+        "keying": 1
+      },
+      {
+        "itemId": "I42",
+        "keying": -1
+      },
+      {
+        "itemId": "I39",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-ii-vs-v-ii-",
+    "name": "V+/II+ vs V-/II-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1278",
+        "keying": 1
+      },
+      {
+        "itemId": "H1215",
+        "keying": 1
+      },
+      {
+        "itemId": "H1174",
+        "keying": 1
+      },
+      {
+        "itemId": "H372",
+        "keying": 1
+      },
+      {
+        "itemId": "H326",
+        "keying": 1
+      },
+      {
+        "itemId": "H1214",
+        "keying": 1
+      },
+      {
+        "itemId": "H1311",
+        "keying": 1
+      },
+      {
+        "itemId": "H1336",
+        "keying": 1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-iii-vs-v-iii-",
+    "name": "V+/III+ vs V-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "H1278",
+        "keying": 1
+      },
+      {
+        "itemId": "H1215",
+        "keying": 1
+      },
+      {
+        "itemId": "H1174",
+        "keying": 1
+      },
+      {
+        "itemId": "H372",
+        "keying": 1
+      },
+      {
+        "itemId": "H326",
+        "keying": 1
+      },
+      {
+        "itemId": "H1214",
+        "keying": 1
+      },
+      {
+        "itemId": "H1311",
+        "keying": 1
+      },
+      {
+        "itemId": "H1336",
+        "keying": 1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-iii-vs-v-iii-",
+    "name": "V+/III+ vs V-/III-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G390",
+        "keying": 1
+      },
+      {
+        "itemId": "G195",
+        "keying": 1
+      },
+      {
+        "itemId": "G425",
+        "keying": 1
+      },
+      {
+        "itemId": "J130",
+        "keying": 1
+      },
+      {
+        "itemId": "G71",
+        "keying": 1
+      },
+      {
+        "itemId": "G388",
+        "keying": 1
+      },
+      {
+        "itemId": "H1307",
+        "keying": 1
+      },
+      {
+        "itemId": "G253",
+        "keying": -1
+      },
+      {
+        "itemId": "E171",
+        "keying": -1
+      },
+      {
+        "itemId": "H1438",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-iv-vs-v-iv-",
+    "name": "V+/IV+ vs V-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "G390",
+        "keying": 1
+      },
+      {
+        "itemId": "G195",
+        "keying": 1
+      },
+      {
+        "itemId": "G425",
+        "keying": 1
+      },
+      {
+        "itemId": "J130",
+        "keying": 1
+      },
+      {
+        "itemId": "G71",
+        "keying": 1
+      },
+      {
+        "itemId": "G388",
+        "keying": 1
+      },
+      {
+        "itemId": "H1307",
+        "keying": 1
+      },
+      {
+        "itemId": "G253",
+        "keying": -1
+      },
+      {
+        "itemId": "E171",
+        "keying": -1
+      },
+      {
+        "itemId": "H1438",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-iv-vs-v-iv-",
+    "name": "V+/IV+ vs V-/IV-",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J416",
+        "keying": 1
+      },
+      {
+        "itemId": "I160",
+        "keying": 1
+      },
+      {
+        "itemId": "H659",
+        "keying": 1
+      },
+      {
+        "itemId": "E83",
+        "keying": 1
+      },
+      {
+        "itemId": "E72",
+        "keying": 1
+      },
+      {
+        "itemId": "H171",
+        "keying": 1
+      },
+      {
+        "itemId": "H1217",
+        "keying": 1
+      },
+      {
+        "itemId": "H587",
+        "keying": 1
+      },
+      {
+        "itemId": "H581",
+        "keying": 1
+      },
+      {
+        "itemId": "H660",
+        "keying": 1
+      },
+      {
+        "itemId": "G409",
+        "keying": -1
+      },
+      {
+        "itemId": "H1378",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-i-vs-v-i-",
+    "name": "V+/I- vs V-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J416",
+        "keying": 1
+      },
+      {
+        "itemId": "I160",
+        "keying": 1
+      },
+      {
+        "itemId": "H659",
+        "keying": 1
+      },
+      {
+        "itemId": "E83",
+        "keying": 1
+      },
+      {
+        "itemId": "E72",
+        "keying": 1
+      },
+      {
+        "itemId": "H171",
+        "keying": 1
+      },
+      {
+        "itemId": "H1217",
+        "keying": 1
+      },
+      {
+        "itemId": "H587",
+        "keying": 1
+      },
+      {
+        "itemId": "H581",
+        "keying": 1
+      },
+      {
+        "itemId": "H660",
+        "keying": 1
+      },
+      {
+        "itemId": "G409",
+        "keying": -1
+      },
+      {
+        "itemId": "H1378",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-i-vs-v-i-",
+    "name": "V+/I- vs V-/I+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J81",
+        "keying": 1
+      },
+      {
+        "itemId": "G231",
+        "keying": 1
+      },
+      {
+        "itemId": "H1267",
+        "keying": 1
+      },
+      {
+        "itemId": "G426",
+        "keying": 1
+      },
+      {
+        "itemId": "G383",
+        "keying": 1
+      },
+      {
+        "itemId": "I422",
+        "keying": -1
+      },
+      {
+        "itemId": "G255",
+        "keying": -1
+      },
+      {
+        "itemId": "G170",
+        "keying": -1
+      },
+      {
+        "itemId": "G459",
+        "keying": -1
+      },
+      {
+        "itemId": "G169",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-ii-vs-v-ii-",
+    "name": "V+/II- vs V-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "J81",
+        "keying": 1
+      },
+      {
+        "itemId": "G231",
+        "keying": 1
+      },
+      {
+        "itemId": "H1267",
+        "keying": 1
+      },
+      {
+        "itemId": "G426",
+        "keying": 1
+      },
+      {
+        "itemId": "G383",
+        "keying": 1
+      },
+      {
+        "itemId": "I422",
+        "keying": -1
+      },
+      {
+        "itemId": "G255",
+        "keying": -1
+      },
+      {
+        "itemId": "G170",
+        "keying": -1
+      },
+      {
+        "itemId": "G459",
+        "keying": -1
+      },
+      {
+        "itemId": "G169",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-ii-vs-v-ii-",
+    "name": "V+/II- vs V-/II+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I405",
+        "keying": 1
+      },
+      {
+        "itemId": "J265",
+        "keying": 1
+      },
+      {
+        "itemId": "G317",
+        "keying": 1
+      },
+      {
+        "itemId": "I164",
+        "keying": 1
+      },
+      {
+        "itemId": "E87",
+        "keying": 1
+      },
+      {
+        "itemId": "X86",
+        "keying": -1
+      },
+      {
+        "itemId": "I38",
+        "keying": -1
+      },
+      {
+        "itemId": "I43",
+        "keying": -1
+      },
+      {
+        "itemId": "J377",
+        "keying": -1
+      },
+      {
+        "itemId": "X135",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-iii-vs-v-iii-",
+    "name": "V+/III- vs V-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "I405",
+        "keying": 1
+      },
+      {
+        "itemId": "J265",
+        "keying": 1
+      },
+      {
+        "itemId": "G317",
+        "keying": 1
+      },
+      {
+        "itemId": "I164",
+        "keying": 1
+      },
+      {
+        "itemId": "E87",
+        "keying": 1
+      },
+      {
+        "itemId": "X86",
+        "keying": -1
+      },
+      {
+        "itemId": "I38",
+        "keying": -1
+      },
+      {
+        "itemId": "I43",
+        "keying": -1
+      },
+      {
+        "itemId": "J377",
+        "keying": -1
+      },
+      {
+        "itemId": "X135",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-iii-vs-v-iii-",
+    "name": "V+/III- vs V-/III+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E175",
+        "keying": 1
+      },
+      {
+        "itemId": "E163",
+        "keying": 1
+      },
+      {
+        "itemId": "H1212",
+        "keying": 1
+      },
+      {
+        "itemId": "E130",
+        "keying": 1
+      },
+      {
+        "itemId": "E125",
+        "keying": 1
+      },
+      {
+        "itemId": "E101",
+        "keying": 1
+      },
+      {
+        "itemId": "E133",
+        "keying": 1
+      },
+      {
+        "itemId": "E77",
+        "keying": -1
+      },
+      {
+        "itemId": "H1042",
+        "keying": -1
+      }
+    ]
+  },
+  {
+    "id": "ab5c-v-iv-vs-v-iv-",
+    "name": "V+/IV- vs V-/IV+",
+    "instrument": "AB5C",
+    "alpha": null,
+    "items": [
+      {
+        "itemId": "E175",
+        "keying": 1
+      },
+      {
+        "itemId": "E163",
+        "keying": 1
+      },
+      {
+        "itemId": "H1212",
+        "keying": 1
+      },
+      {
+        "itemId": "E130",
+        "keying": 1
+      },
+      {
+        "itemId": "E125",
+        "keying": 1
+      },
+      {
+        "itemId": "E101",
+        "keying": 1
+      },
+      {
+        "itemId": "E133",
+        "keying": 1
+      },
+      {
+        "itemId": "E77",
+        "keying": -1
+      },
+      {
+        "itemId": "H1042",
+        "keying": -1
+      }
+    ]
   }
 ]
